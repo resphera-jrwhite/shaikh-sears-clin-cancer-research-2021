@@ -1,0 +1,4 @@
+"Rtype"	"Type"	"Peters Melanoma"	"Richard NSCLC"	"Zheng HCC"
+"Response2"	"re-analysis-r"	"79.6875"	"41.3825757575757"	"66.6666666666667"
+"Response2"	"re-analysis-nr"	"67.1875"	"56.344696969697"	"86.6666666666667"
+"Response2"	"re-analysis-agg"	"81.25"	"47.4431818181818"	"93.3333333333334"

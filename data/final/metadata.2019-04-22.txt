@@ -1,0 +1,496 @@
+SampleID	Study	PatientID	CancerType	Timept	DataType	Original Response	Response	Clean Seqs	Age	Gender	AbxExposure	PFS3Mo	PFS6Mo	Cohort	UseforOrig	UseforMeta	FrankelIpiNivo
+SRR5367542.R1	Chaput	G001	Melanoma	T0	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	Yes	Yes	No
+SRR5367541.R1	Chaput	G001	Melanoma	T4	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367543.R1	Chaput	G001	Melanoma	Ztox	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367544.R1	Chaput	G001	Melanoma	ZZposttox	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367540.R1	Chaput	G003	Melanoma	T0	16SrRNA	LTBenefit	R	2000	N/A	N/A	no	N/A	N/A	N/A	Yes	Yes	No
+SRR5367539.R1	Chaput	G003	Melanoma	T2	16SrRNA	LTBenefit	R	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367538.R1	Chaput	G003	Melanoma	T3	16SrRNA	LTBenefit	R	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367537.R1	Chaput	G004	Melanoma	T0	16SrRNA	LTBenefit	R	2000	N/A	N/A	no	N/A	N/A	N/A	Yes	Yes	No
+SRR5367536.R1	Chaput	G004	Melanoma	T1	16SrRNA	LTBenefit	R	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367535.R1	Chaput	G004	Melanoma	T2	16SrRNA	LTBenefit	R	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367534.R1	Chaput	G004	Melanoma	T3	16SrRNA	LTBenefit	R	1783	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367533.R1	Chaput	G006	Melanoma	T0	16SrRNA	LTBenefit	R	1644	N/A	N/A	no	N/A	N/A	N/A	Yes	Yes	No
+SRR5367532.R1	Chaput	G006	Melanoma	T1	16SrRNA	LTBenefit	R	1895	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367531.R1	Chaput	G006	Melanoma	T2	16SrRNA	LTBenefit	R	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367530.R1	Chaput	G006	Melanoma	T3	16SrRNA	LTBenefit	R	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367527.R1	Chaput	G008	Melanoma	T0	16SrRNA	LTBenefit	R	2000	N/A	N/A	no	N/A	N/A	N/A	Yes	Yes	No
+SRR5367526.R1	Chaput	G008	Melanoma	T1	16SrRNA	LTBenefit	R	2000	N/A	N/A	yes	N/A	N/A	N/A	No	No	No
+SRR5367525.R1	Chaput	G008	Melanoma	T2	16SrRNA	LTBenefit	R	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367524.R1	Chaput	G008	Melanoma	T3	16SrRNA	LTBenefit	R	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367528.R1	Chaput	G008	Melanoma	Ztox	16SrRNA	LTBenefit	R	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367529.R1	Chaput	G008	Melanoma	ZZposttox	16SrRNA	LTBenefit	R	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367523.R1	Chaput	G009	Melanoma	T0	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	Yes	Yes	No
+SRR5367522.R1	Chaput	G009	Melanoma	T2	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367520.R1	Chaput	G012	Melanoma	T0	16SrRNA	LTBenefit	R	2000	N/A	N/A	no	N/A	N/A	N/A	Yes	Yes	No
+SRR5367519.R1	Chaput	G012	Melanoma	T1	16SrRNA	LTBenefit	R	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367518.R1	Chaput	G012	Melanoma	T2	16SrRNA	LTBenefit	R	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367517.R1	Chaput	G012	Melanoma	T3	16SrRNA	LTBenefit	R	2000	N/A	N/A	yes	N/A	N/A	N/A	No	No	No
+SRR5367521.R1	Chaput	G012	Melanoma	Ztox	16SrRNA	LTBenefit	R	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367515.R1	Chaput	G014	Melanoma	T0	16SrRNA	LTBenefit	R	2000	N/A	N/A	no	N/A	N/A	N/A	Yes	Yes	No
+SRR5367516.R1	Chaput	G014	Melanoma	Ztox	16SrRNA	LTBenefit	R	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367513.R1	Chaput	G015	Melanoma	T0	16SrRNA	LTBenefit	R	2000	N/A	N/A	no	N/A	N/A	N/A	Yes	Yes	No
+SRR5367512.R1	Chaput	G015	Melanoma	T1	16SrRNA	LTBenefit	R	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367511.R1	Chaput	G015	Melanoma	T3	16SrRNA	LTBenefit	R	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367510.R1	Chaput	G015	Melanoma	T4	16SrRNA	LTBenefit	R	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367514.R1	Chaput	G015	Melanoma	Ztox	16SrRNA	LTBenefit	R	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367508.R1	Chaput	G016	Melanoma	T0	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	Yes	Yes	No
+SRR5367507.R1	Chaput	G016	Melanoma	T1	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367506.R1	Chaput	G016	Melanoma	T2	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367509.R1	Chaput	G016	Melanoma	Ztox	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367505.R1	Chaput	G017	Melanoma	T0	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	Yes	Yes	No
+SRR5367504.R1	Chaput	G017	Melanoma	T2	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367503.R1	Chaput	G017	Melanoma	T3	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367502.R1	Chaput	G017	Melanoma	T4	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367501	Chaput	G020	Melanoma	T0	16SrRNA	LTBenefit	R	2000	N/A	N/A	yes	N/A	N/A	N/A	Yes	Yes	No
+SRR5367500	Chaput	G020	Melanoma	T1	16SrRNA	LTBenefit	R	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367499	Chaput	G020	Melanoma	T3	16SrRNA	LTBenefit	R	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367498	Chaput	G021	Melanoma	T0	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	yes	N/A	N/A	N/A	Yes	Yes	No
+SRR5367497	Chaput	G021	Melanoma	T1	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367496	Chaput	G021	Melanoma	T2	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367495	Chaput	G022	Melanoma	T0	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	Yes	Yes	No
+SRR5367494	Chaput	G024	Melanoma	T0	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	Yes	Yes	No
+SRR5367493	Chaput	G024	Melanoma	T1	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	yes	N/A	N/A	N/A	No	No	No
+SRR5367492	Chaput	G028	Melanoma	T0	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	Yes	Yes	No
+SRR5367491	Chaput	G028	Melanoma	T1	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367490	Chaput	G028	Melanoma	T2	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367489	Chaput	G028	Melanoma	T3	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367488	Chaput	G030	Melanoma	T0	16SrRNA	LTBenefit	R	2000	N/A	N/A	no	N/A	N/A	N/A	Yes	Yes	No
+SRR5367487	Chaput	G034	Melanoma	T0	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	yes	N/A	N/A	N/A	Yes	Yes	No
+SRR5367485	Chaput	G035	Melanoma	T0	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	Yes	Yes	No
+SRR5367484	Chaput	G035	Melanoma	T3	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367486	Chaput	G035	Melanoma	Ztox	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367483	Chaput	G036	Melanoma	T0	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	Yes	Yes	No
+SRR5367482	Chaput	G036	Melanoma	T1	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367481	Chaput	G036	Melanoma	T2	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367480	Chaput	G037	Melanoma	T0	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	Yes	Yes	No
+SRR5367479	Chaput	G037	Melanoma	T1	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367478	Chaput	G037	Melanoma	T2	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367477	Chaput	G037	Melanoma	T3	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367476	Chaput	G038	Melanoma	T0	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	Yes	Yes	No
+SRR5367475	Chaput	G039	Melanoma	T0	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	Yes	Yes	No
+SRR5367474	Chaput	G039	Melanoma	T1	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367473	Chaput	G039	Melanoma	T3	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367472	Chaput	G039	Melanoma	T4	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367471	Chaput	G041	Melanoma	T1	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367470	Chaput	G041	Melanoma	T2	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367469	Chaput	G041	Melanoma	T3	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367468	Chaput	G042	Melanoma	T0	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	yes	N/A	N/A	N/A	Yes	Yes	No
+SRR5367467	Chaput	G042	Melanoma	T1	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367466	Chaput	G046	Melanoma	T0	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	Yes	Yes	No
+SRR5367465	Chaput	G046	Melanoma	T1	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5367464	Chaput	G046	Melanoma	T2	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	yes	N/A	N/A	N/A	No	No	No
+SRR5367463	Chaput	G048	Melanoma	T0	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	Yes	Yes	No
+SRR5367462	Chaput	G048	Melanoma	T2	16SrRNA	PoorBenefit	NR	2000	N/A	N/A	no	N/A	N/A	N/A	No	No	No
+SRR5930498	Frankel	P10	Melanoma	T0	WGS	response	R	54317314	75	male	no	N/A	N/A	N/A	Yes	Yes	Yes
+SRR5930499	Frankel	P14	Melanoma	T0	WGS	response	R	47189970	69	female	no	N/A	N/A	N/A	Yes	Yes	Yes
+SRR5930501	Frankel	P16	Melanoma	T0	WGS	progression	NR	35766732	80	male	no	N/A	N/A	N/A	Yes	Yes	No
+SRR5930502	Frankel	P17	Melanoma	T0	WGS	response	R	50953650	68	male	no	N/A	N/A	N/A	Yes	Yes	Yes
+SRR5930493	Frankel	P22	Melanoma	T0	WGS	progression	NR	36067122	64	male	yes	N/A	N/A	N/A	Yes	Yes	No
+SRR5930494	Frankel	P23	Melanoma	T0	WGS	response	R	55382132	76	male	no	N/A	N/A	N/A	Yes	Yes	Yes
+SRR5930526	Frankel	P24	Melanoma	T0	WGS	progression	NR	60853881	44	male	no	N/A	N/A	N/A	Yes	Yes	Yes
+SRR5930527	Frankel	P25	Melanoma	T0	WGS	response	R	50551417	60	female	no	N/A	N/A	N/A	Yes	Yes	Yes
+SRR5930528	Frankel	P28	Melanoma	T0	WGS	progression	NR	52671147	68	female	no	N/A	N/A	N/A	Yes	Yes	Yes
+SRR5930521	Frankel	P30	Melanoma	T0	WGS	progression	NR	34035103	54	male	no	N/A	N/A	N/A	Yes	Yes	Yes
+SRR5930522	Frankel	P32	Melanoma	T0	WGS	progression	NR	29677309	57	female	no	N/A	N/A	N/A	Yes	Yes	Yes
+SRR5930523	Frankel	P33	Melanoma	T0	WGS	response	R	31201086	74	female	no	N/A	N/A	N/A	Yes	Yes	No
+SRR5930533	Frankel	P34	Melanoma	T0	WGS	response	R	36137026	57	male	no	N/A	N/A	N/A	Yes	Yes	Yes
+SRR5930534	Frankel	P35	Melanoma	T0	WGS	response	R	36363921	63	male	no	N/A	N/A	N/A	Yes	Yes	Yes
+SRR5930511	Frankel	P39	Melanoma	T0	WGS	response	R	34863415	48	male	no	N/A	N/A	N/A	Yes	Yes	No
+SRR5930510	Frankel	P42	Melanoma	T0	WGS	progression	NR	26938477	67	male	no	N/A	N/A	N/A	Yes	Yes	No
+SRR5930513	Frankel	P44	Melanoma	T0	WGS	stable	R	19851797	63	female	yes	N/A	N/A	N/A	Yes	Yes	No
+SRR5930512	Frankel	P45	Melanoma	T0	WGS	stable	R	27658163	43	male	no	N/A	N/A	N/A	Yes	Yes	No
+SRR5930515	Frankel	P46	Melanoma	T0	WGS	progression	NR	26293603	68	male	no	N/A	N/A	N/A	Yes	Yes	Yes
+SRR5930514	Frankel	P48	Melanoma	T0	WGS	stable	R	30772313	86	male	no	N/A	N/A	N/A	Yes	Yes	No
+SRR5930517	Frankel	P49	Melanoma	T0	WGS	progression	NR	32005065	84	male	no	N/A	N/A	N/A	Yes	Yes	No
+SRR5930516	Frankel	P52	Melanoma	T0	WGS	response	R	45949708	41	male	no	N/A	N/A	N/A	Yes	Yes	Yes
+SRR5930509	Frankel	P53	Melanoma	T0	WGS	progression	NR	43249262	74	male	no	N/A	N/A	N/A	Yes	Yes	Yes
+SRR5930508	Frankel	P54	Melanoma	T0	WGS	progression	NR	44371081	79	male	no	N/A	N/A	N/A	Yes	Yes	Yes
+SRR5930536	Frankel	P55	Melanoma	T0	WGS	response	R	53034485	37	female	no	N/A	N/A	N/A	Yes	Yes	Yes
+SRR5930520	Frankel	P56	Melanoma	T0	WGS	progression	NR	42046273	66	male	no	N/A	N/A	N/A	Yes	Yes	No
+SRR5930503	Frankel	P57	Melanoma	T0	WGS	response	R	54487477	70	male	no	N/A	N/A	N/A	Yes	Yes	Yes
+SRR5930531	Frankel	P58	Melanoma	T0	WGS	response	R	43255420	52	male	no	N/A	N/A	N/A	Yes	Yes	No
+SRR5930532	Frankel	P59	Melanoma	T0	WGS	stable	R	55625159	78	male	no	N/A	N/A	N/A	Yes	Yes	Yes
+SRR5930529	Frankel	P61	Melanoma	T0	WGS	response	R	49495019	58	male	no	N/A	N/A	N/A	Yes	Yes	Yes
+SRR5930530	Frankel	P63	Melanoma	T0	WGS	response	R	47490244	63	male	no	N/A	N/A	N/A	Yes	Yes	Yes
+SRR5930518	Frankel	P64	Melanoma	T0	WGS	progression	NR	50452873	77	female	no	N/A	N/A	N/A	Yes	Yes	No
+SRR5930519	Frankel	P65	Melanoma	T0	WGS	progression	NR	48086433	69	male	no	N/A	N/A	N/A	Yes	Yes	No
+SRR5930507	Frankel	P66	Melanoma	T0	WGS	progression	NR	48525757	80	male	no	N/A	N/A	N/A	Yes	Yes	Yes
+SRR5930506	Frankel	P67	Melanoma	T0	WGS	response	R	55837313	83	male	no	N/A	N/A	N/A	Yes	Yes	Yes
+SRR5930505	Frankel	P68	Melanoma	T0	WGS	response	R	50164221	92	male	no	N/A	N/A	N/A	Yes	Yes	Yes
+SRR5930504	Frankel	P69	Melanoma	T0	WGS	response	R	45627563	55	female	no	N/A	N/A	N/A	Yes	Yes	Yes
+SRR5930495	Frankel	P7	Melanoma	T0	WGS	stable	R	48725996	63	male	yes	N/A	N/A	N/A	Yes	Yes	Yes
+SRR5930497	Frankel	P8	Melanoma	T0	WGS	response	R	52929172	70	male	no	N/A	N/A	N/A	Yes	Yes	Yes
+SRR5930500	Frankel	P14	Melanoma	T1	WGS	response	R	29032443	69	female	no	N/A	N/A	N/A	No	No	No
+SRR5930525	Frankel	P23	Melanoma	T1	WGS	response	R	31766862	76	male	no	N/A	N/A	N/A	No	No	No
+SRR5930524	Frankel	P33	Melanoma	T1	WGS	response	R	33071541	74	female	no	N/A	N/A	N/A	No	No	No
+SRR5930535	Frankel	P54	Melanoma	T1	WGS	progression	NR	42389632	79	male	no	N/A	N/A	N/A	No	No	No
+SRR5930496	Frankel	P7	Melanoma	T1	WGS	stable	R	52293906	63	male	yes	N/A	N/A	N/A	No	No	No
+Wargo.109865	Gopalakrishnan	P109865	Melanoma	T0	16SrRNA	NR	NR	8000	60	male	N/A	N/A	N/A	N/A	Yes	Yes	No
+ERR2162200	Gopalakrishnan	P109865	Melanoma	T0	WGS	NR	NR	12221303	60	male	N/A	N/A	N/A	N/A	No	No	No
+Wargo.115690	Gopalakrishnan	P115690	Melanoma	T0	16SrRNA	R	R	8000	88	male	N/A	N/A	N/A	N/A	Yes	Yes	No
+ERR2162201	Gopalakrishnan	P115690	Melanoma	T0	WGS	R	R	13918013	88	male	N/A	N/A	N/A	N/A	No	No	No
+Wargo.116774	Gopalakrishnan	P116774	Melanoma	T0	16SrRNA	NR	NR	8000	79	female	N/A	N/A	N/A	N/A	Yes	Yes	No
+ERR2162202	Gopalakrishnan	P116774	Melanoma	T0	WGS	NR	NR	20813974	79	female	N/A	N/A	N/A	N/A	No	No	No
+ERR2162203	Gopalakrishnan	P117186	Melanoma	T0	WGS	R	R	8707384	67	female	N/A	N/A	N/A	N/A	No	No	No
+Wargo.117349	Gopalakrishnan	P117349	Melanoma	T0	16SrRNA	R	R	8000	57	male	N/A	N/A	N/A	N/A	Yes	Yes	No
+Wargo.118369	Gopalakrishnan	P118369	Melanoma	T0	16SrRNA	NR	NR	8000	72	male	N/A	N/A	N/A	N/A	Yes	Yes	No
+ERR2162204	Gopalakrishnan	P118369	Melanoma	T0	WGS	NR	NR	8063195	72	male	N/A	N/A	N/A	N/A	No	No	No
+Wargo.118370	Gopalakrishnan	P118370	Melanoma	T0	16SrRNA	R	R	8000	62	female	N/A	N/A	N/A	N/A	Yes	Yes	No
+Wargo.120662	Gopalakrishnan	P120662	Melanoma	T0	16SrRNA	R	R	8000	77	male	N/A	N/A	N/A	N/A	Yes	Yes	No
+ERR2162205	Gopalakrishnan	P120662	Melanoma	T0	WGS	R	R	21616115	77	male	N/A	N/A	N/A	N/A	No	No	No
+Wargo.121296	Gopalakrishnan	P121296	Melanoma	T0	16SrRNA	R	R	8000	79	male	N/A	N/A	N/A	N/A	Yes	Yes	No
+ERR2162206	Gopalakrishnan	P121296	Melanoma	T0	WGS	R	R	13496457	79	male	N/A	N/A	N/A	N/A	No	No	No
+Wargo.121409	Gopalakrishnan	P121409	Melanoma	T0	16SrRNA	R	R	8000	53	male	N/A	N/A	N/A	N/A	Yes	Yes	No
+Wargo.121585	Gopalakrishnan	P121585	Melanoma	T0	16SrRNA	NR	NR	8000	76	female	N/A	N/A	N/A	N/A	Yes	Yes	No
+ERR2162207	Gopalakrishnan	P121585	Melanoma	T0	WGS	NR	NR	8932629	76	female	N/A	N/A	N/A	N/A	No	No	No
+Wargo.121891	Gopalakrishnan	P121891	Melanoma	T0	16SrRNA	NR	NR	8000	79	male	N/A	N/A	N/A	N/A	Yes	Yes	No
+ERR2162208	Gopalakrishnan	P121891	Melanoma	T0	WGS	NR	NR	18979022	79	male	N/A	N/A	N/A	N/A	No	No	No
+Wargo.121892	Gopalakrishnan	P121892	Melanoma	T0	16SrRNA	R	R	8000	67	female	N/A	N/A	N/A	N/A	Yes	Yes	No
+Wargo.122114	Gopalakrishnan	P122114	Melanoma	T0	16SrRNA	R	R	8000	29	male	N/A	N/A	N/A	N/A	Yes	Yes	No
+Wargo.122410	Gopalakrishnan	P122410	Melanoma	T0	16SrRNA	R	R	8000	55	male	N/A	N/A	N/A	N/A	Yes	Yes	No
+Wargo.122412	Gopalakrishnan	P122412	Melanoma	T0	16SrRNA	R	R	8000	68	male	N/A	N/A	N/A	N/A	Yes	Yes	No
+Wargo.122637	Gopalakrishnan	P122637	Melanoma	T0	16SrRNA	NR	NR	8000	49	female	N/A	N/A	N/A	N/A	Yes	Yes	No
+Wargo.122639	Gopalakrishnan	P122639	Melanoma	T0	16SrRNA	R	R	8000	49	male	N/A	N/A	N/A	N/A	Yes	Yes	No
+Wargo.122724	Gopalakrishnan	P122724	Melanoma	T0	16SrRNA	NR	NR	8000	42	female	N/A	N/A	N/A	N/A	Yes	Yes	No
+ERR2162209	Gopalakrishnan	P122724	Melanoma	T0	WGS	NR	NR	20006202	42	female	N/A	N/A	N/A	N/A	No	No	No
+Wargo.123009	Gopalakrishnan	P123009	Melanoma	T0	16SrRNA	NR	NR	8000	70	male	N/A	N/A	N/A	N/A	Yes	Yes	No
+ERR2162210	Gopalakrishnan	P123009	Melanoma	T0	WGS	NR	NR	14332130	70	male	N/A	N/A	N/A	N/A	No	No	No
+Wargo.123197	Gopalakrishnan	P123197	Melanoma	T0	16SrRNA	R	R	8000	73	female	N/A	N/A	N/A	N/A	Yes	Yes	No
+ERR2162211	Gopalakrishnan	P123197	Melanoma	T0	WGS	R	R	19724770	73	female	N/A	N/A	N/A	N/A	No	No	No
+Wargo.123305	Gopalakrishnan	P123305	Melanoma	T0	16SrRNA	NR	NR	8000	57	female	N/A	N/A	N/A	N/A	Yes	Yes	No
+Wargo.123704	Gopalakrishnan	P123704	Melanoma	T0	16SrRNA	R	R	8000	62	male	N/A	N/A	N/A	N/A	Yes	Yes	No
+Wargo.123986	Gopalakrishnan	P123986	Melanoma	T0	16SrRNA	R	R	8000	80	male	N/A	N/A	N/A	N/A	Yes	Yes	No
+Wargo.124418	Gopalakrishnan	P124418	Melanoma	T0	16SrRNA	R	R	8000	87	male	N/A	N/A	N/A	N/A	Yes	Yes	No
+ERR2162212	Gopalakrishnan	P124418	Melanoma	T0	WGS	R	R	19119666	87	male	N/A	N/A	N/A	N/A	No	No	No
+Wargo.124419	Gopalakrishnan	P124419	Melanoma	T0	16SrRNA	R	R	8000	77	female	N/A	N/A	N/A	N/A	Yes	Yes	No
+Wargo.124421	Gopalakrishnan	P124421	Melanoma	T0	16SrRNA	R	R	8000	58	male	N/A	N/A	N/A	N/A	Yes	Yes	No
+Wargo.126747	Gopalakrishnan	P126747	Melanoma	T0	16SrRNA	R	R	8000	86	male	N/A	N/A	N/A	N/A	Yes	Yes	No
+Wargo.126802	Gopalakrishnan	P126802	Melanoma	T0	16SrRNA	NR	NR	8000	80	male	N/A	N/A	N/A	N/A	Yes	Yes	No
+ERR2162213	Gopalakrishnan	P126802	Melanoma	T0	WGS	NR	NR	20140734	80	male	N/A	N/A	N/A	N/A	No	No	No
+Wargo.127261	Gopalakrishnan	P127261	Melanoma	T0	16SrRNA	R	R	8000	59	male	N/A	N/A	N/A	N/A	Yes	Yes	No
+Wargo.127262	Gopalakrishnan	P127262	Melanoma	T0	16SrRNA	R	R	8000	83	male	N/A	N/A	N/A	N/A	Yes	Yes	No
+Wargo.130510	Gopalakrishnan	P130510	Melanoma	T0	16SrRNA	R	R	8000	48	male	N/A	N/A	N/A	N/A	Yes	Yes	No
+ERR2162214	Gopalakrishnan	P130510	Melanoma	T0	WGS	R	R	15320231	48	male	N/A	N/A	N/A	N/A	No	No	No
+Wargo.130511	Gopalakrishnan	P130511	Melanoma	T0	16SrRNA	NR	NR	8000	53	male	N/A	N/A	N/A	N/A	Yes	Yes	No
+ERR2162215	Gopalakrishnan	P130511	Melanoma	T0	WGS	NR	NR	18234407	53	male	N/A	N/A	N/A	N/A	No	No	No
+Wargo.130801	Gopalakrishnan	P130801	Melanoma	T0	16SrRNA	R	R	8000	37	female	N/A	N/A	N/A	N/A	Yes	Yes	No
+Wargo.131051	Gopalakrishnan	P131051	Melanoma	T0	16SrRNA	R	R	8000	68	female	N/A	N/A	N/A	N/A	Yes	Yes	No
+ERR2162216	Gopalakrishnan	P131051	Melanoma	T0	WGS	R	R	21516313	68	female	N/A	N/A	N/A	N/A	No	No	No
+Wargo.131300	Gopalakrishnan	P131300	Melanoma	T0	16SrRNA	R	R	8000	65	male	N/A	N/A	N/A	N/A	Yes	Yes	No
+ERR2162217	Gopalakrishnan	P131300	Melanoma	T0	WGS	R	R	13533811	65	male	N/A	N/A	N/A	N/A	No	No	No
+Wargo.131302	Gopalakrishnan	P131302	Melanoma	T0	16SrRNA	R	R	8000	60	female	N/A	N/A	N/A	N/A	Yes	Yes	No
+Wargo.131512	Gopalakrishnan	P131512	Melanoma	T0	16SrRNA	NR	NR	8000	72	male	N/A	N/A	N/A	N/A	Yes	Yes	No
+ERR2162218	Gopalakrishnan	P131512	Melanoma	T0	WGS	NR	NR	12944550	72	male	N/A	N/A	N/A	N/A	No	No	No
+Wargo.131541	Gopalakrishnan	P131541	Melanoma	T0	16SrRNA	R	R	8000	66	male	N/A	N/A	N/A	N/A	Yes	Yes	No
+ERR2162219	Gopalakrishnan	P131541	Melanoma	T0	WGS	R	R	16324351	66	male	N/A	N/A	N/A	N/A	No	No	No
+Wargo.132265	Gopalakrishnan	P132265	Melanoma	T0	16SrRNA	R	R	8000	57	male	N/A	N/A	N/A	N/A	Yes	Yes	No
+ERR2162220	Gopalakrishnan	P132265	Melanoma	T0	WGS	R	R	17308536	57	male	N/A	N/A	N/A	N/A	No	No	No
+Wargo.132266	Gopalakrishnan	P132266	Melanoma	T0	16SrRNA	R	R	8000	63	female	N/A	N/A	N/A	N/A	Yes	Yes	No
+ERR2162221	Gopalakrishnan	P132266	Melanoma	T0	WGS	R	R	18980740	63	female	N/A	N/A	N/A	N/A	No	No	No
+Wargo.132268	Gopalakrishnan	P132268	Melanoma	T0	16SrRNA	R	R	8000	21	female	N/A	N/A	N/A	N/A	Yes	Yes	No
+ERR2162222	Gopalakrishnan	P132268	Melanoma	T0	WGS	R	R	13315049	21	female	N/A	N/A	N/A	N/A	No	No	No
+Wargo.132538	Gopalakrishnan	P132538	Melanoma	T0	16SrRNA	NR	NR	8000	65	male	N/A	N/A	N/A	N/A	Yes	Yes	No
+ERR2162223	Gopalakrishnan	P132538	Melanoma	T0	WGS	NR	NR	13408007	65	male	N/A	N/A	N/A	N/A	No	No	No
+Wargo.133270	Gopalakrishnan	P133270	Melanoma	T0	16SrRNA	R	R	8000	82	female	N/A	N/A	N/A	N/A	Yes	Yes	No
+ERR2162224	Gopalakrishnan	P133270	Melanoma	T0	WGS	R	R	17287477	82	female	N/A	N/A	N/A	N/A	No	No	No
+SRR6000938	Matson	P01	Melanoma	T0	16SrRNA	NR	NR	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000894	Matson	P01	Melanoma	T0	WGS	NR	NR	36728222	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000937	Matson	P02	Melanoma	T0	16SrRNA	R	R	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000893	Matson	P02	Melanoma	T0	WGS	R	R	20830733	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000948	Matson	P03	Melanoma	T0	16SrRNA	NR	NR	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000899	Matson	P03	Melanoma	T0	WGS	NR	NR	51573942	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000941	Matson	P04	Melanoma	T0	16SrRNA	NR	NR	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000873	Matson	P04	Melanoma	T0	WGS	NR	NR	20743094	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000935	Matson	P05	Melanoma	T0	16SrRNA	NR	NR	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000874	Matson	P05	Melanoma	T0	WGS	NR	NR	31592474	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000934	Matson	P06	Melanoma	T0	16SrRNA	NR	NR	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000877	Matson	P06	Melanoma	T0	WGS	NR	NR	70528967	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000936	Matson	P07	Melanoma	T0	16SrRNA	R	R	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000871	Matson	P07	Melanoma	T0	WGS	R	R	26743107	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000939	Matson	P08	Melanoma	T0	16SrRNA	NR	NR	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000878	Matson	P08	Melanoma	T0	WGS	NR	NR	35090967	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000933	Matson	P09	Melanoma	T0	16SrRNA	R	R	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000904	Matson	P10	Melanoma	T0	16SrRNA	NR	NR	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000944	Matson	P10	Melanoma	T0	WGS	NR	NR	73937183	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000930	Matson	P11	Melanoma	T0	16SrRNA	NR	NR	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000940	Matson	P11	Melanoma	T0	WGS	NR	NR	38875408	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000929	Matson	P12	Melanoma	T0	16SrRNA	NR	NR	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000945	Matson	P12	Melanoma	T0	WGS	NR	NR	24195770	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000928	Matson	P13	Melanoma	T0	16SrRNA	R	R	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000943	Matson	P13	Melanoma	T0	WGS	R	R	44781608	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000927	Matson	P14	Melanoma	T0	16SrRNA	NR	NR	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000890	Matson	P14	Melanoma	T0	WGS	NR	NR	19420853	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000926	Matson	P15	Melanoma	T0	16SrRNA	NR	NR	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000869	Matson	P15	Melanoma	T0	WGS	NR	NR	78338892	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000925	Matson	P16	Melanoma	T0	16SrRNA	R	R	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000946	Matson	P16	Melanoma	T0	WGS	R	R	23077843	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000924	Matson	P17	Melanoma	T0	16SrRNA	NR	NR	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000949	Matson	P17	Melanoma	T0	WGS	NR	NR	66471810	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000923	Matson	P18	Melanoma	T0	16SrRNA	NR	NR	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000896	Matson	P18	Melanoma	T0	WGS	NR	NR	51563560	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000922	Matson	P19	Melanoma	T0	16SrRNA	NR	NR	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000947	Matson	P19	Melanoma	T0	WGS	NR	NR	46826306	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000919	Matson	P20	Melanoma	T0	16SrRNA	R	R	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000903	Matson	P20	Melanoma	T0	WGS	R	R	23840902	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000886	Matson	P21	Melanoma	T0	16SrRNA	NR	NR	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000905	Matson	P21	Melanoma	T0	WGS	NR	NR	73173776	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000887	Matson	P22	Melanoma	T0	16SrRNA	NR	NR	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000902	Matson	P22	Melanoma	T0	WGS	NR	NR	29540457	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000884	Matson	P23	Melanoma	T0	16SrRNA	R	R	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000901	Matson	P23	Melanoma	T0	WGS	R	R	54206526	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000885	Matson	P24	Melanoma	T0	16SrRNA	R	R	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000906	Matson	P24	Melanoma	T0	WGS	R	R	39219508	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000882	Matson	P25	Melanoma	T0	16SrRNA	NR	NR	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000942	Matson	P25	Melanoma	T0	WGS	NR	NR	21117658	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000883	Matson	P26	Melanoma	T0	16SrRNA	NR	NR	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000910	Matson	P26	Melanoma	T0	WGS	NR	NR	35853899	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000880	Matson	P27	Melanoma	T0	16SrRNA	R	R	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000900	Matson	P27	Melanoma	T0	WGS	R	R	28210234	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000881	Matson	P28	Melanoma	T0	16SrRNA	R	R	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000931	Matson	P28	Melanoma	T0	WGS	R	R	51398833	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000888	Matson	P29	Melanoma	T0	16SrRNA	R	R	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000870	Matson	P29	Melanoma	T0	WGS	R	R	30745596	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000889	Matson	P30	Melanoma	T0	16SrRNA	NR	NR	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000907	Matson	P30	Melanoma	T0	WGS	NR	NR	34084830	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000918	Matson	P31	Melanoma	T0	16SrRNA	NR	NR	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000891	Matson	P31	Melanoma	T0	WGS	NR	NR	23380079	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000917	Matson	P32	Melanoma	T0	16SrRNA	NR	NR	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000909	Matson	P32	Melanoma	T0	WGS	NR	NR	43629321	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000879	Matson	P33	Melanoma	T0	16SrRNA	R	R	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000908	Matson	P33	Melanoma	T0	WGS	R	R	27260285	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000872	Matson	P34	Melanoma	T0	16SrRNA	R	R	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000911	Matson	P34	Melanoma	T0	WGS	R	R	32122005	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000914	Matson	P35	Melanoma	T0	16SrRNA	NR	NR	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000892	Matson	P35	Melanoma	T0	WGS	NR	NR	51481586	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000913	Matson	P36	Melanoma	T0	16SrRNA	R	R	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000920	Matson	P36	Melanoma	T0	WGS	R	R	65163248	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000916	Matson	P37	Melanoma	T0	16SrRNA	R	R	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000912	Matson	P37	Melanoma	T0	WGS	R	R	39716327	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000915	Matson	P38	Melanoma	T0	16SrRNA	NR	NR	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000921	Matson	P38	Melanoma	T0	WGS	NR	NR	32407863	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000898	Matson	P39	Melanoma	T0	16SrRNA	R	R	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000932	Matson	P39	Melanoma	T0	WGS	R	R	20584684	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000897	Matson	P40	Melanoma	T0	16SrRNA	NR	NR	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000895	Matson	P40	Melanoma	T0	WGS	NR	NR	48744996	N/A	N/A	N/A	N/A	N/A	N/A	No	No	No
+SRR6000875	Matson	P41	Melanoma	T0	16SrRNA	NR	NR	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+SRR6000876	Matson	P42	Melanoma	T0	16SrRNA	NR	NR	10000	N/A	N/A	N/A	N/A	N/A	N/A	Yes	Yes	No
+ERR2213660	Routy NSCLC	NSCLC.B.001	NSCLC	T0	WGS	Stable	R	21714986	60	female	no	Above	Below	discovery	Yes	Yes	No
+ERR2213661	Routy NSCLC	NSCLC.B.001	NSCLC	T1	WGS	Stable	R	21146057	60	female	no	Above	Below	discovery	No	No	No
+ERR2213662	Routy NSCLC	NSCLC.B.001	NSCLC	T2	WGS	Stable	R	21321063	60	female	no	Above	Below	discovery	No	No	No
+ERR2213663	Routy NSCLC	NSCLC.B.002	NSCLC	T1	WGS	Progression	NR	20684200	69	male	no	Below	Below	discovery	Yes	Yes	No
+ERR2213664	Routy NSCLC	NSCLC.B.003	NSCLC	T1	WGS	Progression	NR	21396108	59	male	no	Below	Below	discovery	Yes	Yes	No
+ERR2213665	Routy NSCLC	NSCLC.B.004	NSCLC	T0	WGS	Stable	R	21551274	61	male	no	Above	Below	discovery	Yes	Yes	No
+ERR2213666	Routy NSCLC	NSCLC.B.005	NSCLC	T0	WGS	Stable	R	21076511	77	male	no	Above	Below	discovery	Yes	Yes	No
+ERR2213667	Routy NSCLC	NSCLC.B.005	NSCLC	T1	WGS	Stable	R	21033212	77	male	no	Above	Below	discovery	No	No	No
+ERR2213668	Routy NSCLC	NSCLC.B.005	NSCLC	T2	WGS	Stable	R	21054227	77	male	no	Above	Below	discovery	No	No	No
+ERR2213669	Routy NSCLC	NSCLC.B.006	NSCLC	T0	WGS	Progression	NR	21198459	48	male	no	Below	Below	discovery	Yes	Yes	No
+ERR2213670	Routy NSCLC	NSCLC.B.006	NSCLC	T1	WGS	Progression	NR	21212963	48	male	no	Below	Below	discovery	No	No	No
+ERR2213671	Routy NSCLC	NSCLC.B.008	NSCLC	T1	WGS	Progression	NR	21245510	70	male	no	Below	Below	discovery	Yes	Yes	No
+ERR2213672	Routy NSCLC	NSCLC.B.009	NSCLC	T0	WGS	Dead	NR	21854497	67	male	yes	Below	Below	discovery	Yes	Yes	No
+ERR2213673	Routy NSCLC	NSCLC.B.010	NSCLC	T1	WGS	Stable	R	21035356	61	male	no	Below	Below	discovery	Yes	Yes	No
+ERR2213674	Routy NSCLC	NSCLC.B.012	NSCLC	T1	WGS	Stable	R	20595788	54	male	yes	Below	Below	discovery	Yes	Yes	No
+ERR2213675	Routy NSCLC	NSCLC.B.013	NSCLC	T0	WGS	Partial response	R	21481194	66	female	no	Above	Not determined	discovery	Yes	Yes	No
+ERR2213676	Routy NSCLC	NSCLC.B.013	NSCLC	T1	WGS	Partial response	R	21362430	66	female	no	Above	Not determined	discovery	No	No	No
+ERR2213677	Routy NSCLC	NSCLC.B.015	NSCLC	T0	WGS	Stable	R	21781676	64	male	no	Above	Not determined	discovery	Yes	Yes	No
+ERR2213678	Routy NSCLC	NSCLC.B.015	NSCLC	T1	WGS	Stable	R	23929094	64	male	no	Above	Not determined	discovery	No	No	No
+ERR2213679	Routy NSCLC	NSCLC.B.016	NSCLC	T1	WGS	Progression	NR	21535762	32	male	no	Below	Below	discovery	Yes	Yes	No
+ERR2213680	Routy NSCLC	NSCLC.B.017	NSCLC	T0	WGS	Stable	R	20333746	69	male	no	Above	Not determined	discovery	Yes	Yes	No
+ERR2213681	Routy NSCLC	NSCLC.C.001	NSCLC	T1	WGS	Stable	R	21106212	65	male	no	Above	Above	discovery	Yes	Yes	No
+ERR2213682	Routy NSCLC	NSCLC.C.004	NSCLC	T0	WGS	Progression	NR	21078892	76	male	no	Below	Below	discovery	Yes	Yes	No
+ERR2213683	Routy NSCLC	NSCLC.C.004	NSCLC	T1	WGS	Progression	NR	20867098	76	male	no	Below	Below	discovery	No	No	No
+ERR2213684	Routy NSCLC	NSCLC.C.004	NSCLC	T2	WGS	Progression	NR	22505148	76	male	no	Below	Below	discovery	No	No	No
+ERR2213685	Routy NSCLC	NSCLC.C.005	NSCLC	T0	WGS	Progression	NR	21173639	67	male	no	Below	Below	discovery	Yes	Yes	No
+ERR2213686	Routy NSCLC	NSCLC.C.005	NSCLC	T1	WGS	Progression	NR	19306425	67	male	no	Below	Below	discovery	No	No	No
+ERR2213687	Routy NSCLC	NSCLC.C.005	NSCLC	T2	WGS	Progression	NR	21564521	67	male	no	Below	Below	discovery	No	No	No
+ERR2213688	Routy NSCLC	NSCLC.C.007	NSCLC	T0	WGS	Stable	R	20593885	73	male	no	Above	Below	discovery	Yes	Yes	No
+ERR2213689	Routy NSCLC	NSCLC.C.007	NSCLC	T1	WGS	Stable	R	21676690	73	male	no	Above	Below	discovery	No	No	No
+ERR2213690	Routy NSCLC	NSCLC.C.007	NSCLC	T2	WGS	Stable	R	21902399	73	male	no	Above	Below	discovery	No	No	No
+ERR2213691	Routy NSCLC	NSCLC.C.008	NSCLC	T0	WGS	Progression	NR	20814377	77	female	no	Below	Below	discovery	Yes	Yes	No
+ERR2213692	Routy NSCLC	NSCLC.C.008	NSCLC	T1	WGS	Progression	NR	20550991	77	female	no	Below	Below	discovery	No	No	No
+ERR2213693	Routy NSCLC	NSCLC.C.008	NSCLC	T2	WGS	Progression	NR	21231190	77	female	no	Below	Below	discovery	No	No	No
+ERR2213694	Routy NSCLC	NSCLC.C.010	NSCLC	T0	WGS	Progression	NR	21218504	49	female	no	Below	Below	discovery	Yes	Yes	No
+ERR2213695	Routy NSCLC	NSCLC.C.010	NSCLC	T1	WGS	Progression	NR	21115480	49	female	no	Below	Below	discovery	No	No	No
+ERR2213696	Routy NSCLC	NSCLC.C.011	NSCLC	T0	WGS	Stable	R	21862643	72	male	no	Above	Below	discovery	Yes	Yes	No
+ERR2213697	Routy NSCLC	NSCLC.C.011	NSCLC	T1	WGS	Stable	R	21030515	72	male	no	Above	Below	discovery	No	No	No
+ERR2213698	Routy NSCLC	NSCLC.C.011	NSCLC	T2	WGS	Stable	R	20951527	72	male	no	Above	Below	discovery	No	No	No
+ERR2213699	Routy NSCLC	NSCLC.C.012	NSCLC	T0	WGS	Progression	NR	22133986	62	female	yes	Below	Below	discovery	Yes	Yes	No
+ERR2213700	Routy NSCLC	NSCLC.C.015	NSCLC	T0	WGS	Progression	NR	20654845	55	female	no	Below	Below	discovery	Yes	Yes	No
+ERR2213701	Routy NSCLC	NSCLC.C.016	NSCLC	T0	WGS	Progression	NR	20934061	47	male	no	Below	Below	discovery	Yes	Yes	No
+ERR2213702	Routy NSCLC	NSCLC.C.016	NSCLC	T1	WGS	Progression	NR	20842545	47	male	no	Below	Below	discovery	No	No	No
+ERR2213703	Routy NSCLC	NSCLC.C.016	NSCLC	T2	WGS	Progression	NR	22993155	47	male	no	Below	Below	discovery	No	No	No
+ERR2213704	Routy NSCLC	NSCLC.C.018	NSCLC	T0	WGS	Partial response	R	21890435	59	female	yes	Above	Not determined	discovery	Yes	Yes	No
+ERR2213705	Routy NSCLC	NSCLC.C.020	NSCLC	T0	WGS	Stable	R	21465537	49	female	yes	Above	Not determined	discovery	Yes	Yes	No
+ERR2213706	Routy NSCLC	NSCLC.C.021	NSCLC	T0	WGS	Partial response	R	21475577	66	female	yes	Above	Above	discovery	Yes	Yes	No
+ERR2213707	Routy NSCLC	NSCLC.I.001	NSCLC	T0	WGS	Stable	R	21701914	68	male	no	Above	Below	discovery	Yes	Yes	No
+ERR2213708	Routy NSCLC	NSCLC.I.001	NSCLC	T1	WGS	Stable	R	20773163	68	male	no	Above	Below	discovery	No	No	No
+ERR2213709	Routy NSCLC	NSCLC.I.001	NSCLC	T2	WGS	Stable	R	21196453	68	male	no	Above	Below	discovery	No	No	No
+ERR2213710	Routy NSCLC	NSCLC.I.002	NSCLC	T1	WGS	Stable	R	20687048	53	male	no	Above	Above	discovery	Yes	Yes	No
+ERR2213711	Routy NSCLC	NSCLC.I.003	NSCLC	T1	WGS	Progression	NR	23121645	63	female	no	Below	Below	discovery	Yes	Yes	No
+ERR2213712	Routy NSCLC	NSCLC.I.004	NSCLC	T1	WGS	Progression	NR	20929071	52	male	no	Below	Below	discovery	Yes	Yes	No
+ERR2213713	Routy NSCLC	NSCLC.I.005	NSCLC	T1	WGS	Stable	R	20899218	51	male	no	Above	Below	discovery	Yes	Yes	No
+ERR2213714	Routy NSCLC	NSCLC.I.006	NSCLC	T1	WGS	Stable	R	21086179	61	female	no	Above	Above	discovery	Yes	Yes	No
+ERR2213715	Routy NSCLC	NSCLC.I.007	NSCLC	T0	WGS	Progression	NR	21248988	61	female	no	Below	Below	discovery	Yes	Yes	No
+ERR2213716	Routy NSCLC	NSCLC.I.007	NSCLC	T2	WGS	Progression	NR	20941163	61	female	no	Below	Below	discovery	No	No	No
+ERR2213717	Routy NSCLC	NSCLC.I.009	NSCLC	T1	WGS	Progression	NR	20950657	58	female	no	Below	Below	discovery	Yes	Yes	No
+ERR2213718	Routy NSCLC	NSCLC.I.010	NSCLC	T1	WGS	Progression	NR	21471555	60	female	no	Below	Below	discovery	Yes	Yes	No
+ERR2213719	Routy NSCLC	NSCLC.I.011	NSCLC	T0	WGS	Partial response	R	21493857	73	female	no	Above	Above	discovery	Yes	Yes	No
+ERR2213720	Routy NSCLC	NSCLC.I.011	NSCLC	T2	WGS	Partial response	R	21082206	73	female	no	Above	Above	discovery	No	No	No
+ERR2213721	Routy NSCLC	NSCLC.I.012	NSCLC	T1	WGS	Progression	NR	20541975	62	male	no	Below	Below	discovery	Yes	Yes	No
+ERR2213722	Routy NSCLC	NSCLC.I.014	NSCLC	T1	WGS	Partial response	R	21194391	57	male	no	Above	Above	discovery	Yes	Yes	No
+ERR2213723	Routy NSCLC	NSCLC.I.015	NSCLC	T0	WGS	Stable	R	20621270	74	female	no	Above	Below	discovery	Yes	Yes	No
+ERR2213724	Routy NSCLC	NSCLC.I.015	NSCLC	T2	WGS	Stable	R	20674799	74	female	no	Above	Below	discovery	No	No	No
+ERR2213725	Routy NSCLC	NSCLC.I.016	NSCLC	T1	WGS	Partial response	R	21350542	65	male	no	Above	Above	discovery	Yes	Yes	No
+ERR2213726	Routy NSCLC	NSCLC.I.017	NSCLC	T1	WGS	Progression	NR	20743207	76	male	no	Below	Below	discovery	Yes	Yes	No
+ERR2213727	Routy NSCLC	NSCLC.I.018	NSCLC	T1	WGS	Progression	NR	21104938	48	female	no	Below	Below	discovery	Yes	Yes	No
+ERR2213728	Routy NSCLC	NSCLC.I.019	NSCLC	T0	WGS	Partial response	R	21556102	67	male	no	Above	Above	discovery	Yes	Yes	No
+ERR2213729	Routy NSCLC	NSCLC.I.019	NSCLC	T1	WGS	Partial response	R	20786020	67	male	no	Above	Above	discovery	No	No	No
+ERR2213730	Routy NSCLC	NSCLC.I.019	NSCLC	T2	WGS	Partial response	R	21154346	67	male	no	Above	Above	discovery	No	No	No
+ERR2213731	Routy NSCLC	NSCLC.I.020	NSCLC	T0	WGS	Stable	R	21164125	63	male	yes	Above	Below	discovery	Yes	Yes	No
+ERR2213732	Routy NSCLC	NSCLC.I.021	NSCLC	T1	WGS	Dead	NR	21318573	68	male	no	Below	Below	discovery	Yes	Yes	No
+ERR2213733	Routy NSCLC	NSCLC.I.022	NSCLC	T0	WGS	Stable	R	26241323	66	male	yes	Above	Below	discovery	Yes	Yes	No
+ERR2213734	Routy NSCLC	NSCLC.I.024	NSCLC	T0	WGS	Dead	NR	19998876	69	male	yes	Below	Below	discovery	Yes	Yes	No
+ERR2213735	Routy NSCLC	NSCLC.I.028	NSCLC	T0	WGS	Dead	NR	21101053	67	male	no	Below	Below	discovery	Yes	Yes	No
+ERR2213736	Routy NSCLC	NSCLC.I.029	NSCLC	T0	WGS	Stable	R	21966312	77	female	yes	Above	Above	discovery	Yes	Yes	No
+ERR2213737	Routy NSCLC	NSCLC.I.030	NSCLC	T0	WGS	Progression	NR	21205972	56	female	no	Below	Below	discovery	Yes	Yes	No
+ERR2213738	Routy NSCLC	NSCLC.I.030	NSCLC	T1	WGS	Progression	NR	21167962	56	female	no	Below	Below	discovery	No	No	No
+ERR2213739	Routy NSCLC	NSCLC.I.030	NSCLC	T2	WGS	Progression	NR	22310917	56	female	no	Below	Below	discovery	No	No	No
+ERR2213740	Routy NSCLC	NSCLC.I.031	NSCLC	T0	WGS	Dead	NR	20742616	46	female	yes	Below	Below	discovery	Yes	Yes	No
+ERR2213741	Routy NSCLC	NSCLC.I.032	NSCLC	T0	WGS	Partial response	R	21348499	53	male	no	Above	Not determined	discovery	Yes	Yes	No
+ERR2213742	Routy NSCLC	NSCLC.I.032	NSCLC	T1	WGS	Partial response	R	21153795	53	male	no	Above	Not determined	discovery	No	No	No
+ERR2213743	Routy NSCLC	NSCLC.I.032	NSCLC	T2	WGS	Partial response	R	21586927	53	male	no	Above	Not determined	discovery	No	No	No
+ERR2235210	Routy NSCLC	NSCLC.I.034	NSCLC	T0	WGS	Stable	R	21952621	62	male	no	Above	Not determined	discovery	Yes	Yes	No
+ERR2235211	Routy NSCLC	NSCLC.I.035	NSCLC	T0	WGS	Progression	NR	21451279	63	male	no	Below	Below	discovery	Yes	Yes	No
+ERR2235212	Routy NSCLC	NSCLC.I.036	NSCLC	T0	WGS	Stable	R	22480289	59	female	yes	Above	Not determined	discovery	Yes	Yes	No
+ERR2235213	Routy NSCLC	NSCLC.I.038	NSCLC	T0	WGS	Stable	R	21771064	62	female	no	Not determined	Not determined	discovery	Yes	Yes	No
+ERR2235214	Routy NSCLC	NSCLC.I.039	NSCLC	T0	WGS	Progression	NR	21896114	76	male	no	Above	Below	discovery	Yes	Yes	No
+ERR2235215	Routy NSCLC	NSCLC.I.040	NSCLC	T0	WGS	Partial response	R	20987662	60	female	yes	Not determined	Not determined	discovery	Yes	Yes	No
+ERR2235216	Routy NSCLC	NSCLC.I.041	NSCLC	T0	WGS	Progression	NR	21307428	61	male	no	Below	Below	discovery	Yes	Yes	No
+ERR2235217	Routy NSCLC	NSCLC.I.044	NSCLC	T0	WGS	Dead	NR	21508303	62	male	no	Below	Below	validation	No	Yes	No
+ERR2235218	Routy NSCLC	NSCLC.I.045	NSCLC	T0	WGS	Stable	R	20431125	70	female	no	Above	Below	validation	No	Yes	No
+ERR2235219	Routy NSCLC	NSCLC.I.046	NSCLC	T0	WGS	Partial response	R	20530585	62	male	no	Above	Above	validation	No	Yes	No
+ERR2235220	Routy NSCLC	NSCLC.I.047	NSCLC	T0	WGS	Progression	NR	21959174	60	female	no	Below	Below	validation	No	Yes	No
+ERR2235221	Routy NSCLC	NSCLC.I.048	NSCLC	T0	WGS	Progression	NR	20445583	51	male	yes	Below	Below	validation	No	Yes	No
+ERR2235222	Routy NSCLC	NSCLC.I.049	NSCLC	T1	WGS	Progression	NR	19348976	61	male	yes	Below	Below	validation	No	Yes	No
+ERR2235223	Routy NSCLC	NSCLC.I.050	NSCLC	T0	WGS	Progression	NR	20527011	48	male	yes	Below	Below	validation	No	Yes	No
+ERR2235224	Routy NSCLC	NSCLC.I.051	NSCLC	T1	WGS	Progression	NR	21383496	57	male	yes	Below	Below	validation	No	Yes	No
+ERR2235225	Routy NSCLC	NSCLC.I.052	NSCLC	T0	WGS	Progression	NR	20087961	70	male	yes	Below	Below	validation	No	Yes	No
+ERR2235226	Routy NSCLC	NSCLC.I.053	NSCLC	T0	WGS	Stable	R	21240689	57	male	yes	Below	Below	validation	No	Yes	No
+ERR2235227	Routy NSCLC	NSCLC.I.054	NSCLC	T0	WGS	Partial response	R	21635753	69	male	no	Above	Above	validation	No	Yes	No
+ERR2235228	Routy NSCLC	NSCLC.I.056	NSCLC	T0	WGS	Dead	NR	21412634	59	male	no	Below	Below	validation	No	Yes	No
+ERR2235229	Routy NSCLC	NSCLC.I.057	NSCLC	T0	WGS	Progression	NR	21039407	60	male	no	Below	Below	validation	No	Yes	No
+ERR2235230	Routy NSCLC	NSCLC.I.058	NSCLC	T0	WGS	Stable	R	22457532	76	male	no	Below	Below	validation	No	Yes	No
+ERR2235231	Routy NSCLC	NSCLC.I.060	NSCLC	T0	WGS	Progression	NR	21855343	65	male	no	Below	Below	validation	No	Yes	No
+ERR2235232	Routy NSCLC	NSCLC.I.061	NSCLC	T0	WGS	Progression	NR	20800048	63	male	no	Below	Below	validation	No	Yes	No
+ERR2235233	Routy NSCLC	NSCLC.I.065	NSCLC	T0	WGS	Partial response	R	21411589	62	female	no	Above	Not determined	validation	No	Yes	No
+ERR2235234	Routy NSCLC	NSCLC.I.066	NSCLC	T0	WGS	Progression	NR	20280374	78	male	yes	Below	Below	validation	No	Yes	No
+ERR2235235	Routy NSCLC	NSCLC.I.067	NSCLC	T0	WGS	Progression	NR	21218416	63	male	no	Below	Below	validation	No	Yes	No
+ERR2235236	Routy NSCLC	NSCLC.I.068	NSCLC	T0	WGS	Partial response	R	20658594	69	male	no	Above	Above	validation	No	Yes	No
+ERR2235237	Routy NSCLC	NSCLC.I.069	NSCLC	T0	WGS	Stable	R	20022730	62	male	no	Above	Not determined	validation	No	Yes	No
+ERR2235238	Routy NSCLC	NSCLC.I.070	NSCLC	T0	WGS	Stable	R	20855608	68	male	no	Below	Below	validation	No	Yes	No
+ERR2235239	Routy NSCLC	NSCLC.I.072	NSCLC	T0	WGS	Dead	NR	20957240	57	male	no	Below	Below	validation	No	Yes	No
+ERR2235240	Routy NSCLC	NSCLC.I.075	NSCLC	T0	WGS	Partial response	R	19715563	61	male	no	Above	Not determined	validation	No	Yes	No
+ERR2235241	Routy NSCLC	NSCLC.I.076	NSCLC	T0	WGS	Progression	NR	21099723	68	male	yes	Below	Below	validation	No	Yes	No
+ERR2235242	Routy NSCLC	NSCLC.I.077	NSCLC	T0	WGS	Progression	NR	20665992	43	female	yes	Below	Below	validation	No	Yes	No
+ERR2235243	Routy NSCLC	NSCLC.I.078	NSCLC	T0	WGS	Progression	NR	20742816	63	female	yes	Below	Below	validation	No	Yes	No
+ERR2235244	Routy RCC	RCC.C.014	RCC	T0	WGS	Progression	NR	20412941	59	male	no	Below	Below	discovery	Yes	Yes	No
+ERR2235245	Routy RCC	RCC.C.017	RCC	T0	WGS	Progression	NR	21189991	75	female	yes	Below	Below	discovery	Yes	Yes	No
+ERR2235246	Routy RCC	RCC.I.001	RCC	T0	WGS	Stable	R	21307004	77	female	no	Above	Below	discovery	Yes	Yes	No
+ERR2235247	Routy RCC	RCC.I.001	RCC	T2	WGS	Stable	R	20778106	77	female	no	Above	Below	discovery	No	No	No
+ERR2235248	Routy RCC	RCC.I.002	RCC	T0	WGS	Progression	NR	21799847	41	male	no	Below	Below	discovery	Yes	Yes	No
+ERR2235249	Routy RCC	RCC.I.002	RCC	T1	WGS	Progression	NR	21724479	41	male	no	Below	Below	discovery	No	No	No
+ERR2235250	Routy RCC	RCC.I.002	RCC	T2	WGS	Progression	NR	21672522	41	male	no	Below	Below	discovery	No	No	No
+ERR2235251	Routy RCC	RCC.I.003	RCC	T0	WGS	Stable	R	20955721	65	female	no	Above	Above	discovery	Yes	Yes	No
+ERR2235252	Routy RCC	RCC.I.003	RCC	T1	WGS	Stable	R	21652882	65	female	no	Above	Above	discovery	No	No	No
+ERR2235253	Routy RCC	RCC.I.004	RCC	T0	WGS	Partial response	R	21274816	60	male	no	Above	Above	discovery	Yes	Yes	No
+ERR2235254	Routy RCC	RCC.I.004	RCC	T2	WGS	Partial response	R	22696497	60	male	no	Above	Above	discovery	No	No	No
+ERR2235255	Routy RCC	RCC.I.005	RCC	T0	WGS	Stable	R	21054452	53	female	yes	Above	Above	discovery	Yes	Yes	No
+ERR2235256	Routy RCC	RCC.I.006	RCC	T0	WGS	Progression	NR	21208372	43	male	yes	Below	Below	discovery	Yes	Yes	No
+ERR2235257	Routy RCC	RCC.I.007	RCC	T0	WGS	Progression	NR	21036436	70	male	no	Below	Below	discovery	Yes	Yes	No
+ERR2235258	Routy RCC	RCC.I.007	RCC	T1	WGS	Progression	NR	21434469	70	male	no	Below	Below	discovery	No	No	No
+ERR2235259	Routy RCC	RCC.I.008	RCC	T0	WGS	Partial response	R	21069618	60	male	no	Above	Above	discovery	Yes	Yes	No
+ERR2235260	Routy RCC	RCC.I.009	RCC	T0	WGS	Stable	R	21083753	70	male	no	Above	Above	discovery	Yes	Yes	No
+ERR2235261	Routy RCC	RCC.I.009	RCC	T1	WGS	Stable	R	20749168	70	male	no	Above	Above	discovery	No	No	No
+ERR2235262	Routy RCC	RCC.I.009	RCC	T2	WGS	Stable	R	20889394	70	male	no	Above	Above	discovery	No	No	No
+ERR2235263	Routy RCC	RCC.I.011	RCC	T0	WGS	Progression	NR	21186444	69	male	no	Above	Below	discovery	Yes	Yes	No
+ERR2235264	Routy RCC	RCC.I.011	RCC	T1	WGS	Progression	NR	23135433	69	male	no	Above	Below	discovery	No	No	No
+ERR2235265	Routy RCC	RCC.I.012	RCC	T0	WGS	Progression	NR	21014079	52	male	no	Below	Below	discovery	Yes	Yes	No
+ERR2235266	Routy RCC	RCC.I.012	RCC	T1	WGS	Progression	NR	20830119	52	male	no	Below	Below	discovery	No	No	No
+ERR2235267	Routy RCC	RCC.I.012	RCC	T2	WGS	Progression	NR	20725507	52	male	no	Below	Below	discovery	No	No	No
+ERR2235268	Routy RCC	RCC.I.013	RCC	T0	WGS	Progression	NR	21421439	60	female	no	Below	Below	discovery	Yes	Yes	No
+ERR2235269	Routy RCC	RCC.I.013	RCC	T1	WGS	Progression	NR	21709029	60	female	no	Below	Below	discovery	No	No	No
+ERR2235270	Routy RCC	RCC.I.013	RCC	T2	WGS	Progression	NR	21473761	60	female	no	Below	Below	discovery	No	No	No
+ERR2235271	Routy RCC	RCC.I.014	RCC	T0	WGS	Partial response	R	22309866	46	male	no	Above	Above	discovery	Yes	Yes	No
+ERR2235272	Routy RCC	RCC.I.014	RCC	T1	WGS	Partial response	R	20904134	46	male	no	Above	Above	discovery	No	No	No
+ERR2235273	Routy RCC	RCC.I.014	RCC	T2	WGS	Partial response	R	21755226	46	male	no	Above	Above	discovery	No	No	No
+ERR2235274	Routy RCC	RCC.I.015	RCC	T0	WGS	Partial response	R	20793925	70	male	yes	Below	Below	discovery	Yes	Yes	No
+ERR2235275	Routy RCC	RCC.I.016	RCC	T0	WGS	Progression	NR	21239089	52	male	no	Below	Below	discovery	Yes	Yes	No
+ERR2235276	Routy RCC	RCC.I.016	RCC	T1	WGS	Progression	NR	22425476	52	male	no	Below	Below	discovery	No	No	No
+ERR2235277	Routy RCC	RCC.I.017	RCC	T0	WGS	Progression	NR	21134121	65	male	yes	Below	Below	discovery	Yes	Yes	No
+ERR2235278	Routy RCC	RCC.I.018	RCC	T0	WGS	Stable	R	21496624	59	male	no	Above	Below	discovery	Yes	Yes	No
+ERR2235279	Routy RCC	RCC.I.018	RCC	T1	WGS	Stable	R	22332061	59	male	no	Above	Below	discovery	No	No	No
+ERR2235280	Routy RCC	RCC.I.019	RCC	T0	WGS	Stable	R	20876246	67	male	no	Above	Below	discovery	Yes	Yes	No
+ERR2235281	Routy RCC	RCC.I.019	RCC	T2	WGS	Stable	R	21869599	67	male	no	Above	Below	discovery	No	No	No
+ERR2235282	Routy RCC	RCC.I.020	RCC	T0	WGS	Stable	R	20880877	60	male	no	Above	Above	discovery	Yes	Yes	No
+ERR2235283	Routy RCC	RCC.I.020	RCC	T2	WGS	Stable	R	20718582	60	male	no	Above	Above	discovery	No	No	No
+ERR2235284	Routy RCC	RCC.I.021	RCC	T0	WGS	Stable	R	23385806	60	male	no	Above	Above	discovery	Yes	Yes	No
+ERR2235285	Routy RCC	RCC.I.021	RCC	T1	WGS	Stable	R	21886604	60	male	no	Above	Above	discovery	No	No	No
+ERR2235286	Routy RCC	RCC.I.021	RCC	T2	WGS	Stable	R	22888066	60	male	no	Above	Above	discovery	No	No	No
+ERR2235287	Routy RCC	RCC.I.022	RCC	T0	WGS	Progression	NR	20936283	67	female	yes	Below	Below	discovery	Yes	Yes	No
+ERR2235288	Routy RCC	RCC.I.023	RCC	T0	WGS	Stable	R	20841582	73	male	no	Above	Above	discovery	Yes	Yes	No
+ERR2235289	Routy RCC	RCC.I.023	RCC	T2	WGS	Stable	R	21139545	73	male	no	Above	Above	discovery	No	No	No
+ERR2235290	Routy RCC	RCC.I.025	RCC	T0	WGS	Stable	R	22032722	61	male	no	Above	Above	discovery	Yes	Yes	No
+ERR2235291	Routy RCC	RCC.I.025	RCC	T1	WGS	Stable	R	22264492	61	male	no	Above	Above	discovery	No	No	No
+ERR2235292	Routy RCC	RCC.I.025	RCC	T2	WGS	Stable	R	21468995	61	male	no	Above	Above	discovery	No	No	No
+ERR2235293	Routy RCC	RCC.I.026	RCC	T0	WGS	Stable	R	21440018	61	female	no	Above	Below	discovery	Yes	Yes	No
+ERR2235294	Routy RCC	RCC.I.026	RCC	T1	WGS	Stable	R	21604701	61	female	no	Above	Below	discovery	No	No	No
+ERR2235295	Routy RCC	RCC.I.026	RCC	T2	WGS	Stable	R	21871049	61	female	no	Above	Below	discovery	No	No	No
+ERR2235296	Routy RCC	RCC.I.027	RCC	T1	WGS	Partial response	R	21783713	58	male	no	Above	Above	discovery	Yes	Yes	No
+ERR2235297	Routy RCC	RCC.I.030	RCC	T0	WGS	Stable	R	21277950	67	male	no	Above	Above	discovery	Yes	Yes	No
+ERR2235298	Routy RCC	RCC.I.030	RCC	T1	WGS	Stable	R	21198069	67	male	no	Above	Above	discovery	No	No	No
+ERR2235299	Routy RCC	RCC.I.030	RCC	T2	WGS	Stable	R	21198497	67	male	no	Above	Above	discovery	No	No	No
+ERR2235300	Routy RCC	RCC.I.033	RCC	T0	WGS	Partial response	R	21373584	60	male	yes	Above	Above	discovery	Yes	Yes	No
+ERR2235301	Routy RCC	RCC.I.034	RCC	T0	WGS	Stable	R	21401885	50	male	no	Below	Below	discovery	Yes	Yes	No
+ERR2235302	Routy RCC	RCC.I.034	RCC	T2	WGS	Stable	R	21713872	50	male	no	Below	Below	discovery	No	No	No
+ERR2235303	Routy RCC	RCC.I.035	RCC	T0	WGS	Progression	NR	21589742	58	male	no	Below	Below	discovery	Yes	Yes	No
+ERR2235304	Routy RCC	RCC.I.036	RCC	T0	WGS	Progression	NR	21153360	58	male	no	Below	Below	discovery	Yes	Yes	No
+ERR2235305	Routy RCC	RCC.I.036	RCC	T1	WGS	Progression	NR	20734135	58	male	no	Below	Below	discovery	No	No	No
+ERR2235306	Routy RCC	RCC.I.037	RCC	T0	WGS	Stable	R	21241590	76	female	no	Above	Not determined	discovery	Yes	Yes	No
+ERR2235307	Routy RCC	RCC.I.037	RCC	T1	WGS	Stable	R	21118128	76	female	no	Above	Not determined	discovery	No	No	No
+ERR2235308	Routy RCC	RCC.I.037	RCC	T2	WGS	Stable	R	20936009	76	female	no	Above	Not determined	discovery	No	No	No
+ERR2235309	Routy RCC	RCC.I.038	RCC	T0	WGS	Stable	R	20818497	68	male	no	Above	Not determined	discovery	Yes	Yes	No
+ERR2235310	Routy RCC	RCC.I.038	RCC	T2	WGS	Stable	R	21099691	68	male	no	Above	Not determined	discovery	No	No	No
+ERR2235311	Routy RCC	RCC.I.039	RCC	T0	WGS	Stable	R	21080664	64	male	no	Above	Not determined	discovery	Yes	Yes	No
+ERR2235312	Routy RCC	RCC.I.039	RCC	T1	WGS	Stable	R	21044129	64	male	no	Above	Not determined	discovery	No	No	No
+ERR2235313	Routy RCC	RCC.I.040	RCC	T0	WGS	Progression	NR	21077807	71	male	no	Below	Below	discovery	Yes	Yes	No
+ERR2235314	Routy RCC	RCC.I.040	RCC	T1	WGS	Progression	NR	21395020	71	male	no	Below	Below	discovery	No	No	No
+ERR2235315	Routy RCC	RCC.I.041	RCC	T0	WGS	Partial response	R	23011579	67	male	no	Above	Not determined	discovery	Yes	Yes	No
+ERR2235316	Routy RCC	RCC.I.042	RCC	T0	WGS	Dead	NR	21623757	64	male	no	Below	Below	discovery	Yes	Yes	No
+ERR2235317	Routy RCC	RCC.I.043	RCC	T0	WGS	Stable	R	21638196	42	male	no	Above	Not determined	discovery	Yes	Yes	No
+ERR2235318	Routy RCC	RCC.I.044	RCC	T0	WGS	Stable	R	21678895	61	male	no	Not determined	Not determined	discovery	Yes	Yes	No
+ERR2235319	Routy RCC	RCC.I.045	RCC	T0	WGS	Stable	R	20310041	53	male	yes	Above	Above	validation	No	Yes	No
+ERR2235320	Routy RCC	RCC.I.047	RCC	T0	WGS	Partial response	R	20098589	74	male	no	Above	Below	validation	No	Yes	No
+ERR2235321	Routy RCC	RCC.I.049	RCC	T0	WGS	Stable	R	22269846	63	female	no	Above	Above	validation	No	Yes	No
+ERR2235322	Routy RCC	RCC.I.051	RCC	T0	WGS	Stable	R	20465976	61	female	no	Above	Above	validation	No	Yes	No
+ERR2235323	Routy RCC	RCC.I.052	RCC	T0	WGS	Stable	R	20172805	43	male	no	Above	Below	validation	No	Yes	No
+ERR2235324	Routy RCC	RCC.I.054	RCC	T1	WGS	Progression	NR	23103263	73	female	no	Below	Below	validation	No	Yes	No
+ERR2235325	Routy RCC	RCC.I.055	RCC	T1	WGS	Partial response	R	20768940	79	male	no	Above	Above	validation	No	Yes	No
+ERR2235326	Routy RCC	RCC.I.056	RCC	T0	WGS	Progression	NR	20089086	61	female	yes	Above	Below	validation	No	Yes	No
+ERR2235327	Routy RCC	RCC.I.057	RCC	T0	WGS	Stable	R	20227610	82	male	no	Above	Below	validation	No	Yes	No
+ERR2235328	Routy RCC	RCC.I.058	RCC	T0	WGS	Partial response	R	21897537	69	male	no	Above	Above	validation	No	Yes	No
+ERR2235329	Routy RCC	RCC.I.059	RCC	T0	WGS	Partial response	R	21664766	68	male	no	Above	Above	validation	No	Yes	No
+ERR2235330	Routy RCC	RCC.I.060	RCC	T0	WGS	Stable	R	35441312	61	male	no	Above	Below	validation	No	Yes	No
+ERR2235331	Routy RCC	RCC.I.061	RCC	T0	WGS	Stable	R	21534370	34	female	no	Above	Below	validation	No	Yes	No
+ERR2235332	Routy RCC	RCC.I.062	RCC	T0	WGS	Stable	R	20502883	63	male	no	Above	Above	validation	No	Yes	No
+ERR2235333	Routy RCC	RCC.I.063	RCC	T0	WGS	Progression	NR	20178499	31	female	no	Above	Below	validation	No	Yes	No
+ERR2235334	Routy RCC	RCC.I.064	RCC	T0	WGS	Stable	R	20027848	69	male	no	Above	Below	validation	No	Yes	No
+ERR2235335	Routy RCC	RCC.I.065	RCC	T0	WGS	Stable	R	25146112	66	female	no	Above	Below	validation	No	Yes	No
+ERR2235336	Routy RCC	RCC.I.066	RCC	T0	WGS	Progression	NR	21804274	60	male	no	Below	Below	validation	No	Yes	No
+ERR2235337	Routy RCC	RCC.I.068	RCC	T0	WGS	Progression	NR	25027336	57	female	no	Above	Below	validation	No	Yes	No
+ERR2235338	Routy RCC	RCC.I.069	RCC	T0	WGS	Stable	R	20265187	64	male	no	Above	Not determined	validation	No	Yes	No
+ERR2235339	Routy RCC	RCC.I.070	RCC	T0	WGS	Partial response	R	20074767	49	female	no	Above	Not determined	validation	No	Yes	No
+ERR2235340	Routy RCC	RCC.I.072	RCC	T0	WGS	Stable	R	20385449	68	male	no	Above	Not determined	validation	No	Yes	No
+ERR2235341	Routy RCC	RCC.I.073	RCC	T0	WGS	Partial response	R	21214044	76	female	no	Above	Not determined	validation	No	Yes	No
+ERR2235342	Routy RCC	RCC.I.074	RCC	T1	WGS	Stable	R	20368450	44	female	no	Above	Not determined	validation	No	Yes	No
+ERR2235343	Routy RCC	RCC.I.075	RCC	T0	WGS	Progression	NR	20925633	63	male	no	Below	Below	validation	No	Yes	No
+ERR2235344	Routy RCC	RCC.I.076	RCC	T0	WGS	Stable	R	20739858	74	female	no	Above	Below	validation	No	Yes	No

@@ -1,0 +1,2728 @@
+"SampleID"	"Study"	"CancerType"	"Response"	"Type"	"Value"
+"ERR2213660"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	25.2069359790887
+"ERR2213663"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	0.0201858809157618
+"ERR2213664"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	11.6313314399164
+"ERR2213665"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	0.212202891448174
+"ERR2213666"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	11.5154286564139
+"ERR2213669"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	11.5866208759363
+"ERR2213671"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	11.9785399037292
+"ERR2213672"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	11.4185757445314
+"ERR2213673"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	8.90804636421324
+"ERR2213674"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	21.8494019630476
+"ERR2213675"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	15.4161221638692
+"ERR2213677"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	16.8887541530478
+"ERR2213679"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	8.99699910121007
+"ERR2213680"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	32.5353595182889
+"ERR2213681"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	14.959029604777
+"ERR2213682"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	6.24223048317505
+"ERR2213685"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	35.7890153790296
+"ERR2213688"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	12.4258412425841
+"ERR2213691"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	-3.6820517162852
+"ERR2213694"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	5.22643916142817
+"ERR2213696"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	2.54677518058049
+"ERR2213699"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	-5.6993817102025
+"ERR2213700"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	11.0374209782242
+"ERR2213701"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	21.71404
+"ERR2213704"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	22.0818165547649
+"ERR2213705"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	4.64515182500182
+"ERR2213706"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	11.8233401818975
+"ERR2213707"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	14.6133421696853
+"ERR2213710"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	23.6682074085998
+"ERR2213711"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	10.3818664906951
+"ERR2213712"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	-2.03273020327302
+"ERR2213713"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	13.9267902500494
+"ERR2213714"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	1.42508413616394
+"ERR2213715"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	14.3318497608022
+"ERR2213717"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	15.342988154596
+"ERR2213718"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	13.6497803553934
+"ERR2213719"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	10.9937021650825
+"ERR2213721"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	2.80489524338238
+"ERR2213722"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	13.4037340663569
+"ERR2213723"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	37.490424310887
+"ERR2213725"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	13.1674815554967
+"ERR2213726"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	0.585381015178442
+"ERR2213727"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	18.658
+"ERR2213728"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	10.9058278001918
+"ERR2213731"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	15.7976147728552
+"ERR2213732"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	8.04690415998803
+"ERR2213733"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	13.149937191167
+"ERR2213734"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	-4.51730986798742
+"ERR2213735"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	19.2629487711071
+"ERR2213736"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	-8.70211350709144
+"ERR2213737"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	2.87757104227347
+"ERR2213740"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	12.7044660190796
+"ERR2213741"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	17.7456392328523
+"ERR2235210"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	4.733669956497
+"ERR2235211"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	25.0106254101409
+"ERR2235212"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	24.1065243047706
+"ERR2235213"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	0.0935316648636346
+"ERR2235214"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	8.15370935016202
+"ERR2235215"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	0
+"ERR2235216"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	-3.26641967335803
+"ERR2235217"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	17.7789297159433
+"ERR2235218"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	4.89520981045932
+"ERR2235219"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	23.4328753177348
+"ERR2235220"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	1.44814204705323
+"ERR2235221"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	4.18523956054709
+"ERR2235222"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	37.8897901876217
+"ERR2235223"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	12.3812943257125
+"ERR2235224"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	18.8450380001044
+"ERR2235225"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	0
+"ERR2235226"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	9.85020716823858
+"ERR2235227"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	20.3131112869248
+"ERR2235228"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	14.169342645289
+"ERR2235229"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	13.5005812161416
+"ERR2235230"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	7.91770861585205
+"ERR2235231"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	8.12316753555151
+"ERR2235232"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	-2.40639570756243
+"ERR2235233"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	2.59389356661491
+"ERR2235234"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	-10.9777378044524
+"ERR2235235"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	10.7023087413808
+"ERR2235236"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	6.33137946861932
+"ERR2235237"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	-3.44333128106736
+"ERR2235238"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	8.86576560271715
+"ERR2235239"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	2.31948029051163
+"ERR2235240"	"Routy NSCLC"	"NSCLC"	"R"	"lit-r"	19.9546086901535
+"ERR2235241"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	31.8222197565423
+"ERR2235242"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	1.51998127226621
+"ERR2235243"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-r"	4.91861075154584
+"ERR2235244"	"Routy RCC"	"RCC"	"NR"	"lit-r"	16.5127641956342
+"ERR2235245"	"Routy RCC"	"RCC"	"NR"	"lit-r"	10.1615932668053
+"ERR2235246"	"Routy RCC"	"RCC"	"R"	"lit-r"	12.1671878431524
+"ERR2235248"	"Routy RCC"	"RCC"	"NR"	"lit-r"	16.9161988000142
+"ERR2235251"	"Routy RCC"	"RCC"	"R"	"lit-r"	12.1560568548907
+"ERR2235253"	"Routy RCC"	"RCC"	"R"	"lit-r"	11.8915122084256
+"ERR2235255"	"Routy RCC"	"RCC"	"R"	"lit-r"	17.0324868626116
+"ERR2235256"	"Routy RCC"	"RCC"	"NR"	"lit-r"	12.3062735055542
+"ERR2235257"	"Routy RCC"	"RCC"	"NR"	"lit-r"	13.0995344092801
+"ERR2235259"	"Routy RCC"	"RCC"	"R"	"lit-r"	8.78191452159976
+"ERR2235260"	"Routy RCC"	"RCC"	"R"	"lit-r"	26.5092021075262
+"ERR2235263"	"Routy RCC"	"RCC"	"NR"	"lit-r"	4.88428052751276
+"ERR2235265"	"Routy RCC"	"RCC"	"NR"	"lit-r"	9.54982361015438
+"ERR2235268"	"Routy RCC"	"RCC"	"NR"	"lit-r"	17.3980283970962
+"ERR2235271"	"Routy RCC"	"RCC"	"R"	"lit-r"	22.3197332743191
+"ERR2235274"	"Routy RCC"	"RCC"	"R"	"lit-r"	8.14145753678148
+"ERR2235275"	"Routy RCC"	"RCC"	"NR"	"lit-r"	13.8500165846702
+"ERR2235277"	"Routy RCC"	"RCC"	"NR"	"lit-r"	23.5811841760634
+"ERR2235278"	"Routy RCC"	"RCC"	"R"	"lit-r"	25.8910390819378
+"ERR2235280"	"Routy RCC"	"RCC"	"R"	"lit-r"	-0.00193999980600002
+"ERR2235282"	"Routy RCC"	"RCC"	"R"	"lit-r"	15.8505175289766
+"ERR2235284"	"Routy RCC"	"RCC"	"R"	"lit-r"	5.52087017329095
+"ERR2235287"	"Routy RCC"	"RCC"	"NR"	"lit-r"	23.4876632799963
+"ERR2235288"	"Routy RCC"	"RCC"	"R"	"lit-r"	11.4543691949305
+"ERR2235290"	"Routy RCC"	"RCC"	"R"	"lit-r"	12.1153787884621
+"ERR2235293"	"Routy RCC"	"RCC"	"R"	"lit-r"	9.52350851364336
+"ERR2235296"	"Routy RCC"	"RCC"	"R"	"lit-r"	12.0493241792871
+"ERR2235297"	"Routy RCC"	"RCC"	"R"	"lit-r"	7.2509572051707
+"ERR2235300"	"Routy RCC"	"RCC"	"R"	"lit-r"	42.0755702457165
+"ERR2235301"	"Routy RCC"	"RCC"	"R"	"lit-r"	17.6585672746352
+"ERR2235303"	"Routy RCC"	"RCC"	"NR"	"lit-r"	7.15163653180644
+"ERR2235304"	"Routy RCC"	"RCC"	"NR"	"lit-r"	19.0713681768277
+"ERR2235306"	"Routy RCC"	"RCC"	"R"	"lit-r"	7.49766378281474
+"ERR2235309"	"Routy RCC"	"RCC"	"R"	"lit-r"	14.7081512301951
+"ERR2235311"	"Routy RCC"	"RCC"	"R"	"lit-r"	12.331825996516
+"ERR2235313"	"Routy RCC"	"RCC"	"NR"	"lit-r"	0.570669448454729
+"ERR2235315"	"Routy RCC"	"RCC"	"R"	"lit-r"	1.79929512128205
+"ERR2235316"	"Routy RCC"	"RCC"	"NR"	"lit-r"	11.4011388474174
+"ERR2235317"	"Routy RCC"	"RCC"	"R"	"lit-r"	9.0720546628752
+"ERR2235318"	"Routy RCC"	"RCC"	"R"	"lit-r"	7.18111069474638
+"ERR2235319"	"Routy RCC"	"RCC"	"R"	"lit-r"	19.5690261216246
+"ERR2235320"	"Routy RCC"	"RCC"	"R"	"lit-r"	11.1509952769966
+"ERR2235321"	"Routy RCC"	"RCC"	"R"	"lit-r"	12.9138916779167
+"ERR2235322"	"Routy RCC"	"RCC"	"R"	"lit-r"	8.93116629892556
+"ERR2235323"	"Routy RCC"	"RCC"	"R"	"lit-r"	5.75485989298398
+"ERR2235324"	"Routy RCC"	"RCC"	"NR"	"lit-r"	0.249128476120451
+"ERR2235325"	"Routy RCC"	"RCC"	"R"	"lit-r"	-3.12396207426553
+"ERR2235326"	"Routy RCC"	"RCC"	"NR"	"lit-r"	9.45448035461712
+"ERR2235327"	"Routy RCC"	"RCC"	"R"	"lit-r"	7.95972684045061
+"ERR2235328"	"Routy RCC"	"RCC"	"R"	"lit-r"	15.8168812595672
+"ERR2235329"	"Routy RCC"	"RCC"	"R"	"lit-r"	9.83911098391109
+"ERR2235330"	"Routy RCC"	"RCC"	"R"	"lit-r"	20.9653158069368
+"ERR2235331"	"Routy RCC"	"RCC"	"R"	"lit-r"	19.5194388641993
+"ERR2235332"	"Routy RCC"	"RCC"	"R"	"lit-r"	13.0267686973232
+"ERR2235333"	"Routy RCC"	"RCC"	"NR"	"lit-r"	1.83055053592616
+"ERR2235334"	"Routy RCC"	"RCC"	"R"	"lit-r"	15.0909826284475
+"ERR2235335"	"Routy RCC"	"RCC"	"R"	"lit-r"	10.8797069013572
+"ERR2235336"	"Routy RCC"	"RCC"	"NR"	"lit-r"	26.0587837686165
+"ERR2235337"	"Routy RCC"	"RCC"	"NR"	"lit-r"	8.19530082763135
+"ERR2235338"	"Routy RCC"	"RCC"	"R"	"lit-r"	11.2709853179723
+"ERR2235339"	"Routy RCC"	"RCC"	"R"	"lit-r"	1.98752682258372
+"ERR2235340"	"Routy RCC"	"RCC"	"R"	"lit-r"	28.3436610419254
+"ERR2235341"	"Routy RCC"	"RCC"	"R"	"lit-r"	19.8631818550923
+"ERR2235342"	"Routy RCC"	"RCC"	"R"	"lit-r"	13.902555221689
+"ERR2235343"	"Routy RCC"	"RCC"	"NR"	"lit-r"	22.1013977229242
+"ERR2235344"	"Routy RCC"	"RCC"	"R"	"lit-r"	5.16295885516224
+"SRR5367463"	"Chaput"	"Melanoma"	"NR"	"lit-r"	15.3
+"SRR5367466"	"Chaput"	"Melanoma"	"NR"	"lit-r"	10.6
+"SRR5367468"	"Chaput"	"Melanoma"	"NR"	"lit-r"	10.1
+"SRR5367475"	"Chaput"	"Melanoma"	"NR"	"lit-r"	6.85
+"SRR5367476"	"Chaput"	"Melanoma"	"NR"	"lit-r"	9.45
+"SRR5367480"	"Chaput"	"Melanoma"	"NR"	"lit-r"	8.65
+"SRR5367483"	"Chaput"	"Melanoma"	"NR"	"lit-r"	12.75
+"SRR5367485"	"Chaput"	"Melanoma"	"NR"	"lit-r"	4.95
+"SRR5367487"	"Chaput"	"Melanoma"	"NR"	"lit-r"	-1.15
+"SRR5367488"	"Chaput"	"Melanoma"	"R"	"lit-r"	4.2
+"SRR5367492"	"Chaput"	"Melanoma"	"NR"	"lit-r"	6.15
+"SRR5367494"	"Chaput"	"Melanoma"	"NR"	"lit-r"	4.35
+"SRR5367495"	"Chaput"	"Melanoma"	"NR"	"lit-r"	14.75
+"SRR5367498"	"Chaput"	"Melanoma"	"NR"	"lit-r"	15.2
+"SRR5367501"	"Chaput"	"Melanoma"	"R"	"lit-r"	12.05
+"SRR5367505.R1"	"Chaput"	"Melanoma"	"NR"	"lit-r"	6.75
+"SRR5367508.R1"	"Chaput"	"Melanoma"	"NR"	"lit-r"	19.35
+"SRR5367513.R1"	"Chaput"	"Melanoma"	"R"	"lit-r"	25.1
+"SRR5367515.R1"	"Chaput"	"Melanoma"	"R"	"lit-r"	25.15
+"SRR5367520.R1"	"Chaput"	"Melanoma"	"R"	"lit-r"	20
+"SRR5367523.R1"	"Chaput"	"Melanoma"	"NR"	"lit-r"	9.85
+"SRR5367527.R1"	"Chaput"	"Melanoma"	"R"	"lit-r"	16.2
+"SRR5367533.R1"	"Chaput"	"Melanoma"	"R"	"lit-r"	15.6326034063261
+"SRR5367537.R1"	"Chaput"	"Melanoma"	"R"	"lit-r"	21.6
+"SRR5367540.R1"	"Chaput"	"Melanoma"	"R"	"lit-r"	14.45
+"SRR5367542.R1"	"Chaput"	"Melanoma"	"NR"	"lit-r"	5.4
+"SRR5930493"	"Frankel"	"Melanoma"	"NR"	"lit-r"	7.34879111310272
+"SRR5930494"	"Frankel"	"Melanoma"	"R"	"lit-r"	4.99898808066384
+"SRR5930495"	"Frankel"	"Melanoma"	"R"	"lit-r"	27.2664514472805
+"SRR5930497"	"Frankel"	"Melanoma"	"R"	"lit-r"	20.1088309373799
+"SRR5930498"	"Frankel"	"Melanoma"	"R"	"lit-r"	7.52296068690443
+"SRR5930499"	"Frankel"	"Melanoma"	"R"	"lit-r"	10.7169219288607
+"SRR5930501"	"Frankel"	"Melanoma"	"NR"	"lit-r"	27.9222777757223
+"SRR5930502"	"Frankel"	"Melanoma"	"R"	"lit-r"	17.885406110769
+"SRR5930503"	"Frankel"	"Melanoma"	"R"	"lit-r"	13.3378660986039
+"SRR5930504"	"Frankel"	"Melanoma"	"R"	"lit-r"	12.0960391129562
+"SRR5930505"	"Frankel"	"Melanoma"	"R"	"lit-r"	10.6007824996535
+"SRR5930506"	"Frankel"	"Melanoma"	"R"	"lit-r"	2.73164822896112
+"SRR5930507"	"Frankel"	"Melanoma"	"NR"	"lit-r"	5.74248228897639
+"SRR5930508"	"Frankel"	"Melanoma"	"NR"	"lit-r"	9.31744878134867
+"SRR5930509"	"Frankel"	"Melanoma"	"NR"	"lit-r"	9.49382962468722
+"SRR5930510"	"Frankel"	"Melanoma"	"NR"	"lit-r"	9.19034541580418
+"SRR5930511"	"Frankel"	"Melanoma"	"R"	"lit-r"	17.6230201036899
+"SRR5930512"	"Frankel"	"Melanoma"	"R"	"lit-r"	7.2024515712406
+"SRR5930513"	"Frankel"	"Melanoma"	"R"	"lit-r"	-6.41634632641892
+"SRR5930514"	"Frankel"	"Melanoma"	"R"	"lit-r"	5.29714616338026
+"SRR5930515"	"Frankel"	"Melanoma"	"NR"	"lit-r"	1.37557024997695
+"SRR5930516"	"Frankel"	"Melanoma"	"R"	"lit-r"	16.6310910803529
+"SRR5930517"	"Frankel"	"Melanoma"	"NR"	"lit-r"	39.7067339706734
+"SRR5930518"	"Frankel"	"Melanoma"	"NR"	"lit-r"	6.14300628053828
+"SRR5930519"	"Frankel"	"Melanoma"	"NR"	"lit-r"	-4.7049135537128
+"SRR5930520"	"Frankel"	"Melanoma"	"NR"	"lit-r"	21.9617240874278
+"SRR5930521"	"Frankel"	"Melanoma"	"NR"	"lit-r"	6.97030350467839
+"SRR5930522"	"Frankel"	"Melanoma"	"NR"	"lit-r"	4.73366599341809
+"SRR5930523"	"Frankel"	"Melanoma"	"R"	"lit-r"	10.959808653175
+"SRR5930526"	"Frankel"	"Melanoma"	"NR"	"lit-r"	13.7303693969059
+"SRR5930527"	"Frankel"	"Melanoma"	"R"	"lit-r"	18.7792556553387
+"SRR5930528"	"Frankel"	"Melanoma"	"NR"	"lit-r"	0.159011618753059
+"SRR5930529"	"Frankel"	"Melanoma"	"R"	"lit-r"	7.36807905616825
+"SRR5930530"	"Frankel"	"Melanoma"	"R"	"lit-r"	22.7582468245646
+"SRR5930531"	"Frankel"	"Melanoma"	"R"	"lit-r"	13.8643681096925
+"SRR5930532"	"Frankel"	"Melanoma"	"R"	"lit-r"	3.41889135518199
+"SRR5930533"	"Frankel"	"Melanoma"	"R"	"lit-r"	8.14208018178002
+"SRR5930534"	"Frankel"	"Melanoma"	"R"	"lit-r"	13.6798511638474
+"SRR5930536"	"Frankel"	"Melanoma"	"R"	"lit-r"	7.98358364913103
+"SRR6000872"	"Matson"	"Melanoma"	"R"	"lit-r"	14.92
+"SRR6000875"	"Matson"	"Melanoma"	"NR"	"lit-r"	6.18
+"SRR6000876"	"Matson"	"Melanoma"	"NR"	"lit-r"	1.76
+"SRR6000879"	"Matson"	"Melanoma"	"R"	"lit-r"	7.84
+"SRR6000880"	"Matson"	"Melanoma"	"R"	"lit-r"	0.03
+"SRR6000881"	"Matson"	"Melanoma"	"R"	"lit-r"	12.29
+"SRR6000882"	"Matson"	"Melanoma"	"NR"	"lit-r"	3.19
+"SRR6000883"	"Matson"	"Melanoma"	"NR"	"lit-r"	5.67
+"SRR6000884"	"Matson"	"Melanoma"	"R"	"lit-r"	18.6
+"SRR6000885"	"Matson"	"Melanoma"	"R"	"lit-r"	11.65
+"SRR6000886"	"Matson"	"Melanoma"	"NR"	"lit-r"	9.28
+"SRR6000887"	"Matson"	"Melanoma"	"NR"	"lit-r"	5.22
+"SRR6000888"	"Matson"	"Melanoma"	"R"	"lit-r"	8.23
+"SRR6000889"	"Matson"	"Melanoma"	"NR"	"lit-r"	8.71
+"SRR6000897"	"Matson"	"Melanoma"	"NR"	"lit-r"	6.68
+"SRR6000898"	"Matson"	"Melanoma"	"R"	"lit-r"	13.09
+"SRR6000904"	"Matson"	"Melanoma"	"NR"	"lit-r"	8.37
+"SRR6000913"	"Matson"	"Melanoma"	"R"	"lit-r"	10.66
+"SRR6000914"	"Matson"	"Melanoma"	"NR"	"lit-r"	12.94
+"SRR6000915"	"Matson"	"Melanoma"	"NR"	"lit-r"	10.38
+"SRR6000916"	"Matson"	"Melanoma"	"R"	"lit-r"	6.34
+"SRR6000917"	"Matson"	"Melanoma"	"NR"	"lit-r"	7.95
+"SRR6000918"	"Matson"	"Melanoma"	"NR"	"lit-r"	8.77
+"SRR6000919"	"Matson"	"Melanoma"	"R"	"lit-r"	11.99
+"SRR6000922"	"Matson"	"Melanoma"	"NR"	"lit-r"	7.93
+"SRR6000923"	"Matson"	"Melanoma"	"NR"	"lit-r"	4.75
+"SRR6000924"	"Matson"	"Melanoma"	"NR"	"lit-r"	12.96
+"SRR6000925"	"Matson"	"Melanoma"	"R"	"lit-r"	16.59
+"SRR6000926"	"Matson"	"Melanoma"	"NR"	"lit-r"	14.19
+"SRR6000927"	"Matson"	"Melanoma"	"NR"	"lit-r"	4.34
+"SRR6000928"	"Matson"	"Melanoma"	"R"	"lit-r"	38.36
+"SRR6000929"	"Matson"	"Melanoma"	"NR"	"lit-r"	0.03
+"SRR6000930"	"Matson"	"Melanoma"	"NR"	"lit-r"	2.88
+"SRR6000933"	"Matson"	"Melanoma"	"R"	"lit-r"	2.57
+"SRR6000934"	"Matson"	"Melanoma"	"NR"	"lit-r"	15.29
+"SRR6000935"	"Matson"	"Melanoma"	"NR"	"lit-r"	7.97
+"SRR6000936"	"Matson"	"Melanoma"	"R"	"lit-r"	7.55
+"SRR6000937"	"Matson"	"Melanoma"	"R"	"lit-r"	13.1
+"SRR6000938"	"Matson"	"Melanoma"	"NR"	"lit-r"	8.79
+"SRR6000939"	"Matson"	"Melanoma"	"NR"	"lit-r"	7.23
+"SRR6000941"	"Matson"	"Melanoma"	"NR"	"lit-r"	12.68
+"SRR6000948"	"Matson"	"Melanoma"	"NR"	"lit-r"	8.48
+"Wargo.109865"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-r"	0.35
+"Wargo.115690"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-r"	10.4375
+"Wargo.116774"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-r"	2.4
+"Wargo.117349"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-r"	12.05
+"Wargo.118369"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-r"	2.6625
+"Wargo.118370"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-r"	2.425
+"Wargo.120662"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-r"	8.5875
+"Wargo.121296"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-r"	0.6375
+"Wargo.121409"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-r"	8.075
+"Wargo.121585"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-r"	7.9625
+"Wargo.121891"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-r"	3.375
+"Wargo.121892"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-r"	18.25
+"Wargo.122114"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-r"	1.85
+"Wargo.122410"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-r"	6.65
+"Wargo.122412"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-r"	9.85
+"Wargo.122637"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-r"	0.175
+"Wargo.122639"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-r"	23.6
+"Wargo.122724"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-r"	35.675
+"Wargo.123009"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-r"	5.8
+"Wargo.123197"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-r"	10.1875
+"Wargo.123305"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-r"	5.7375
+"Wargo.123704"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-r"	1.5
+"Wargo.123986"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-r"	11.275
+"Wargo.124418"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-r"	10.575
+"Wargo.124419"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-r"	3.775
+"Wargo.124421"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-r"	3.9
+"Wargo.126747"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-r"	12.825
+"Wargo.126802"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-r"	5.9125
+"Wargo.127261"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-r"	4.35
+"Wargo.127262"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-r"	3.2375
+"Wargo.130510"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-r"	11.05
+"Wargo.130511"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-r"	4.6375
+"Wargo.130801"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-r"	24.525
+"Wargo.131051"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-r"	1.45
+"Wargo.131300"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-r"	8.0625
+"Wargo.131302"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-r"	0.0375
+"Wargo.131512"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-r"	8.9875
+"Wargo.131541"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-r"	8.05
+"Wargo.132265"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-r"	8.6125
+"Wargo.132266"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-r"	14.6
+"Wargo.132268"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-r"	16.7125
+"Wargo.132538"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-r"	2.5
+"Wargo.133270"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-r"	40.2125
+"ERR2213660"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-2.47811951520491
+"ERR2213663"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	0
+"ERR2213664"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-3.94396876630654
+"ERR2213665"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-0.02402372367717
+"ERR2213666"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-26.1346588272211
+"ERR2213669"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-7.58137284915753
+"ERR2213671"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-0.670793033809993
+"ERR2213672"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-5.46045842692246
+"ERR2213673"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-2.27592751862466
+"ERR2213674"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-1.85576616991776
+"ERR2213675"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-0.697200496910584
+"ERR2213677"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-7.54344395618524
+"ERR2213679"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-4.07426017336512
+"ERR2213680"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-3.72965082361128
+"ERR2213681"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-2.70534976088002
+"ERR2213682"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-5.72955052671205
+"ERR2213685"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-0.102159880212533
+"ERR2213688"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-5.79763057976306
+"ERR2213691"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-5.86427729988252
+"ERR2213694"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-2.89373956735609
+"ERR2213696"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-7.67198568641408
+"ERR2213699"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-28.4379628437963
+"ERR2213700"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-10.0511310607242
+"ERR2213701"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	0
+"ERR2213704"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-3.08316318698791
+"ERR2213705"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-2.2379858936359
+"ERR2213706"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-7.13802552424003
+"ERR2213707"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-2.28370132681591
+"ERR2213710"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-1.24377630956955
+"ERR2213711"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-3.71543063075036
+"ERR2213712"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-4.46334044633405
+"ERR2213713"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-2.13749052385647
+"ERR2213714"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-4.41068145029523
+"ERR2213715"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-9.22898777567445
+"ERR2213717"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-3.81059298462065
+"ERR2213718"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-6.52451782751529
+"ERR2213719"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-2.31828497614659
+"ERR2213721"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-27.284429902845
+"ERR2213722"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-4.86062086286181
+"ERR2213723"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-4.45421976253917
+"ERR2213725"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-2.6808801370081
+"ERR2213726"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-4.78059802004527
+"ERR2213727"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-7.19787
+"ERR2213728"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-4.90078046436206
+"ERR2213731"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-3.48987670164688
+"ERR2213732"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-8.32970362410701
+"ERR2213733"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-2.02694655538582
+"ERR2213734"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-5.63645110296722
+"ERR2213735"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-3.24966136019057
+"ERR2213736"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-14.2466924598593
+"ERR2213737"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-4.07797658712115
+"ERR2213740"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-11.0399791277161
+"ERR2213741"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-2.11934044628615
+"ERR2235210"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-1.15501992590801
+"ERR2235211"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-11.2123127952739
+"ERR2235212"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-7.20254819717551
+"ERR2235213"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-13.4147975782937
+"ERR2235214"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-9.46317523535744
+"ERR2235215"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-99.2137665316756
+"ERR2235216"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-8.79841912015808
+"ERR2235217"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-2.46502945314549
+"ERR2235218"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-3.88441890051015
+"ERR2235219"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-4.56910946046328
+"ERR2235220"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-4.22313156093745
+"ERR2235221"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-0.136957567955918
+"ERR2235222"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-2.6684826730397
+"ERR2235223"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-4.55169573423214
+"ERR2235224"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-3.98935753964859
+"ERR2235225"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-38.8373328298021
+"ERR2235226"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-4.65877692114766
+"ERR2235227"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-4.50426519389333
+"ERR2235228"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-6.74350261842211
+"ERR2235229"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-3.74456923792998
+"ERR2235230"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-8.39170394726606
+"ERR2235231"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-5.40492080990254
+"ERR2235232"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-5.47168080062937
+"ERR2235233"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-19.9756820466959
+"ERR2235234"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-5.75799884840023
+"ERR2235235"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-29.2303292570384
+"ERR2235236"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-3.38011962712117
+"ERR2235237"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-10.7783589878881
+"ERR2235238"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-3.23195562538662
+"ERR2235239"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-7.08194848702034
+"ERR2235240"	"Routy NSCLC"	"NSCLC"	"R"	"lit-nr"	-4.15123314621215
+"ERR2235241"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-7.71621303280172
+"ERR2235242"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-13.8650868478215
+"ERR2235243"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-nr"	-14.1441524389521
+"ERR2235244"	"Routy RCC"	"RCC"	"NR"	"lit-nr"	-27.6452215447652
+"ERR2235245"	"Routy RCC"	"RCC"	"NR"	"lit-nr"	-6.67997364233649
+"ERR2235246"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-5.86604969329061
+"ERR2235248"	"Routy RCC"	"RCC"	"NR"	"lit-nr"	-6.60041955288209
+"ERR2235251"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-0.311614915384581
+"ERR2235253"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-4.79597355605979
+"ERR2235255"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-10.7050017163051
+"ERR2235256"	"Routy RCC"	"RCC"	"NR"	"lit-nr"	-4.60216300889128
+"ERR2235257"	"Routy RCC"	"RCC"	"NR"	"lit-nr"	-7.08964960592634
+"ERR2235259"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-3.09314890532776
+"ERR2235260"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-7.19540888221764
+"ERR2235263"	"Routy RCC"	"RCC"	"NR"	"lit-nr"	-9.46078056129732
+"ERR2235265"	"Routy RCC"	"RCC"	"NR"	"lit-nr"	-1.03941036306413
+"ERR2235268"	"Routy RCC"	"RCC"	"NR"	"lit-nr"	-2.56290976341602
+"ERR2235271"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-2.18137277421729
+"ERR2235274"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-4.33953653366779
+"ERR2235275"	"Routy RCC"	"RCC"	"NR"	"lit-nr"	-6.42453634055368
+"ERR2235277"	"Routy RCC"	"RCC"	"NR"	"lit-nr"	-3.98384608053339
+"ERR2235278"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-3.24812141619997
+"ERR2235280"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-3.70278925944215
+"ERR2235282"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-2.33788525454238
+"ERR2235284"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-2.11470704385153
+"ERR2235287"	"Routy RCC"	"RCC"	"NR"	"lit-nr"	-2.22475338597294
+"ERR2235288"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-9.48745148887571
+"ERR2235290"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-2.00228979977102
+"ERR2235293"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-3.65560949433311
+"ERR2235296"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-0.659410325585163
+"ERR2235297"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-7.34788997658485
+"ERR2235300"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-7.24339173472728
+"ERR2235301"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-2.77653939499807
+"ERR2235303"	"Routy RCC"	"RCC"	"NR"	"lit-nr"	-2.11037867328632
+"ERR2235304"	"Routy RCC"	"RCC"	"NR"	"lit-nr"	-0.868809312832197
+"ERR2235306"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-5.74420888644493
+"ERR2235309"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-2.8625714222061
+"ERR2235311"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-3.52769568692268
+"ERR2235313"	"Routy RCC"	"RCC"	"NR"	"lit-nr"	-2.1194627720371
+"ERR2235315"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-0.855396983605966
+"ERR2235316"	"Routy RCC"	"RCC"	"NR"	"lit-nr"	-9.46230454529108
+"ERR2235317"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-7.67393642637143
+"ERR2235318"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-3.85974588084122
+"ERR2235319"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-8.10400082919884
+"ERR2235320"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-4.69891771819063
+"ERR2235321"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-1.78080233299769
+"ERR2235322"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-10.0908658505517
+"ERR2235323"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-1.20490002921001
+"ERR2235324"	"Routy RCC"	"RCC"	"NR"	"lit-nr"	-16.7679317501739
+"ERR2235325"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-3.38757585462897
+"ERR2235326"	"Routy RCC"	"RCC"	"NR"	"lit-nr"	-2.67948178545805
+"ERR2235327"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-2.23646517218581
+"ERR2235328"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-3.16512946011021
+"ERR2235329"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-7.65565076556507
+"ERR2235330"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-3.62804927439015
+"ERR2235331"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-5.62567263446681
+"ERR2235332"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-5.50988944901105
+"ERR2235333"	"Routy RCC"	"RCC"	"NR"	"lit-nr"	-7.08855212656563
+"ERR2235334"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-8.3843581310442
+"ERR2235335"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-2.2448031424686
+"ERR2235336"	"Routy RCC"	"RCC"	"NR"	"lit-nr"	-8.72191498911598
+"ERR2235337"	"Routy RCC"	"RCC"	"NR"	"lit-nr"	-8.39791204429539
+"ERR2235338"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-2.71651990987504
+"ERR2235339"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-6.37769643952928
+"ERR2235340"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-5.99313902229325
+"ERR2235341"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-4.81367630184738
+"ERR2235342"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-4.66341120184241
+"ERR2235343"	"Routy RCC"	"RCC"	"NR"	"lit-nr"	-10.7661888447941
+"ERR2235344"	"Routy RCC"	"RCC"	"R"	"lit-nr"	-3.39965935860112
+"SRR5367463"	"Chaput"	"Melanoma"	"NR"	"lit-nr"	-1.1
+"SRR5367466"	"Chaput"	"Melanoma"	"NR"	"lit-nr"	-0.35
+"SRR5367468"	"Chaput"	"Melanoma"	"NR"	"lit-nr"	-5.05
+"SRR5367475"	"Chaput"	"Melanoma"	"NR"	"lit-nr"	-0.15
+"SRR5367476"	"Chaput"	"Melanoma"	"NR"	"lit-nr"	-0.6
+"SRR5367480"	"Chaput"	"Melanoma"	"NR"	"lit-nr"	-2.25
+"SRR5367483"	"Chaput"	"Melanoma"	"NR"	"lit-nr"	-4.65
+"SRR5367485"	"Chaput"	"Melanoma"	"NR"	"lit-nr"	-1.45
+"SRR5367487"	"Chaput"	"Melanoma"	"NR"	"lit-nr"	-0.25
+"SRR5367488"	"Chaput"	"Melanoma"	"R"	"lit-nr"	-4
+"SRR5367492"	"Chaput"	"Melanoma"	"NR"	"lit-nr"	-2.6
+"SRR5367494"	"Chaput"	"Melanoma"	"NR"	"lit-nr"	-1.65
+"SRR5367495"	"Chaput"	"Melanoma"	"NR"	"lit-nr"	-3.65
+"SRR5367498"	"Chaput"	"Melanoma"	"NR"	"lit-nr"	-0.95
+"SRR5367501"	"Chaput"	"Melanoma"	"R"	"lit-nr"	-0.3
+"SRR5367505.R1"	"Chaput"	"Melanoma"	"NR"	"lit-nr"	-1.35
+"SRR5367508.R1"	"Chaput"	"Melanoma"	"NR"	"lit-nr"	-2.1
+"SRR5367513.R1"	"Chaput"	"Melanoma"	"R"	"lit-nr"	-2.45
+"SRR5367515.R1"	"Chaput"	"Melanoma"	"R"	"lit-nr"	-2.1
+"SRR5367520.R1"	"Chaput"	"Melanoma"	"R"	"lit-nr"	-1.5
+"SRR5367523.R1"	"Chaput"	"Melanoma"	"NR"	"lit-nr"	-3.6
+"SRR5367527.R1"	"Chaput"	"Melanoma"	"R"	"lit-nr"	-5.3
+"SRR5367533.R1"	"Chaput"	"Melanoma"	"R"	"lit-nr"	-1.338199513382
+"SRR5367537.R1"	"Chaput"	"Melanoma"	"R"	"lit-nr"	-2.95
+"SRR5367540.R1"	"Chaput"	"Melanoma"	"R"	"lit-nr"	-4.65
+"SRR5367542.R1"	"Chaput"	"Melanoma"	"NR"	"lit-nr"	-1.1
+"SRR5930493"	"Frankel"	"Melanoma"	"NR"	"lit-nr"	-2.3890190541631
+"SRR5930494"	"Frankel"	"Melanoma"	"R"	"lit-nr"	-0.602469719102137
+"SRR5930495"	"Frankel"	"Melanoma"	"R"	"lit-nr"	-21.6981023578494
+"SRR5930497"	"Frankel"	"Melanoma"	"R"	"lit-nr"	-14.3347880356998
+"SRR5930498"	"Frankel"	"Melanoma"	"R"	"lit-nr"	-4.78538139786798
+"SRR5930499"	"Frankel"	"Melanoma"	"R"	"lit-nr"	-3.07141677793104
+"SRR5930501"	"Frankel"	"Melanoma"	"NR"	"lit-nr"	-3.11404718881118
+"SRR5930502"	"Frankel"	"Melanoma"	"R"	"lit-nr"	-7.98007342759558
+"SRR5930503"	"Frankel"	"Melanoma"	"R"	"lit-nr"	-5.96809047388785
+"SRR5930504"	"Frankel"	"Melanoma"	"R"	"lit-nr"	-1.1742039343842
+"SRR5930505"	"Frankel"	"Melanoma"	"R"	"lit-nr"	-5.30724146495158
+"SRR5930506"	"Frankel"	"Melanoma"	"R"	"lit-nr"	-9.71186509160083
+"SRR5930507"	"Frankel"	"Melanoma"	"NR"	"lit-nr"	-11.4964156961989
+"SRR5930508"	"Frankel"	"Melanoma"	"NR"	"lit-nr"	-4.24910496290839
+"SRR5930509"	"Frankel"	"Melanoma"	"NR"	"lit-nr"	-12.2070454896819
+"SRR5930510"	"Frankel"	"Melanoma"	"NR"	"lit-nr"	-12.3612500308588
+"SRR5930511"	"Frankel"	"Melanoma"	"R"	"lit-nr"	-3.78542680217673
+"SRR5930512"	"Frankel"	"Melanoma"	"R"	"lit-nr"	-10.6465037482346
+"SRR5930513"	"Frankel"	"Melanoma"	"R"	"lit-nr"	-4.59339835522111
+"SRR5930514"	"Frankel"	"Melanoma"	"R"	"lit-nr"	-3.52892671426067
+"SRR5930515"	"Frankel"	"Melanoma"	"NR"	"lit-nr"	-12.6709649882664
+"SRR5930516"	"Frankel"	"Melanoma"	"R"	"lit-nr"	-3.46564035265009
+"SRR5930517"	"Frankel"	"Melanoma"	"NR"	"lit-nr"	-7.30050073005007
+"SRR5930518"	"Frankel"	"Melanoma"	"NR"	"lit-nr"	-7.67989365021338
+"SRR5930519"	"Frankel"	"Melanoma"	"NR"	"lit-nr"	-9.84367690017768
+"SRR5930520"	"Frankel"	"Melanoma"	"NR"	"lit-nr"	-3.9637748286756
+"SRR5930521"	"Frankel"	"Melanoma"	"NR"	"lit-nr"	-4.28241038144005
+"SRR5930522"	"Frankel"	"Melanoma"	"NR"	"lit-nr"	-1.64101316950131
+"SRR5930523"	"Frankel"	"Melanoma"	"R"	"lit-nr"	-15.3721855491915
+"SRR5930526"	"Frankel"	"Melanoma"	"NR"	"lit-nr"	-1.80246998252813
+"SRR5930527"	"Frankel"	"Melanoma"	"R"	"lit-nr"	-7.10750721218344
+"SRR5930528"	"Frankel"	"Melanoma"	"NR"	"lit-nr"	-6.32242493877189
+"SRR5930529"	"Frankel"	"Melanoma"	"R"	"lit-nr"	-12.0355855786332
+"SRR5930530"	"Frankel"	"Melanoma"	"R"	"lit-nr"	-2.22198886457229
+"SRR5930531"	"Frankel"	"Melanoma"	"R"	"lit-nr"	-4.00978391166517
+"SRR5930532"	"Frankel"	"Melanoma"	"R"	"lit-nr"	-13.6513581786303
+"SRR5930533"	"Frankel"	"Melanoma"	"R"	"lit-nr"	-4.234330013997
+"SRR5930534"	"Frankel"	"Melanoma"	"R"	"lit-nr"	-11.823902491342
+"SRR5930536"	"Frankel"	"Melanoma"	"R"	"lit-nr"	-9.70296120758977
+"SRR6000872"	"Matson"	"Melanoma"	"R"	"lit-nr"	-4.75
+"SRR6000875"	"Matson"	"Melanoma"	"NR"	"lit-nr"	-2.36
+"SRR6000876"	"Matson"	"Melanoma"	"NR"	"lit-nr"	-3.13
+"SRR6000879"	"Matson"	"Melanoma"	"R"	"lit-nr"	-0.79
+"SRR6000880"	"Matson"	"Melanoma"	"R"	"lit-nr"	-6.71
+"SRR6000881"	"Matson"	"Melanoma"	"R"	"lit-nr"	-2.05
+"SRR6000882"	"Matson"	"Melanoma"	"NR"	"lit-nr"	-4
+"SRR6000883"	"Matson"	"Melanoma"	"NR"	"lit-nr"	-3.25
+"SRR6000884"	"Matson"	"Melanoma"	"R"	"lit-nr"	-2.1
+"SRR6000885"	"Matson"	"Melanoma"	"R"	"lit-nr"	-3.27
+"SRR6000886"	"Matson"	"Melanoma"	"NR"	"lit-nr"	-2.57
+"SRR6000887"	"Matson"	"Melanoma"	"NR"	"lit-nr"	-4.54
+"SRR6000888"	"Matson"	"Melanoma"	"R"	"lit-nr"	-5.54
+"SRR6000889"	"Matson"	"Melanoma"	"NR"	"lit-nr"	-3
+"SRR6000897"	"Matson"	"Melanoma"	"NR"	"lit-nr"	-6.95
+"SRR6000898"	"Matson"	"Melanoma"	"R"	"lit-nr"	-4.98
+"SRR6000904"	"Matson"	"Melanoma"	"NR"	"lit-nr"	-2.86
+"SRR6000913"	"Matson"	"Melanoma"	"R"	"lit-nr"	-9.68
+"SRR6000914"	"Matson"	"Melanoma"	"NR"	"lit-nr"	-2.55
+"SRR6000915"	"Matson"	"Melanoma"	"NR"	"lit-nr"	-2.8
+"SRR6000916"	"Matson"	"Melanoma"	"R"	"lit-nr"	-8.64
+"SRR6000917"	"Matson"	"Melanoma"	"NR"	"lit-nr"	-2.16
+"SRR6000918"	"Matson"	"Melanoma"	"NR"	"lit-nr"	-6.03
+"SRR6000919"	"Matson"	"Melanoma"	"R"	"lit-nr"	-0.68
+"SRR6000922"	"Matson"	"Melanoma"	"NR"	"lit-nr"	-3.13
+"SRR6000923"	"Matson"	"Melanoma"	"NR"	"lit-nr"	-5.83
+"SRR6000924"	"Matson"	"Melanoma"	"NR"	"lit-nr"	-1.87
+"SRR6000925"	"Matson"	"Melanoma"	"R"	"lit-nr"	-2.07
+"SRR6000926"	"Matson"	"Melanoma"	"NR"	"lit-nr"	-2
+"SRR6000927"	"Matson"	"Melanoma"	"NR"	"lit-nr"	-8.38
+"SRR6000928"	"Matson"	"Melanoma"	"R"	"lit-nr"	-0.04
+"SRR6000929"	"Matson"	"Melanoma"	"NR"	"lit-nr"	-3.16
+"SRR6000930"	"Matson"	"Melanoma"	"NR"	"lit-nr"	-1.01
+"SRR6000933"	"Matson"	"Melanoma"	"R"	"lit-nr"	-21.23
+"SRR6000934"	"Matson"	"Melanoma"	"NR"	"lit-nr"	-23.97
+"SRR6000935"	"Matson"	"Melanoma"	"NR"	"lit-nr"	-3.77
+"SRR6000936"	"Matson"	"Melanoma"	"R"	"lit-nr"	-3.19
+"SRR6000937"	"Matson"	"Melanoma"	"R"	"lit-nr"	-2.58
+"SRR6000938"	"Matson"	"Melanoma"	"NR"	"lit-nr"	-2.94
+"SRR6000939"	"Matson"	"Melanoma"	"NR"	"lit-nr"	-1.06
+"SRR6000941"	"Matson"	"Melanoma"	"NR"	"lit-nr"	-1.46
+"SRR6000948"	"Matson"	"Melanoma"	"NR"	"lit-nr"	-4.02
+"Wargo.109865"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-nr"	-3.125
+"Wargo.115690"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-nr"	-1.4125
+"Wargo.116774"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-nr"	-0.6625
+"Wargo.117349"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-nr"	-11.275
+"Wargo.118369"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-nr"	-2.1125
+"Wargo.118370"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-nr"	-2.4
+"Wargo.120662"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-nr"	-2.7625
+"Wargo.121296"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-nr"	-1.5
+"Wargo.121409"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-nr"	-9.1375
+"Wargo.121585"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-nr"	-6.7625
+"Wargo.121891"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-nr"	-1.8375
+"Wargo.121892"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-nr"	-2.5625
+"Wargo.122114"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-nr"	-5.725
+"Wargo.122410"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-nr"	-0.2125
+"Wargo.122412"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-nr"	-3.95
+"Wargo.122637"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-nr"	-0.6875
+"Wargo.122639"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-nr"	-0.025
+"Wargo.122724"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-nr"	-3.025
+"Wargo.123009"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-nr"	-2.5375
+"Wargo.123197"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-nr"	-8.025
+"Wargo.123305"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-nr"	-1.425
+"Wargo.123704"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-nr"	-2.4875
+"Wargo.123986"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-nr"	-21.15
+"Wargo.124418"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-nr"	-1.925
+"Wargo.124419"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-nr"	-5.7125
+"Wargo.124421"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-nr"	-4.5
+"Wargo.126747"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-nr"	-1.9875
+"Wargo.126802"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-nr"	-1.55
+"Wargo.127261"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-nr"	-3.925
+"Wargo.127262"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-nr"	-2.175
+"Wargo.130510"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-nr"	-1.1875
+"Wargo.130511"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-nr"	-2.675
+"Wargo.130801"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-nr"	-6.1375
+"Wargo.131051"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-nr"	-0.0125
+"Wargo.131300"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-nr"	-5.725
+"Wargo.131302"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-nr"	-13.6625
+"Wargo.131512"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-nr"	-0.775
+"Wargo.131541"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-nr"	-0.35
+"Wargo.132265"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-nr"	-3.7
+"Wargo.132266"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-nr"	-3.8625
+"Wargo.132268"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-nr"	-11.7
+"Wargo.132538"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-nr"	-1.1125
+"Wargo.133270"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-nr"	-0.4875
+"ERR2213660"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	22.7288164638838
+"ERR2213663"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	0.0201858809157618
+"ERR2213664"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	7.68736267360989
+"ERR2213665"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	0.188179167771004
+"ERR2213666"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	-14.6192301708071
+"ERR2213669"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	4.00524802677872
+"ERR2213671"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	11.3077468699192
+"ERR2213672"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	5.9581173176089
+"ERR2213673"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	6.63211884558858
+"ERR2213674"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	19.9936357931299
+"ERR2213675"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	14.7189216669586
+"ERR2213677"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	9.34531019686254
+"ERR2213679"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	4.92273892784495
+"ERR2213680"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	28.8057086946777
+"ERR2213681"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	12.253679843897
+"ERR2213682"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	0.512679956462999
+"ERR2213685"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	35.686855498817
+"ERR2213688"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	6.62821066282107
+"ERR2213691"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	-9.54632901616772
+"ERR2213694"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	2.33269959407208
+"ERR2213696"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	-5.1252105058336
+"ERR2213699"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	-34.1373445539988
+"ERR2213700"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	0.98628991749999
+"ERR2213701"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	21.71404
+"ERR2213704"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	18.998653367777
+"ERR2213705"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	2.40716593136592
+"ERR2213706"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	4.68531465765744
+"ERR2213707"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	12.3296408428694
+"ERR2213710"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	22.4244310990302
+"ERR2213711"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	6.66643585994477
+"ERR2213712"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	-6.49607064960707
+"ERR2213713"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	11.789299726193
+"ERR2213714"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	-2.98559731413129
+"ERR2213715"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	5.10286198512773
+"ERR2213717"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	11.5323951699753
+"ERR2213718"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	7.12526252787807
+"ERR2213719"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	8.67541718893592
+"ERR2213721"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	-24.4795346594626
+"ERR2213722"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	8.54311320349513
+"ERR2213723"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	33.0362045483478
+"ERR2213725"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	10.4866014184886
+"ERR2213726"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	-4.19521700486683
+"ERR2213727"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	11.46013
+"ERR2213728"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	6.00504733582973
+"ERR2213731"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	12.3077380712084
+"ERR2213732"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	-0.282799464118976
+"ERR2213733"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	11.1229906357811
+"ERR2213734"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	-10.1537609709546
+"ERR2213735"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	16.0132874109165
+"ERR2213736"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	-22.9488059669507
+"ERR2213737"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	-1.20040554484768
+"ERR2213740"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	1.66448689136347
+"ERR2213741"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	15.6262987865662
+"ERR2235210"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	3.578650030589
+"ERR2235211"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	13.798312614867
+"ERR2235212"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	16.9039761075951
+"ERR2235213"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	-13.32126591343
+"ERR2235214"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	-1.30946588519543
+"ERR2235215"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	-99.2137665316756
+"ERR2235216"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	-12.0648387935161
+"ERR2235217"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	15.3139002627978
+"ERR2235218"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	1.01079090994916
+"ERR2235219"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	18.8637658572715
+"ERR2235220"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	-2.77498951388422
+"ERR2235221"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	4.04828199259117
+"ERR2235222"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	35.221307514582
+"ERR2235223"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	7.82959859148033
+"ERR2235224"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	14.8556804604558
+"ERR2235225"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	-38.8373328298021
+"ERR2235226"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	5.19143024709091
+"ERR2235227"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	15.8088460930314
+"ERR2235228"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	7.42584002686694
+"ERR2235229"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	9.75601197821166
+"ERR2235230"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	-0.473995331414004
+"ERR2235231"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	2.71824672564898
+"ERR2235232"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	-7.8780765081918
+"ERR2235233"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	-17.381788480081
+"ERR2235234"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	-16.7357366528526
+"ERR2235235"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	-18.5280205156577
+"ERR2235236"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	2.95125984149815
+"ERR2235237"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	-14.2216902689555
+"ERR2235238"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	5.63380997733052
+"ERR2235239"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	-4.7624681965087
+"ERR2235240"	"Routy NSCLC"	"NSCLC"	"R"	"lit-agg"	15.8033755439414
+"ERR2235241"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	24.1060067237405
+"ERR2235242"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	-12.3451055755553
+"ERR2235243"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-agg"	-9.22554168740623
+"ERR2235244"	"Routy RCC"	"RCC"	"NR"	"lit-agg"	-11.1324573491309
+"ERR2235245"	"Routy RCC"	"RCC"	"NR"	"lit-agg"	3.48161962446882
+"ERR2235246"	"Routy RCC"	"RCC"	"R"	"lit-agg"	6.30113814986179
+"ERR2235248"	"Routy RCC"	"RCC"	"NR"	"lit-agg"	10.3157792471321
+"ERR2235251"	"Routy RCC"	"RCC"	"R"	"lit-agg"	11.8444419395062
+"ERR2235253"	"Routy RCC"	"RCC"	"R"	"lit-agg"	7.09553865236581
+"ERR2235255"	"Routy RCC"	"RCC"	"R"	"lit-agg"	6.32748514630649
+"ERR2235256"	"Routy RCC"	"RCC"	"NR"	"lit-agg"	7.70411049666293
+"ERR2235257"	"Routy RCC"	"RCC"	"NR"	"lit-agg"	6.00988480335374
+"ERR2235259"	"Routy RCC"	"RCC"	"R"	"lit-agg"	5.68876561627199
+"ERR2235260"	"Routy RCC"	"RCC"	"R"	"lit-agg"	19.3137932253085
+"ERR2235263"	"Routy RCC"	"RCC"	"NR"	"lit-agg"	-4.57650003378456
+"ERR2235265"	"Routy RCC"	"RCC"	"NR"	"lit-agg"	8.51041324709025
+"ERR2235268"	"Routy RCC"	"RCC"	"NR"	"lit-agg"	14.8351186336802
+"ERR2235271"	"Routy RCC"	"RCC"	"R"	"lit-agg"	20.1383605001018
+"ERR2235274"	"Routy RCC"	"RCC"	"R"	"lit-agg"	3.80192100311369
+"ERR2235275"	"Routy RCC"	"RCC"	"NR"	"lit-agg"	7.42548024411655
+"ERR2235277"	"Routy RCC"	"RCC"	"NR"	"lit-agg"	19.5973380955301
+"ERR2235278"	"Routy RCC"	"RCC"	"R"	"lit-agg"	22.6429176657378
+"ERR2235280"	"Routy RCC"	"RCC"	"R"	"lit-agg"	-3.70472925924815
+"ERR2235282"	"Routy RCC"	"RCC"	"R"	"lit-agg"	13.5126322744342
+"ERR2235284"	"Routy RCC"	"RCC"	"R"	"lit-agg"	3.40616312943942
+"ERR2235287"	"Routy RCC"	"RCC"	"NR"	"lit-agg"	21.2629098940234
+"ERR2235288"	"Routy RCC"	"RCC"	"R"	"lit-agg"	1.96691770605477
+"ERR2235290"	"Routy RCC"	"RCC"	"R"	"lit-agg"	10.1130889886911
+"ERR2235293"	"Routy RCC"	"RCC"	"R"	"lit-agg"	5.86789901931025
+"ERR2235296"	"Routy RCC"	"RCC"	"R"	"lit-agg"	11.3899138537019
+"ERR2235297"	"Routy RCC"	"RCC"	"R"	"lit-agg"	-0.0969327714141508
+"ERR2235300"	"Routy RCC"	"RCC"	"R"	"lit-agg"	34.8321785109892
+"ERR2235301"	"Routy RCC"	"RCC"	"R"	"lit-agg"	14.8820278796371
+"ERR2235303"	"Routy RCC"	"RCC"	"NR"	"lit-agg"	5.04125785852012
+"ERR2235304"	"Routy RCC"	"RCC"	"NR"	"lit-agg"	18.2025588639955
+"ERR2235306"	"Routy RCC"	"RCC"	"R"	"lit-agg"	1.75345489636981
+"ERR2235309"	"Routy RCC"	"RCC"	"R"	"lit-agg"	11.845579807989
+"ERR2235311"	"Routy RCC"	"RCC"	"R"	"lit-agg"	8.8041303095933
+"ERR2235313"	"Routy RCC"	"RCC"	"NR"	"lit-agg"	-1.54879332358238
+"ERR2235315"	"Routy RCC"	"RCC"	"R"	"lit-agg"	0.943898137676081
+"ERR2235316"	"Routy RCC"	"RCC"	"NR"	"lit-agg"	1.93883430212631
+"ERR2235317"	"Routy RCC"	"RCC"	"R"	"lit-agg"	1.39811823650377
+"ERR2235318"	"Routy RCC"	"RCC"	"R"	"lit-agg"	3.32136481390516
+"ERR2235319"	"Routy RCC"	"RCC"	"R"	"lit-agg"	11.4650252924257
+"ERR2235320"	"Routy RCC"	"RCC"	"R"	"lit-agg"	6.45207755880594
+"ERR2235321"	"Routy RCC"	"RCC"	"R"	"lit-agg"	11.133089344919
+"ERR2235322"	"Routy RCC"	"RCC"	"R"	"lit-agg"	-1.15969955162617
+"ERR2235323"	"Routy RCC"	"RCC"	"R"	"lit-agg"	4.54995986377397
+"ERR2235324"	"Routy RCC"	"RCC"	"NR"	"lit-agg"	-16.5188032740535
+"ERR2235325"	"Routy RCC"	"RCC"	"R"	"lit-agg"	-6.5115379288945
+"ERR2235326"	"Routy RCC"	"RCC"	"NR"	"lit-agg"	6.77499856915906
+"ERR2235327"	"Routy RCC"	"RCC"	"R"	"lit-agg"	5.7232616682648
+"ERR2235328"	"Routy RCC"	"RCC"	"R"	"lit-agg"	12.6517517994569
+"ERR2235329"	"Routy RCC"	"RCC"	"R"	"lit-agg"	2.18346021834602
+"ERR2235330"	"Routy RCC"	"RCC"	"R"	"lit-agg"	17.3372665325467
+"ERR2235331"	"Routy RCC"	"RCC"	"R"	"lit-agg"	13.8937662297325
+"ERR2235332"	"Routy RCC"	"RCC"	"R"	"lit-agg"	7.51687924831212
+"ERR2235333"	"Routy RCC"	"RCC"	"NR"	"lit-agg"	-5.25800159063948
+"ERR2235334"	"Routy RCC"	"RCC"	"R"	"lit-agg"	6.70662449740333
+"ERR2235335"	"Routy RCC"	"RCC"	"R"	"lit-agg"	8.63490375888861
+"ERR2235336"	"Routy RCC"	"RCC"	"NR"	"lit-agg"	17.3368687795005
+"ERR2235337"	"Routy RCC"	"RCC"	"NR"	"lit-agg"	-0.202611216664044
+"ERR2235338"	"Routy RCC"	"RCC"	"R"	"lit-agg"	8.5544654080973
+"ERR2235339"	"Routy RCC"	"RCC"	"R"	"lit-agg"	-4.39016961694556
+"ERR2235340"	"Routy RCC"	"RCC"	"R"	"lit-agg"	22.3505220196321
+"ERR2235341"	"Routy RCC"	"RCC"	"R"	"lit-agg"	15.049505553245
+"ERR2235342"	"Routy RCC"	"RCC"	"R"	"lit-agg"	9.2391440198466
+"ERR2235343"	"Routy RCC"	"RCC"	"NR"	"lit-agg"	11.3352088781301
+"ERR2235344"	"Routy RCC"	"RCC"	"R"	"lit-agg"	1.76329949656112
+"SRR5367463"	"Chaput"	"Melanoma"	"NR"	"lit-agg"	14.2
+"SRR5367466"	"Chaput"	"Melanoma"	"NR"	"lit-agg"	10.25
+"SRR5367468"	"Chaput"	"Melanoma"	"NR"	"lit-agg"	5.05
+"SRR5367475"	"Chaput"	"Melanoma"	"NR"	"lit-agg"	6.7
+"SRR5367476"	"Chaput"	"Melanoma"	"NR"	"lit-agg"	8.85
+"SRR5367480"	"Chaput"	"Melanoma"	"NR"	"lit-agg"	6.4
+"SRR5367483"	"Chaput"	"Melanoma"	"NR"	"lit-agg"	8.1
+"SRR5367485"	"Chaput"	"Melanoma"	"NR"	"lit-agg"	3.5
+"SRR5367487"	"Chaput"	"Melanoma"	"NR"	"lit-agg"	-1.4
+"SRR5367488"	"Chaput"	"Melanoma"	"R"	"lit-agg"	0.2
+"SRR5367492"	"Chaput"	"Melanoma"	"NR"	"lit-agg"	3.55
+"SRR5367494"	"Chaput"	"Melanoma"	"NR"	"lit-agg"	2.7
+"SRR5367495"	"Chaput"	"Melanoma"	"NR"	"lit-agg"	11.1
+"SRR5367498"	"Chaput"	"Melanoma"	"NR"	"lit-agg"	14.25
+"SRR5367501"	"Chaput"	"Melanoma"	"R"	"lit-agg"	11.75
+"SRR5367505.R1"	"Chaput"	"Melanoma"	"NR"	"lit-agg"	5.4
+"SRR5367508.R1"	"Chaput"	"Melanoma"	"NR"	"lit-agg"	17.25
+"SRR5367513.R1"	"Chaput"	"Melanoma"	"R"	"lit-agg"	22.65
+"SRR5367515.R1"	"Chaput"	"Melanoma"	"R"	"lit-agg"	23.05
+"SRR5367520.R1"	"Chaput"	"Melanoma"	"R"	"lit-agg"	18.5
+"SRR5367523.R1"	"Chaput"	"Melanoma"	"NR"	"lit-agg"	6.25
+"SRR5367527.R1"	"Chaput"	"Melanoma"	"R"	"lit-agg"	10.9
+"SRR5367533.R1"	"Chaput"	"Melanoma"	"R"	"lit-agg"	14.2944038929441
+"SRR5367537.R1"	"Chaput"	"Melanoma"	"R"	"lit-agg"	18.65
+"SRR5367540.R1"	"Chaput"	"Melanoma"	"R"	"lit-agg"	9.8
+"SRR5367542.R1"	"Chaput"	"Melanoma"	"NR"	"lit-agg"	4.3
+"SRR5930493"	"Frankel"	"Melanoma"	"NR"	"lit-agg"	4.95977205893962
+"SRR5930494"	"Frankel"	"Melanoma"	"R"	"lit-agg"	4.39651836156171
+"SRR5930495"	"Frankel"	"Melanoma"	"R"	"lit-agg"	5.56834908943116
+"SRR5930497"	"Frankel"	"Melanoma"	"R"	"lit-agg"	5.77404290168013
+"SRR5930498"	"Frankel"	"Melanoma"	"R"	"lit-agg"	2.73757928903646
+"SRR5930499"	"Frankel"	"Melanoma"	"R"	"lit-agg"	7.64550515092971
+"SRR5930501"	"Frankel"	"Melanoma"	"NR"	"lit-agg"	24.8082305869111
+"SRR5930502"	"Frankel"	"Melanoma"	"R"	"lit-agg"	9.90533268317345
+"SRR5930503"	"Frankel"	"Melanoma"	"R"	"lit-agg"	7.36977562471608
+"SRR5930504"	"Frankel"	"Melanoma"	"R"	"lit-agg"	10.921835178572
+"SRR5930505"	"Frankel"	"Melanoma"	"R"	"lit-agg"	5.29354103470191
+"SRR5930506"	"Frankel"	"Melanoma"	"R"	"lit-agg"	-6.98021686263971
+"SRR5930507"	"Frankel"	"Melanoma"	"NR"	"lit-agg"	-5.75393340722252
+"SRR5930508"	"Frankel"	"Melanoma"	"NR"	"lit-agg"	5.06834381844028
+"SRR5930509"	"Frankel"	"Melanoma"	"NR"	"lit-agg"	-2.71321586499471
+"SRR5930510"	"Frankel"	"Melanoma"	"NR"	"lit-agg"	-3.1709046150546
+"SRR5930511"	"Frankel"	"Melanoma"	"R"	"lit-agg"	13.8375933015132
+"SRR5930512"	"Frankel"	"Melanoma"	"R"	"lit-agg"	-3.44405217699396
+"SRR5930513"	"Frankel"	"Melanoma"	"R"	"lit-agg"	-11.00974468164
+"SRR5930514"	"Frankel"	"Melanoma"	"R"	"lit-agg"	1.76821944911959
+"SRR5930515"	"Frankel"	"Melanoma"	"NR"	"lit-agg"	-11.2953947382895
+"SRR5930516"	"Frankel"	"Melanoma"	"R"	"lit-agg"	13.1654507277028
+"SRR5930517"	"Frankel"	"Melanoma"	"NR"	"lit-agg"	32.4062332406234
+"SRR5930518"	"Frankel"	"Melanoma"	"NR"	"lit-agg"	-1.5368873696751
+"SRR5930519"	"Frankel"	"Melanoma"	"NR"	"lit-agg"	-14.5485904538905
+"SRR5930520"	"Frankel"	"Melanoma"	"NR"	"lit-agg"	17.9979492587522
+"SRR5930521"	"Frankel"	"Melanoma"	"NR"	"lit-agg"	2.68789312323834
+"SRR5930522"	"Frankel"	"Melanoma"	"NR"	"lit-agg"	3.09265282391678
+"SRR5930523"	"Frankel"	"Melanoma"	"R"	"lit-agg"	-4.41237689601648
+"SRR5930526"	"Frankel"	"Melanoma"	"NR"	"lit-agg"	11.9278994143778
+"SRR5930527"	"Frankel"	"Melanoma"	"R"	"lit-agg"	11.6717484431553
+"SRR5930528"	"Frankel"	"Melanoma"	"NR"	"lit-agg"	-6.16341332001883
+"SRR5930529"	"Frankel"	"Melanoma"	"R"	"lit-agg"	-4.66750652246495
+"SRR5930530"	"Frankel"	"Melanoma"	"R"	"lit-agg"	20.5362579599923
+"SRR5930531"	"Frankel"	"Melanoma"	"R"	"lit-agg"	9.85458419802737
+"SRR5930532"	"Frankel"	"Melanoma"	"R"	"lit-agg"	-10.2324668234483
+"SRR5930533"	"Frankel"	"Melanoma"	"R"	"lit-agg"	3.90775016778302
+"SRR5930534"	"Frankel"	"Melanoma"	"R"	"lit-agg"	1.85594867250544
+"SRR5930536"	"Frankel"	"Melanoma"	"R"	"lit-agg"	-1.71937755845875
+"SRR6000872"	"Matson"	"Melanoma"	"R"	"lit-agg"	10.17
+"SRR6000875"	"Matson"	"Melanoma"	"NR"	"lit-agg"	3.82
+"SRR6000876"	"Matson"	"Melanoma"	"NR"	"lit-agg"	-1.37
+"SRR6000879"	"Matson"	"Melanoma"	"R"	"lit-agg"	7.05
+"SRR6000880"	"Matson"	"Melanoma"	"R"	"lit-agg"	-6.68
+"SRR6000881"	"Matson"	"Melanoma"	"R"	"lit-agg"	10.24
+"SRR6000882"	"Matson"	"Melanoma"	"NR"	"lit-agg"	-0.81
+"SRR6000883"	"Matson"	"Melanoma"	"NR"	"lit-agg"	2.42
+"SRR6000884"	"Matson"	"Melanoma"	"R"	"lit-agg"	16.5
+"SRR6000885"	"Matson"	"Melanoma"	"R"	"lit-agg"	8.38
+"SRR6000886"	"Matson"	"Melanoma"	"NR"	"lit-agg"	6.71
+"SRR6000887"	"Matson"	"Melanoma"	"NR"	"lit-agg"	0.679999999999999
+"SRR6000888"	"Matson"	"Melanoma"	"R"	"lit-agg"	2.69
+"SRR6000889"	"Matson"	"Melanoma"	"NR"	"lit-agg"	5.71
+"SRR6000897"	"Matson"	"Melanoma"	"NR"	"lit-agg"	-0.27
+"SRR6000898"	"Matson"	"Melanoma"	"R"	"lit-agg"	8.11
+"SRR6000904"	"Matson"	"Melanoma"	"NR"	"lit-agg"	5.51
+"SRR6000913"	"Matson"	"Melanoma"	"R"	"lit-agg"	0.98
+"SRR6000914"	"Matson"	"Melanoma"	"NR"	"lit-agg"	10.39
+"SRR6000915"	"Matson"	"Melanoma"	"NR"	"lit-agg"	7.58
+"SRR6000916"	"Matson"	"Melanoma"	"R"	"lit-agg"	-2.3
+"SRR6000917"	"Matson"	"Melanoma"	"NR"	"lit-agg"	5.79
+"SRR6000918"	"Matson"	"Melanoma"	"NR"	"lit-agg"	2.74
+"SRR6000919"	"Matson"	"Melanoma"	"R"	"lit-agg"	11.31
+"SRR6000922"	"Matson"	"Melanoma"	"NR"	"lit-agg"	4.8
+"SRR6000923"	"Matson"	"Melanoma"	"NR"	"lit-agg"	-1.08
+"SRR6000924"	"Matson"	"Melanoma"	"NR"	"lit-agg"	11.09
+"SRR6000925"	"Matson"	"Melanoma"	"R"	"lit-agg"	14.52
+"SRR6000926"	"Matson"	"Melanoma"	"NR"	"lit-agg"	12.19
+"SRR6000927"	"Matson"	"Melanoma"	"NR"	"lit-agg"	-4.04
+"SRR6000928"	"Matson"	"Melanoma"	"R"	"lit-agg"	38.32
+"SRR6000929"	"Matson"	"Melanoma"	"NR"	"lit-agg"	-3.13
+"SRR6000930"	"Matson"	"Melanoma"	"NR"	"lit-agg"	1.87
+"SRR6000933"	"Matson"	"Melanoma"	"R"	"lit-agg"	-18.66
+"SRR6000934"	"Matson"	"Melanoma"	"NR"	"lit-agg"	-8.68
+"SRR6000935"	"Matson"	"Melanoma"	"NR"	"lit-agg"	4.2
+"SRR6000936"	"Matson"	"Melanoma"	"R"	"lit-agg"	4.36
+"SRR6000937"	"Matson"	"Melanoma"	"R"	"lit-agg"	10.52
+"SRR6000938"	"Matson"	"Melanoma"	"NR"	"lit-agg"	5.85
+"SRR6000939"	"Matson"	"Melanoma"	"NR"	"lit-agg"	6.17
+"SRR6000941"	"Matson"	"Melanoma"	"NR"	"lit-agg"	11.22
+"SRR6000948"	"Matson"	"Melanoma"	"NR"	"lit-agg"	4.46
+"Wargo.109865"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-agg"	-2.775
+"Wargo.115690"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-agg"	9.025
+"Wargo.116774"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-agg"	1.7375
+"Wargo.117349"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-agg"	0.775
+"Wargo.118369"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-agg"	0.55
+"Wargo.118370"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-agg"	0.025
+"Wargo.120662"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-agg"	5.825
+"Wargo.121296"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-agg"	-0.8625
+"Wargo.121409"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-agg"	-1.0625
+"Wargo.121585"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-agg"	1.2
+"Wargo.121891"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-agg"	1.5375
+"Wargo.121892"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-agg"	15.6875
+"Wargo.122114"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-agg"	-3.875
+"Wargo.122410"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-agg"	6.4375
+"Wargo.122412"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-agg"	5.9
+"Wargo.122637"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-agg"	-0.5125
+"Wargo.122639"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-agg"	23.575
+"Wargo.122724"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-agg"	32.65
+"Wargo.123009"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-agg"	3.2625
+"Wargo.123197"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-agg"	2.1625
+"Wargo.123305"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-agg"	4.3125
+"Wargo.123704"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-agg"	-0.9875
+"Wargo.123986"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-agg"	-9.875
+"Wargo.124418"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-agg"	8.65
+"Wargo.124419"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-agg"	-1.9375
+"Wargo.124421"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-agg"	-0.6
+"Wargo.126747"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-agg"	10.8375
+"Wargo.126802"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-agg"	4.3625
+"Wargo.127261"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-agg"	0.425000000000001
+"Wargo.127262"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-agg"	1.0625
+"Wargo.130510"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-agg"	9.8625
+"Wargo.130511"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-agg"	1.9625
+"Wargo.130801"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-agg"	18.3875
+"Wargo.131051"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-agg"	1.4375
+"Wargo.131300"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-agg"	2.3375
+"Wargo.131302"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-agg"	-13.625
+"Wargo.131512"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-agg"	8.2125
+"Wargo.131541"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-agg"	7.7
+"Wargo.132265"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-agg"	4.9125
+"Wargo.132266"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-agg"	10.7375
+"Wargo.132268"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-agg"	5.0125
+"Wargo.132538"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-agg"	1.3875
+"Wargo.133270"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-agg"	39.725
+"ERR2213660"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	20.0361785347015
+"ERR2213663"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	0.0201858809157618
+"ERR2213664"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	5.58308647382681
+"ERR2213665"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	0.212202891448174
+"ERR2213666"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	9.86036795001936
+"ERR2213669"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	11.5866208759363
+"ERR2213671"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	11.9785399037292
+"ERR2213672"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	11.4185757445314
+"ERR2213673"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	1.75415233874223
+"ERR2213674"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	6.63903617066034
+"ERR2213675"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	15.4161221638692
+"ERR2213677"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	16.8887541530478
+"ERR2213679"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	8.99699910121007
+"ERR2213680"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	8.06342196548263
+"ERR2213681"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	4.23198960477704
+"ERR2213682"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	5.18156048317505
+"ERR2213685"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	35.7890153790296
+"ERR2213688"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	4.57220045722005
+"ERR2213691"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	-3.93423822267293
+"ERR2213694"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	5.16994916142817
+"ERR2213696"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	2.54473516834041
+"ERR2213699"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	-5.6993817102025
+"ERR2213700"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	11.0374209782242
+"ERR2213701"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	13.51001
+"ERR2213704"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	5.06293365085774
+"ERR2213705"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	4.64515182500182
+"ERR2213706"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	11.8233401818975
+"ERR2213707"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	14.4596826810457
+"ERR2213710"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	9.61139328122546
+"ERR2213711"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	10.3818664906951
+"ERR2213712"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	-2.51007025100703
+"ERR2213713"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	13.8694092595061
+"ERR2213714"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	1.42508413616394
+"ERR2213715"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	13.4334469314474
+"ERR2213717"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	15.342988154596
+"ERR2213718"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	10.5489517508362
+"ERR2213719"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	10.9937021650825
+"ERR2213721"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	2.80489524338238
+"ERR2213722"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	3.75271512104817
+"ERR2213723"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	29.6204898198411
+"ERR2213725"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	7.22339214990565
+"ERR2213726"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	0.585381015178442
+"ERR2213727"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	18.658
+"ERR2213728"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	8.18706861581954
+"ERR2213731"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	10.3679767274776
+"ERR2213732"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	6.404183118767
+"ERR2213733"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	1.83750878956207
+"ERR2213734"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	-4.51730986798742
+"ERR2213735"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	8.56355342140937
+"ERR2213736"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	-8.70211350709144
+"ERR2213737"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	1.72674484947578
+"ERR2213740"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	12.7044660190796
+"ERR2213741"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	3.14763069265323
+"ERR2235210"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	4.720259957838
+"ERR2235211"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	3.59806888545897
+"ERR2235212"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	24.1065243047706
+"ERR2235213"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	0
+"ERR2235214"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	7.9885961656008
+"ERR2235215"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	0
+"ERR2235216"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	-3.26641967335803
+"ERR2235217"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	17.1743920069847
+"ERR2235218"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	4.8003074953667
+"ERR2235219"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	18.3209102513238
+"ERR2235220"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	1.44814204705323
+"ERR2235221"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	4.18523956054709
+"ERR2235222"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	9.37228600959619
+"ERR2235223"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	12.3794330799807
+"ERR2235224"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	11.2316757348157
+"ERR2235225"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	0
+"ERR2235226"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	9.85020716823858
+"ERR2235227"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	18.7855171934775
+"ERR2235228"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	14.169342645289
+"ERR2235229"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	13.4137071417476
+"ERR2235230"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	7.91770861585205
+"ERR2235231"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	8.12316753555151
+"ERR2235232"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	-2.40639570756243
+"ERR2235233"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	1.18036769060844
+"ERR2235234"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	-10.9777378044524
+"ERR2235235"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	10.7023087413808
+"ERR2235236"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	4.9745890615822
+"ERR2235237"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	-3.44333128106736
+"ERR2235238"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	8.67566275707766
+"ERR2235239"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	2.31284029316763
+"ERR2235240"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-r"	7.53086972159633
+"ERR2235241"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	3.41385410899277
+"ERR2235242"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	1.51517539132796
+"ERR2235243"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-r"	4.91861075154584
+"ERR2235244"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-r"	16.5127641956342
+"ERR2235245"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-r"	9.56932090419702
+"ERR2235246"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	11.0951859279831
+"ERR2235248"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-r"	15.0960091640522
+"ERR2235251"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	5.20616382883938
+"ERR2235253"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	10.2397511069555
+"ERR2235255"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	17.0324868626116
+"ERR2235256"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-r"	12.3062735055542
+"ERR2235257"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-r"	12.9110758068678
+"ERR2235259"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	8.7037647294308
+"ERR2235260"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	20.0968756925494
+"ERR2235263"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-r"	3.88414425634254
+"ERR2235265"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-r"	7.5832430201802
+"ERR2235268"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-r"	17.3980283970962
+"ERR2235271"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	11.5913708700204
+"ERR2235274"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	3.80992492512523
+"ERR2235275"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-r"	13.8500165846702
+"ERR2235277"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-r"	7.52756166002305
+"ERR2235278"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	6.85643619116976
+"ERR2235280"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	-0.00193999980600002
+"ERR2235282"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	15.8505175289766
+"ERR2235284"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	4.85580062560965
+"ERR2235287"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-r"	20.3139101532618
+"ERR2235288"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	11.2689821513372
+"ERR2235290"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	12.1153787884621
+"ERR2235293"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	9.52350851364336
+"ERR2235296"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	4.78836054880528
+"ERR2235297"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	7.16965049114179
+"ERR2235300"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	7.61698954998067
+"ERR2235301"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	17.6585672746352
+"ERR2235303"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-r"	7.15163653180644
+"ERR2235304"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-r"	19.0713681768277
+"ERR2235306"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	7.49766378281474
+"ERR2235309"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	13.9228578855909
+"ERR2235311"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	5.8029414423785
+"ERR2235313"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-r"	0.566567507005841
+"ERR2235315"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	1.79929512128205
+"ERR2235316"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-r"	10.5680369509647
+"ERR2235317"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	8.32534083449202
+"ERR2235318"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	6.98198161818084
+"ERR2235319"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	17.6746022176572
+"ERR2235320"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	10.0338509243181
+"ERR2235321"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	1.46869737165728
+"ERR2235322"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	8.91153631070355
+"ERR2235323"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	5.74781989157598
+"ERR2235324"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-r"	0.249128476120451
+"ERR2235325"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	-3.12396207426553
+"ERR2235326"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-r"	9.45448035461712
+"ERR2235327"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	6.94243415482372
+"ERR2235328"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	15.5531731224921
+"ERR2235329"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	9.83911098391109
+"ERR2235330"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	17.6252164749567
+"ERR2235331"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	19.3874808915234
+"ERR2235332"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	12.8804287119572
+"ERR2235333"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-r"	1.83055053592616
+"ERR2235334"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	14.699836658584
+"ERR2235335"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	10.6529579163231
+"ERR2235336"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-r"	13.7863784292539
+"ERR2235337"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-r"	4.63366792386829
+"ERR2235338"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	11.1969553549873
+"ERR2235339"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	1.93065071460511
+"ERR2235340"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	11.7132976940707
+"ERR2235341"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	17.8828676958814
+"ERR2235342"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	13.830645214498
+"ERR2235343"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-r"	22.1013977229242
+"ERR2235344"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-r"	5.16295885516224
+"SRR5367463"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-r"	15.3
+"SRR5367466"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-r"	10.6
+"SRR5367468"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-r"	10.1
+"SRR5367475"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-r"	6.85
+"SRR5367476"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-r"	9.45
+"SRR5367480"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-r"	8.65
+"SRR5367483"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-r"	12.75
+"SRR5367485"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-r"	4.95
+"SRR5367487"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-r"	-1.15
+"SRR5367488"	"Chaput"	"Melanoma"	"R"	"lit-melanoma-r"	4.2
+"SRR5367492"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-r"	6.15
+"SRR5367494"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-r"	4.35
+"SRR5367495"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-r"	14.75
+"SRR5367498"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-r"	15.2
+"SRR5367501"	"Chaput"	"Melanoma"	"R"	"lit-melanoma-r"	12.05
+"SRR5367505.R1"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-r"	6.75
+"SRR5367508.R1"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-r"	19.3
+"SRR5367513.R1"	"Chaput"	"Melanoma"	"R"	"lit-melanoma-r"	25.1
+"SRR5367515.R1"	"Chaput"	"Melanoma"	"R"	"lit-melanoma-r"	25.15
+"SRR5367520.R1"	"Chaput"	"Melanoma"	"R"	"lit-melanoma-r"	20
+"SRR5367523.R1"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-r"	9.85
+"SRR5367527.R1"	"Chaput"	"Melanoma"	"R"	"lit-melanoma-r"	16.2
+"SRR5367533.R1"	"Chaput"	"Melanoma"	"R"	"lit-melanoma-r"	15.6326034063261
+"SRR5367537.R1"	"Chaput"	"Melanoma"	"R"	"lit-melanoma-r"	21.6
+"SRR5367540.R1"	"Chaput"	"Melanoma"	"R"	"lit-melanoma-r"	14.45
+"SRR5367542.R1"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-r"	5.4
+"SRR5930493"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-r"	7.32959937390297
+"SRR5930494"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-r"	4.35838840096369
+"SRR5930495"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-r"	7.14116204267672
+"SRR5930497"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-r"	20.0836337150784
+"SRR5930498"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-r"	7.39012233647266
+"SRR5930499"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-r"	0.051432792800649
+"SRR5930501"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-r"	17.9975981838753
+"SRR5930502"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-r"	17.8790177164189
+"SRR5930503"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-r"	13.2344360918773
+"SRR5930504"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-r"	12.0931891026961
+"SRR5930505"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-r"	10.6007824996535
+"SRR5930506"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-r"	2.71499626968274
+"SRR5930507"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-r"	4.58141017374949
+"SRR5930508"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-r"	9.30536816248468
+"SRR5930509"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-r"	0.731100758753063
+"SRR5930510"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-r"	9.06194710174726
+"SRR5930511"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-r"	17.5575450313283
+"SRR5930512"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-r"	7.16682075529492
+"SRR5930513"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-r"	-6.47754229302566
+"SRR5930514"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-r"	4.75440297805349
+"SRR5930515"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-r"	1.31901777297845
+"SRR5930516"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-r"	16.6257409861912
+"SRR5930517"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-r"	3.47073034707303
+"SRR5930518"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-r"	6.14300628053828
+"SRR5930519"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-r"	-6.02113595227673
+"SRR5930520"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-r"	21.9337454965574
+"SRR5930521"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-r"	6.86020071907792
+"SRR5930522"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-r"	4.17895919872503
+"SRR5930523"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-r"	10.9265369529912
+"SRR5930526"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-r"	13.7281493231994
+"SRR5930527"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-r"	13.6122849979962
+"SRR5930528"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-r"	0.0992180814962241
+"SRR5930529"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-r"	4.33682049611957
+"SRR5930530"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-r"	19.8594572519669
+"SRR5930531"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-r"	13.8564970880339
+"SRR5930532"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-r"	3.41044224195279
+"SRR5930533"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-r"	8.09567017713902
+"SRR5930534"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-r"	4.83842032776828
+"SRR5930536"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-r"	7.97693356600499
+"SRR6000872"	"Matson"	"Melanoma"	"R"	"lit-melanoma-r"	9.09
+"SRR6000875"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-r"	4.83
+"SRR6000876"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-r"	1.75
+"SRR6000879"	"Matson"	"Melanoma"	"R"	"lit-melanoma-r"	7.83
+"SRR6000880"	"Matson"	"Melanoma"	"R"	"lit-melanoma-r"	0.02
+"SRR6000881"	"Matson"	"Melanoma"	"R"	"lit-melanoma-r"	12.28
+"SRR6000882"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-r"	0.71
+"SRR6000883"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-r"	5.67
+"SRR6000884"	"Matson"	"Melanoma"	"R"	"lit-melanoma-r"	1.94
+"SRR6000885"	"Matson"	"Melanoma"	"R"	"lit-melanoma-r"	8.83
+"SRR6000886"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-r"	3.85
+"SRR6000887"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-r"	5.21
+"SRR6000888"	"Matson"	"Melanoma"	"R"	"lit-melanoma-r"	5.82
+"SRR6000889"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-r"	7.25
+"SRR6000897"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-r"	6.63
+"SRR6000898"	"Matson"	"Melanoma"	"R"	"lit-melanoma-r"	6.83
+"SRR6000904"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-r"	8.33
+"SRR6000913"	"Matson"	"Melanoma"	"R"	"lit-melanoma-r"	9.98
+"SRR6000914"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-r"	3.15
+"SRR6000915"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-r"	8.96
+"SRR6000916"	"Matson"	"Melanoma"	"R"	"lit-melanoma-r"	6.33
+"SRR6000917"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-r"	7.04
+"SRR6000918"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-r"	8.73
+"SRR6000919"	"Matson"	"Melanoma"	"R"	"lit-melanoma-r"	11.99
+"SRR6000922"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-r"	6.72
+"SRR6000923"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-r"	4.74
+"SRR6000924"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-r"	12.88
+"SRR6000925"	"Matson"	"Melanoma"	"R"	"lit-melanoma-r"	4.6
+"SRR6000926"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-r"	13.23
+"SRR6000927"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-r"	4.33
+"SRR6000928"	"Matson"	"Melanoma"	"R"	"lit-melanoma-r"	1.38
+"SRR6000929"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-r"	0
+"SRR6000930"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-r"	2.88
+"SRR6000933"	"Matson"	"Melanoma"	"R"	"lit-melanoma-r"	2.55
+"SRR6000934"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-r"	2.66
+"SRR6000935"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-r"	7.92
+"SRR6000936"	"Matson"	"Melanoma"	"R"	"lit-melanoma-r"	7.52
+"SRR6000937"	"Matson"	"Melanoma"	"R"	"lit-melanoma-r"	11.53
+"SRR6000938"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-r"	6.31
+"SRR6000939"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-r"	6.97
+"SRR6000941"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-r"	10.24
+"SRR6000948"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-r"	3.89
+"Wargo.109865"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-r"	0.35
+"Wargo.115690"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-r"	5.0125
+"Wargo.116774"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-r"	2.4
+"Wargo.117349"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-r"	11.8125
+"Wargo.118369"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-r"	2.6625
+"Wargo.118370"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-r"	2.3875
+"Wargo.120662"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-r"	6.5375
+"Wargo.121296"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-r"	0.4
+"Wargo.121409"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-r"	8.025
+"Wargo.121585"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-r"	4.0625
+"Wargo.121891"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-r"	3.375
+"Wargo.121892"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-r"	17.7125
+"Wargo.122114"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-r"	1.85
+"Wargo.122410"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-r"	6.625
+"Wargo.122412"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-r"	5.65
+"Wargo.122637"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-r"	0.1625
+"Wargo.122639"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-r"	23.6
+"Wargo.122724"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-r"	35.675
+"Wargo.123009"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-r"	1.6125
+"Wargo.123197"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-r"	10.1875
+"Wargo.123305"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-r"	3.45
+"Wargo.123704"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-r"	1.5
+"Wargo.123986"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-r"	9.4
+"Wargo.124418"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-r"	10.275
+"Wargo.124419"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-r"	3.7625
+"Wargo.124421"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-r"	3.9
+"Wargo.126747"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-r"	10.725
+"Wargo.126802"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-r"	5.9125
+"Wargo.127261"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-r"	4.15
+"Wargo.127262"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-r"	3.125
+"Wargo.130510"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-r"	11.05
+"Wargo.130511"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-r"	3.8125
+"Wargo.130801"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-r"	9.3875
+"Wargo.131051"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-r"	1.45
+"Wargo.131300"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-r"	8.0625
+"Wargo.131302"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-r"	0.025
+"Wargo.131512"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-r"	5.175
+"Wargo.131541"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-r"	7.5
+"Wargo.132265"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-r"	8.6125
+"Wargo.132266"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-r"	14.6
+"Wargo.132268"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-r"	16.7125
+"Wargo.132538"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-r"	2.275
+"Wargo.133270"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-r"	1.325
+"ERR2213660"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-1.10206851306135
+"ERR2213663"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	0
+"ERR2213664"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-0.345263453453142
+"ERR2213665"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-0.02402372367717
+"ERR2213666"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-14.6161692300323
+"ERR2213669"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-2.24484338281048
+"ERR2213671"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-0.0767717921472738
+"ERR2213672"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-0.325299967470003
+"ERR2213673"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-0.494089857004029
+"ERR2213674"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-0.296006936208853
+"ERR2213675"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-0.689190378529044
+"ERR2213677"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-0.446450111967902
+"ERR2213679"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-1.03492108516685
+"ERR2213680"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-0.738209926179008
+"ERR2213681"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-0.31415
+"ERR2213682"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-0.46243
+"ERR2213685"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-0.102159880212533
+"ERR2213688"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-0.246610024661002
+"ERR2213691"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	0
+"ERR2213694"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-0.73052
+"ERR2213696"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-4.21698530191181
+"ERR2213699"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	0
+"ERR2213700"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-4.74751
+"ERR2213701"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	0
+"ERR2213704"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-0.0834722870806428
+"ERR2213705"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-0.109955893635899
+"ERR2213706"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-1.33823726417651
+"ERR2213707"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-1.4991820537641
+"ERR2213710"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-0.45508317532296
+"ERR2213711"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-0.730510045119084
+"ERR2213712"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-1.65682016568202
+"ERR2213713"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-0.68666853662446
+"ERR2213714"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-0.00420063819480142
+"ERR2213715"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-1.16764100021316
+"ERR2213717"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-0.781042378710533
+"ERR2213718"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-2.59684687012383
+"ERR2213719"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-1.03027957623754
+"ERR2213721"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-0.0221848576584856
+"ERR2213722"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-1.09559086286181
+"ERR2213723"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-0.339229762539166
+"ERR2213725"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-1.66813983318601
+"ERR2213726"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-0.236058474499235
+"ERR2213727"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-0.17136
+"ERR2213728"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-0.0642899807130058
+"ERR2213731"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-0.714113206065773
+"ERR2213732"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-0.00872589997906991
+"ERR2213733"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-0.736994517214
+"ERR2213734"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-0.000920450284279069
+"ERR2213735"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-0.603260301630151
+"ERR2213736"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-0.84365977925281
+"ERR2213737"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-0.0760935189549743
+"ERR2213740"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-7.54911592194588
+"ERR2213741"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-0.473789952621004
+"ERR2235210"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-0.740919925908007
+"ERR2235211"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-0.0436716857270691
+"ERR2235212"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-5.41284837614549
+"ERR2235213"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-7.38928152921122
+"ERR2235214"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-4.54972866951886
+"ERR2235215"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	0
+"ERR2235216"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-0.358579964142003
+"ERR2235217"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-2.06455104309888
+"ERR2235218"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-0.10316345080131
+"ERR2235219"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-0.960259460463277
+"ERR2235220"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-0.0126719819834113
+"ERR2235221"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-0.136957567955918
+"ERR2235222"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-0.612787074453559
+"ERR2235223"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-1.01667045753723
+"ERR2235224"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-0.35044312080214
+"ERR2235225"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	0
+"ERR2235226"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-0.399755327186683
+"ERR2235227"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-1.12659462787254
+"ERR2235228"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-0.390131601861953
+"ERR2235229"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-1.03830869667787
+"ERR2235230"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-2.01564846592436
+"ERR2235231"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-1.19675080990254
+"ERR2235232"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-0.00429025284625198
+"ERR2235233"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-7.41268948792239
+"ERR2235234"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-0.0353199929360014
+"ERR2235235"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-1.23826925703845
+"ERR2235236"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-0.606290181887055
+"ERR2235237"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-0.164310049293015
+"ERR2235238"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-1.1198458365976
+"ERR2235239"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-0.482949806820077
+"ERR2235240"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-nr"	-0.361364962064648
+"ERR2235241"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-2.46193355822967
+"ERR2235242"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-10.3444964957625
+"ERR2235243"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-nr"	-3.78372877598287
+"ERR2235244"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-nr"	-0.0135660184340622
+"ERR2235245"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-nr"	-0.287523003091435
+"ERR2235246"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-0.323446339049336
+"ERR2235248"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-nr"	-2.23558955288209
+"ERR2235251"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-0.165636435931554
+"ERR2235253"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-1.91129384452776
+"ERR2235255"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-10.7050017163051
+"ERR2235256"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-nr"	-0.465581767916907
+"ERR2235257"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-nr"	-2.99123060053634
+"ERR2235259"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-0.870199035939203
+"ERR2235260"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-4.98352821865344
+"ERR2235263"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-nr"	-0.228677241483027
+"ERR2235265"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-nr"	-0.527000158100047
+"ERR2235268"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-nr"	-0.19707
+"ERR2235271"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-0.223898241819703
+"ERR2235274"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-0.954342333674857
+"ERR2235275"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-nr"	-0.30156376130212
+"ERR2235277"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-nr"	-1.28879931379245
+"ERR2235278"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-0.437571095042836
+"ERR2235280"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	0
+"ERR2235282"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-0.202575041011361
+"ERR2235284"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-0.441962926238004
+"ERR2235287"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-nr"	-0.24484684270112
+"ERR2235288"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-3.74075102909166
+"ERR2235290"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-0.240239975976003
+"ERR2235293"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-0.467019813192075
+"ERR2235296"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-0.651170325585163
+"ERR2235297"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-1.78457395719584
+"ERR2235300"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-1.57006528365872
+"ERR2235301"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-0.700259187370048
+"ERR2235303"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-nr"	-0.279440610159724
+"ERR2235304"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-nr"	-0.425749542035062
+"ERR2235306"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-0.380998570953745
+"ERR2235309"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-0.539190957530011
+"ERR2235311"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-0.139439438317958
+"ERR2235313"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-nr"	-0.270998263478105
+"ERR2235315"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-0.00920681436793161
+"ERR2235316"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-nr"	-2.38465204431074
+"ERR2235317"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-1.21671902073758
+"ERR2235318"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-1.09657505188997
+"ERR2235319"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-0.768994251022544
+"ERR2235320"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-2.02354567494174
+"ERR2235321"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-0.807292625050602
+"ERR2235322"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-0.565509660694204
+"ERR2235323"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-0.146050029210006
+"ERR2235324"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-nr"	0
+"ERR2235325"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-0.762296642212728
+"ERR2235326"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-nr"	-0.661641381889972
+"ERR2235327"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-0.24088537174379
+"ERR2235328"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-1.05239743785455
+"ERR2235329"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-1.05742010574201
+"ERR2235330"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-1.12848977430205
+"ERR2235331"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-0.0193426344668144
+"ERR2235332"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-0.395069960493004
+"ERR2235333"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-nr"	0
+"ERR2235334"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-3.74113730615535
+"ERR2235335"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-0.811385122964952
+"ERR2235336"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-nr"	-1.94987702072737
+"ERR2235337"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-nr"	-1.93685139818932
+"ERR2235338"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-0.180249909875045
+"ERR2235339"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-0.580685239689338
+"ERR2235340"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-1.2613094954762
+"ERR2235341"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-3.17077900743851
+"ERR2235342"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-2.21174022117402
+"ERR2235343"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-nr"	-0.785869842826031
+"ERR2235344"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-nr"	-0.385329961467004
+"SRR5367463"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.15
+"SRR5367466"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-nr"	0
+"SRR5367468"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-nr"	0
+"SRR5367475"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-nr"	0
+"SRR5367476"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.4
+"SRR5367480"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.05
+"SRR5367483"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-nr"	-4.1
+"SRR5367485"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.05
+"SRR5367487"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-nr"	0
+"SRR5367488"	"Chaput"	"Melanoma"	"R"	"lit-melanoma-nr"	0
+"SRR5367492"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.05
+"SRR5367494"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-nr"	0
+"SRR5367495"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.05
+"SRR5367498"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.15
+"SRR5367501"	"Chaput"	"Melanoma"	"R"	"lit-melanoma-nr"	0
+"SRR5367505.R1"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-nr"	-1
+"SRR5367508.R1"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.35
+"SRR5367513.R1"	"Chaput"	"Melanoma"	"R"	"lit-melanoma-nr"	0
+"SRR5367515.R1"	"Chaput"	"Melanoma"	"R"	"lit-melanoma-nr"	-1.1
+"SRR5367520.R1"	"Chaput"	"Melanoma"	"R"	"lit-melanoma-nr"	0
+"SRR5367523.R1"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-nr"	0
+"SRR5367527.R1"	"Chaput"	"Melanoma"	"R"	"lit-melanoma-nr"	-0.3
+"SRR5367533.R1"	"Chaput"	"Melanoma"	"R"	"lit-melanoma-nr"	0
+"SRR5367537.R1"	"Chaput"	"Melanoma"	"R"	"lit-melanoma-nr"	0
+"SRR5367540.R1"	"Chaput"	"Melanoma"	"R"	"lit-melanoma-nr"	-0.1
+"SRR5367542.R1"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.8
+"SRR5930493"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-nr"	-1.21807716369556
+"SRR5930494"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-nr"	-0.534679732660134
+"SRR5930495"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-nr"	-18.9477098096498
+"SRR5930497"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-nr"	-13.4493025983259
+"SRR5930498"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-nr"	-2.64264293101419
+"SRR5930499"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-nr"	-0.044052392044888
+"SRR5930501"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-nr"	-1.16051305496802
+"SRR5930502"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-nr"	-0.0171124858063495
+"SRR5930503"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-nr"	-4.80971039598117
+"SRR5930504"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-nr"	-0.198370714134571
+"SRR5930505"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-nr"	-3.33703564628814
+"SRR5930506"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-nr"	-4.97405178548297
+"SRR5930507"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-nr"	-7.51551989963571
+"SRR5930508"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.392194739175736
+"SRR5930509"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-nr"	-8.29858494160228
+"SRR5930510"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-nr"	-6.87559167655629
+"SRR5930511"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-nr"	-3.25824004685878
+"SRR5930512"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-nr"	-10.5331012080177
+"SRR5930513"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-nr"	-2.33956810789052
+"SRR5930514"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-nr"	-1.06028571457269
+"SRR5930515"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-nr"	-12.6540142458239
+"SRR5930516"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-nr"	-1.32357329488999
+"SRR5930517"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-nr"	-5.83016058301606
+"SRR5930518"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-nr"	-3.56331603630735
+"SRR5930519"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.253662479629699
+"SRR5930520"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-nr"	-1.31059770741784
+"SRR5930521"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.22901579409959
+"SRR5930522"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-nr"	-1.08176328135129
+"SRR5930523"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-nr"	-11.4512151570945
+"SRR5930526"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-nr"	-1.33405429060245
+"SRR5930527"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-nr"	-0.442142776923294
+"SRR5930528"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.121947608938664
+"SRR5930529"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-nr"	-8.79168190536595
+"SRR5930530"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-nr"	-1.19640696897534
+"SRR5930531"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-nr"	-3.2323995654636
+"SRR5930532"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-nr"	-10.9987870206848
+"SRR5930533"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-nr"	-0.139970013997001
+"SRR5930534"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-nr"	-7.99261281387437
+"SRR5930536"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-nr"	-8.51714646433081
+"SRR6000872"	"Matson"	"Melanoma"	"R"	"lit-melanoma-nr"	-0.02
+"SRR6000875"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.37
+"SRR6000876"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.15
+"SRR6000879"	"Matson"	"Melanoma"	"R"	"lit-melanoma-nr"	0
+"SRR6000880"	"Matson"	"Melanoma"	"R"	"lit-melanoma-nr"	-0.01
+"SRR6000881"	"Matson"	"Melanoma"	"R"	"lit-melanoma-nr"	-0.39
+"SRR6000882"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.58
+"SRR6000883"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.01
+"SRR6000884"	"Matson"	"Melanoma"	"R"	"lit-melanoma-nr"	-0.03
+"SRR6000885"	"Matson"	"Melanoma"	"R"	"lit-melanoma-nr"	0
+"SRR6000886"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.18
+"SRR6000887"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.14
+"SRR6000888"	"Matson"	"Melanoma"	"R"	"lit-melanoma-nr"	-0.08
+"SRR6000889"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.09
+"SRR6000897"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.35
+"SRR6000898"	"Matson"	"Melanoma"	"R"	"lit-melanoma-nr"	-0.4
+"SRR6000904"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.45
+"SRR6000913"	"Matson"	"Melanoma"	"R"	"lit-melanoma-nr"	0
+"SRR6000914"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-nr"	0
+"SRR6000915"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.1
+"SRR6000916"	"Matson"	"Melanoma"	"R"	"lit-melanoma-nr"	-0.27
+"SRR6000917"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.44
+"SRR6000918"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-nr"	0
+"SRR6000919"	"Matson"	"Melanoma"	"R"	"lit-melanoma-nr"	0
+"SRR6000922"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.1
+"SRR6000923"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.22
+"SRR6000924"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.28
+"SRR6000925"	"Matson"	"Melanoma"	"R"	"lit-melanoma-nr"	-0.09
+"SRR6000926"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.57
+"SRR6000927"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-nr"	-2.11
+"SRR6000928"	"Matson"	"Melanoma"	"R"	"lit-melanoma-nr"	-0.04
+"SRR6000929"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-nr"	-3.14
+"SRR6000930"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-nr"	0
+"SRR6000933"	"Matson"	"Melanoma"	"R"	"lit-melanoma-nr"	-1.07
+"SRR6000934"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-nr"	0
+"SRR6000935"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-nr"	-2.18
+"SRR6000936"	"Matson"	"Melanoma"	"R"	"lit-melanoma-nr"	0
+"SRR6000937"	"Matson"	"Melanoma"	"R"	"lit-melanoma-nr"	-0.39
+"SRR6000938"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-nr"	0
+"SRR6000939"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.2
+"SRR6000941"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.16
+"SRR6000948"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.84
+"Wargo.109865"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.075
+"Wargo.115690"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-nr"	0
+"Wargo.116774"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.025
+"Wargo.117349"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-nr"	-0.4125
+"Wargo.118369"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.0625
+"Wargo.118370"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-nr"	-0.1
+"Wargo.120662"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-nr"	-1.475
+"Wargo.121296"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-nr"	-0.0375
+"Wargo.121409"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-nr"	-0.125
+"Wargo.121585"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.9625
+"Wargo.121891"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.5625
+"Wargo.121892"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-nr"	0
+"Wargo.122114"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-nr"	0
+"Wargo.122410"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-nr"	-0.2125
+"Wargo.122412"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-nr"	-0.725
+"Wargo.122637"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.6875
+"Wargo.122639"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-nr"	0
+"Wargo.122724"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-nr"	-3.025
+"Wargo.123009"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.975
+"Wargo.123197"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-nr"	-1.425
+"Wargo.123305"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.0125
+"Wargo.123704"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-nr"	-2.475
+"Wargo.123986"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-nr"	-0.15
+"Wargo.124418"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-nr"	-0.525
+"Wargo.124419"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-nr"	0
+"Wargo.124421"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-nr"	0
+"Wargo.126747"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-nr"	-0.2
+"Wargo.126802"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-nr"	0
+"Wargo.127261"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-nr"	-1.525
+"Wargo.127262"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-nr"	-0.075
+"Wargo.130510"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-nr"	-0.05
+"Wargo.130511"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-nr"	0
+"Wargo.130801"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-nr"	-0.0125
+"Wargo.131051"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-nr"	-0.0125
+"Wargo.131300"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-nr"	0
+"Wargo.131302"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-nr"	-13.6625
+"Wargo.131512"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.5375
+"Wargo.131541"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-nr"	-0.0875
+"Wargo.132265"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-nr"	-1.2
+"Wargo.132266"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-nr"	0
+"Wargo.132268"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-nr"	-2.025
+"Wargo.132538"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-nr"	-0.175
+"Wargo.133270"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-nr"	0
+"ERR2213660"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	18.9341100216402
+"ERR2213663"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	0.0201858809157618
+"ERR2213664"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	5.23782302037367
+"ERR2213665"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	0.188179167771004
+"ERR2213666"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	-4.75580128001291
+"ERR2213669"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	9.34177749312577
+"ERR2213671"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	11.9017681115819
+"ERR2213672"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	11.0932757770614
+"ERR2213673"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	1.2600624817382
+"ERR2213674"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	6.34302923445149
+"ERR2213675"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	14.7269317853401
+"ERR2213677"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	16.4423040410799
+"ERR2213679"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	7.96207801604322
+"ERR2213680"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	7.32521203930362
+"ERR2213681"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	3.91783960477704
+"ERR2213682"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	4.71913048317505
+"ERR2213685"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	35.686855498817
+"ERR2213688"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	4.32559043255905
+"ERR2213691"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	-3.93423822267293
+"ERR2213694"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	4.43942916142817
+"ERR2213696"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	-1.6722501335714
+"ERR2213699"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	-5.6993817102025
+"ERR2213700"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	6.2899109782242
+"ERR2213701"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	13.51001
+"ERR2213704"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	4.9794613637771
+"ERR2213705"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	4.53519593136592
+"ERR2213706"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	10.485102917721
+"ERR2213707"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	12.9605006272816
+"ERR2213710"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	9.1563101059025
+"ERR2213711"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	9.65135644557605
+"ERR2213712"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	-4.16689041668905
+"ERR2213713"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	13.1827407228816
+"ERR2213714"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	1.42088349796914
+"ERR2213715"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	12.2658059312343
+"ERR2213717"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	14.5619457758854
+"ERR2213718"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	7.95210488071235
+"ERR2213719"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	9.96342258884497
+"ERR2213721"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	2.78271038572389
+"ERR2213722"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	2.65712425818636
+"ERR2213723"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	29.281260057302
+"ERR2213725"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	5.55525231671964
+"ERR2213726"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	0.349322540679207
+"ERR2213727"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	18.48664
+"ERR2213728"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	8.12277863510653
+"ERR2213731"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	9.65386352141181
+"ERR2213732"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	6.39545721878793
+"ERR2213733"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	1.10051427234807
+"ERR2213734"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	-4.5182303182717
+"ERR2213735"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	7.96029311977922
+"ERR2213736"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	-9.54577328634425
+"ERR2213737"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	1.65065133052081
+"ERR2213740"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	5.15535009713374
+"ERR2213741"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	2.67384074003223
+"ERR2235210"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	3.97934003193
+"ERR2235211"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	3.5543971997319
+"ERR2235212"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	18.6936759286251
+"ERR2235213"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	-7.38928152921122
+"ERR2235214"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	3.43886749608193
+"ERR2235215"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	0
+"ERR2235216"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	-3.62499963750003
+"ERR2235217"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	15.1098409638858
+"ERR2235218"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	4.69714404456539
+"ERR2235219"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	17.3606507908605
+"ERR2235220"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	1.43547006506982
+"ERR2235221"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	4.04828199259117
+"ERR2235222"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	8.75949893514263
+"ERR2235223"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	11.3627626224435
+"ERR2235224"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	10.8812326140136
+"ERR2235225"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	0
+"ERR2235226"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	9.45045184105189
+"ERR2235227"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	17.658922565605
+"ERR2235228"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	13.7792110434271
+"ERR2235229"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	12.3753984450697
+"ERR2235230"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	5.9020601499277
+"ERR2235231"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	6.92641672564898
+"ERR2235232"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	-2.41068596040868
+"ERR2235233"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	-6.23232179731395
+"ERR2235234"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	-11.0130577973884
+"ERR2235235"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	9.46403948434231
+"ERR2235236"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	4.36829887969514
+"ERR2235237"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	-3.60764133036038
+"ERR2235238"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	7.55581692048005
+"ERR2235239"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	1.82989048634755
+"ERR2235240"	"Routy NSCLC"	"NSCLC"	"R"	"lit-melanoma-agg"	7.16950475953168
+"ERR2235241"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	0.951920550763098
+"ERR2235242"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	-8.82932110443453
+"ERR2235243"	"Routy NSCLC"	"NSCLC"	"NR"	"lit-melanoma-agg"	1.13488197556297
+"ERR2235244"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-agg"	16.4991981772002
+"ERR2235245"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-agg"	9.28179790110559
+"ERR2235246"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	10.7717395889338
+"ERR2235248"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-agg"	12.8604196111701
+"ERR2235251"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	5.04052739290783
+"ERR2235253"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	8.32845726242776
+"ERR2235255"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	6.32748514630649
+"ERR2235256"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-agg"	11.8406917376373
+"ERR2235257"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-agg"	9.91984520633145
+"ERR2235259"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	7.8335656934916
+"ERR2235260"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	15.113347473896
+"ERR2235263"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-agg"	3.65546701485951
+"ERR2235265"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-agg"	7.05624286208015
+"ERR2235268"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-agg"	17.2009583970962
+"ERR2235271"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	11.3674726282007
+"ERR2235274"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	2.85558259145037
+"ERR2235275"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-agg"	13.5484528233681
+"ERR2235277"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-agg"	6.2387623462306
+"ERR2235278"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	6.41886509612692
+"ERR2235280"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	-0.00193999980600002
+"ERR2235282"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	15.6479424879652
+"ERR2235284"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	4.41383769937165
+"ERR2235287"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-agg"	20.0690633105607
+"ERR2235288"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	7.5282311222455
+"ERR2235290"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	11.8751388124861
+"ERR2235293"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	9.05648870045128
+"ERR2235296"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	4.13719022322011
+"ERR2235297"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	5.38507653394595
+"ERR2235300"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	6.04692426632195
+"ERR2235301"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	16.9583080872652
+"ERR2235303"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-agg"	6.87219592164672
+"ERR2235304"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-agg"	18.6456186347927
+"ERR2235306"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	7.11666521186099
+"ERR2235309"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	13.3836669280609
+"ERR2235311"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	5.66350200406054
+"ERR2235313"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-agg"	0.295569243527737
+"ERR2235315"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	1.79008830691411
+"ERR2235316"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-agg"	8.18338490665396
+"ERR2235317"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	7.10862181375444
+"ERR2235318"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	5.88540656629087
+"ERR2235319"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	16.9056079666347
+"ERR2235320"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	8.01030524937631
+"ERR2235321"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	0.661404746606677
+"ERR2235322"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	8.34602665000935
+"ERR2235323"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	5.60176986236597
+"ERR2235324"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-agg"	0.249128476120451
+"ERR2235325"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	-3.88625871647826
+"ERR2235326"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-agg"	8.79283897272714
+"ERR2235327"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	6.70154878307993
+"ERR2235328"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	14.5007756846376
+"ERR2235329"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	8.78169087816908
+"ERR2235330"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	16.4967267006546
+"ERR2235331"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	19.3681382570566
+"ERR2235332"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	12.4853587514642
+"ERR2235333"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-agg"	1.83055053592616
+"ERR2235334"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	10.9586993524286
+"ERR2235335"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	9.84157279335812
+"ERR2235336"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-agg"	11.8365014085265
+"ERR2235337"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-agg"	2.69681652567897
+"ERR2235338"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	11.0167054451123
+"ERR2235339"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	1.34996547491578
+"ERR2235340"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	10.4519881985945
+"ERR2235341"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	14.7120886884429
+"ERR2235342"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	11.618904993324
+"ERR2235343"	"Routy RCC"	"RCC"	"NR"	"lit-melanoma-agg"	21.3155278800982
+"ERR2235344"	"Routy RCC"	"RCC"	"R"	"lit-melanoma-agg"	4.77762889369524
+"SRR5367463"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-agg"	15.15
+"SRR5367466"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-agg"	10.6
+"SRR5367468"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-agg"	10.1
+"SRR5367475"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-agg"	6.85
+"SRR5367476"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-agg"	9.05
+"SRR5367480"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-agg"	8.6
+"SRR5367483"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-agg"	8.65
+"SRR5367485"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-agg"	4.9
+"SRR5367487"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-agg"	-1.15
+"SRR5367488"	"Chaput"	"Melanoma"	"R"	"lit-melanoma-agg"	4.2
+"SRR5367492"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-agg"	6.1
+"SRR5367494"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-agg"	4.35
+"SRR5367495"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-agg"	14.7
+"SRR5367498"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-agg"	15.05
+"SRR5367501"	"Chaput"	"Melanoma"	"R"	"lit-melanoma-agg"	12.05
+"SRR5367505.R1"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-agg"	5.75
+"SRR5367508.R1"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-agg"	18.95
+"SRR5367513.R1"	"Chaput"	"Melanoma"	"R"	"lit-melanoma-agg"	25.1
+"SRR5367515.R1"	"Chaput"	"Melanoma"	"R"	"lit-melanoma-agg"	24.05
+"SRR5367520.R1"	"Chaput"	"Melanoma"	"R"	"lit-melanoma-agg"	20
+"SRR5367523.R1"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-agg"	9.85
+"SRR5367527.R1"	"Chaput"	"Melanoma"	"R"	"lit-melanoma-agg"	15.9
+"SRR5367533.R1"	"Chaput"	"Melanoma"	"R"	"lit-melanoma-agg"	15.6326034063261
+"SRR5367537.R1"	"Chaput"	"Melanoma"	"R"	"lit-melanoma-agg"	21.6
+"SRR5367540.R1"	"Chaput"	"Melanoma"	"R"	"lit-melanoma-agg"	14.35
+"SRR5367542.R1"	"Chaput"	"Melanoma"	"NR"	"lit-melanoma-agg"	4.6
+"SRR5930493"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-agg"	6.11152221020741
+"SRR5930494"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-agg"	3.82370866830355
+"SRR5930495"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-agg"	-11.806547766973
+"SRR5930497"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-agg"	6.63433111675251
+"SRR5930498"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-agg"	4.74747940545848
+"SRR5930499"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-agg"	0.00738040075576099
+"SRR5930501"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-agg"	16.8370851289073
+"SRR5930502"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-agg"	17.8619052306125
+"SRR5930503"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-agg"	8.42472569589616
+"SRR5930504"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-agg"	11.8948183885616
+"SRR5930505"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-agg"	7.26374685336535
+"SRR5930506"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-agg"	-2.25905551580023
+"SRR5930507"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-agg"	-2.93410972588621
+"SRR5930508"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-agg"	8.91317342330895
+"SRR5930509"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-agg"	-7.56748418284922
+"SRR5930510"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-agg"	2.18635542519097
+"SRR5930511"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-agg"	14.2993049844695
+"SRR5930512"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-agg"	-3.36628045272274
+"SRR5930513"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-agg"	-8.81711040091618
+"SRR5930514"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-agg"	3.6941172634808
+"SRR5930515"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-agg"	-11.3349964728455
+"SRR5930516"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-agg"	15.3021676913012
+"SRR5930517"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-agg"	-2.35943023594303
+"SRR5930518"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-agg"	2.57969024423093
+"SRR5930519"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-agg"	-6.27479843190643
+"SRR5930520"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-agg"	20.6231477891395
+"SRR5930521"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-agg"	6.63118492497833
+"SRR5930522"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-agg"	3.09719591737374
+"SRR5930523"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-agg"	-0.524678204103322
+"SRR5930526"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-agg"	12.394095032597
+"SRR5930527"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-agg"	13.1701422210729
+"SRR5930528"	"Frankel"	"Melanoma"	"NR"	"lit-melanoma-agg"	-0.0227295274424396
+"SRR5930529"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-agg"	-4.45486140924638
+"SRR5930530"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-agg"	18.6630502829915
+"SRR5930531"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-agg"	10.6240975225703
+"SRR5930532"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-agg"	-7.58834477873206
+"SRR5930533"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-agg"	7.95570016314201
+"SRR5930534"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-agg"	-3.15419248610609
+"SRR5930536"	"Frankel"	"Melanoma"	"R"	"lit-melanoma-agg"	-0.540212898325817
+"SRR6000872"	"Matson"	"Melanoma"	"R"	"lit-melanoma-agg"	9.07
+"SRR6000875"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-agg"	4.46
+"SRR6000876"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-agg"	1.6
+"SRR6000879"	"Matson"	"Melanoma"	"R"	"lit-melanoma-agg"	7.83
+"SRR6000880"	"Matson"	"Melanoma"	"R"	"lit-melanoma-agg"	0.01
+"SRR6000881"	"Matson"	"Melanoma"	"R"	"lit-melanoma-agg"	11.89
+"SRR6000882"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-agg"	0.13
+"SRR6000883"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-agg"	5.66
+"SRR6000884"	"Matson"	"Melanoma"	"R"	"lit-melanoma-agg"	1.91
+"SRR6000885"	"Matson"	"Melanoma"	"R"	"lit-melanoma-agg"	8.83
+"SRR6000886"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-agg"	3.67
+"SRR6000887"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-agg"	5.07
+"SRR6000888"	"Matson"	"Melanoma"	"R"	"lit-melanoma-agg"	5.74
+"SRR6000889"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-agg"	7.16
+"SRR6000897"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-agg"	6.28
+"SRR6000898"	"Matson"	"Melanoma"	"R"	"lit-melanoma-agg"	6.43
+"SRR6000904"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-agg"	7.88
+"SRR6000913"	"Matson"	"Melanoma"	"R"	"lit-melanoma-agg"	9.98
+"SRR6000914"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-agg"	3.15
+"SRR6000915"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-agg"	8.86
+"SRR6000916"	"Matson"	"Melanoma"	"R"	"lit-melanoma-agg"	6.06
+"SRR6000917"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-agg"	6.6
+"SRR6000918"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-agg"	8.73
+"SRR6000919"	"Matson"	"Melanoma"	"R"	"lit-melanoma-agg"	11.99
+"SRR6000922"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-agg"	6.62
+"SRR6000923"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-agg"	4.52
+"SRR6000924"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-agg"	12.6
+"SRR6000925"	"Matson"	"Melanoma"	"R"	"lit-melanoma-agg"	4.51
+"SRR6000926"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-agg"	12.66
+"SRR6000927"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-agg"	2.22
+"SRR6000928"	"Matson"	"Melanoma"	"R"	"lit-melanoma-agg"	1.34
+"SRR6000929"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-agg"	-3.14
+"SRR6000930"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-agg"	2.88
+"SRR6000933"	"Matson"	"Melanoma"	"R"	"lit-melanoma-agg"	1.48
+"SRR6000934"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-agg"	2.66
+"SRR6000935"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-agg"	5.74
+"SRR6000936"	"Matson"	"Melanoma"	"R"	"lit-melanoma-agg"	7.52
+"SRR6000937"	"Matson"	"Melanoma"	"R"	"lit-melanoma-agg"	11.14
+"SRR6000938"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-agg"	6.31
+"SRR6000939"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-agg"	6.77
+"SRR6000941"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-agg"	10.08
+"SRR6000948"	"Matson"	"Melanoma"	"NR"	"lit-melanoma-agg"	3.05
+"Wargo.109865"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-agg"	0.275
+"Wargo.115690"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-agg"	5.0125
+"Wargo.116774"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-agg"	2.375
+"Wargo.117349"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-agg"	11.4
+"Wargo.118369"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-agg"	2.6
+"Wargo.118370"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-agg"	2.2875
+"Wargo.120662"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-agg"	5.0625
+"Wargo.121296"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-agg"	0.3625
+"Wargo.121409"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-agg"	7.9
+"Wargo.121585"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-agg"	3.1
+"Wargo.121891"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-agg"	2.8125
+"Wargo.121892"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-agg"	17.7125
+"Wargo.122114"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-agg"	1.85
+"Wargo.122410"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-agg"	6.4125
+"Wargo.122412"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-agg"	4.925
+"Wargo.122637"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-agg"	-0.525
+"Wargo.122639"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-agg"	23.6
+"Wargo.122724"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-agg"	32.65
+"Wargo.123009"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-agg"	0.6375
+"Wargo.123197"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-agg"	8.7625
+"Wargo.123305"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-agg"	3.4375
+"Wargo.123704"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-agg"	-0.975
+"Wargo.123986"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-agg"	9.25
+"Wargo.124418"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-agg"	9.75
+"Wargo.124419"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-agg"	3.7625
+"Wargo.124421"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-agg"	3.9
+"Wargo.126747"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-agg"	10.525
+"Wargo.126802"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-agg"	5.9125
+"Wargo.127261"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-agg"	2.625
+"Wargo.127262"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-agg"	3.05
+"Wargo.130510"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-agg"	11
+"Wargo.130511"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-agg"	3.8125
+"Wargo.130801"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-agg"	9.375
+"Wargo.131051"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-agg"	1.4375
+"Wargo.131300"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-agg"	8.0625
+"Wargo.131302"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-agg"	-13.6375
+"Wargo.131512"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-agg"	4.6375
+"Wargo.131541"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-agg"	7.4125
+"Wargo.132265"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-agg"	7.4125
+"Wargo.132266"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-agg"	14.6
+"Wargo.132268"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-agg"	14.6875
+"Wargo.132538"	"Gopalakrishnan"	"Melanoma"	"NR"	"lit-melanoma-agg"	2.1
+"Wargo.133270"	"Gopalakrishnan"	"Melanoma"	"R"	"lit-melanoma-agg"	1.325
+"ERR2213660"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	21.3974740549264
+"ERR2213663"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	0
+"ERR2213664"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	7.4850928390819
+"ERR2213665"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	0
+"ERR2213666"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	6.79954023535685
+"ERR2213669"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	9.03680873487139
+"ERR2213671"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	12.4926988785478
+"ERR2213672"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	15.5680584431941
+"ERR2213673"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	8.71437805188829
+"ERR2213674"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	15.7147793215039
+"ERR2213675"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	10.5332424318672
+"ERR2213677"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	3.55589435675766
+"ERR2213679"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	10.1623845513183
+"ERR2213680"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	31.5203268479674
+"ERR2213681"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	14.78406
+"ERR2213682"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	5.91852
+"ERR2213685"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	8.52655405709936
+"ERR2213688"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	14.2004614200461
+"ERR2213691"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	0.252186506387729
+"ERR2213694"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	4.80103
+"ERR2213696"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	1.73727042362254
+"ERR2213699"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	0.00194000058200017
+"ERR2213700"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	5.41061
+"ERR2213701"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	16.2155
+"ERR2213704"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	20.6250277607378
+"ERR2213705"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	0.87980715766365
+"ERR2213706"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	11.3720208414723
+"ERR2213707"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	15.5688845275832
+"ERR2213710"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	17.5800565877939
+"ERR2213711"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	7.34682108654431
+"ERR2213712"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	0.477340047734005
+"ERR2213713"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	10.5188231287066
+"ERR2213714"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	0
+"ERR2213715"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	16.904231829718
+"ERR2213717"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	13.5755223510968
+"ERR2213718"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	12.4674226236093
+"ERR2213719"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	9.18046764744163
+"ERR2213721"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	6.0720807115134
+"ERR2213722"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	14.1251750366025
+"ERR2213723"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	39.3113224820743
+"ERR2213725"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	13.1917786808221
+"ERR2213726"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	0
+"ERR2213727"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	16.5571
+"ERR2213728"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	5.40349837895049
+"ERR2213731"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	7.05460477051499
+"ERR2213732"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	6.56291223091707
+"ERR2213733"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	12.129115918963
+"ERR2213734"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	0
+"ERR2213735"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	21.6243908121954
+"ERR2213736"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	0.0472628991250654
+"ERR2213737"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	3.93399053704146
+"ERR2213740"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	10.5866700347936
+"ERR2213741"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	17.1378182862181
+"ERR2235210"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	4.40596955940304
+"ERR2235211"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	21.4125565246819
+"ERR2235212"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	10.3324469002659
+"ERR2235213"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	0.0935316648636346
+"ERR2235214"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	6.6673115329076
+"ERR2235215"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	0
+"ERR2235216"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	0.0241699975830002
+"ERR2235217"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	17.6624141796028
+"ERR2235218"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	10.3498228288627
+"ERR2235219"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	21.3718089490807
+"ERR2235220"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	0.838527218725732
+"ERR2235221"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	1.95599581383003
+"ERR2235222"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	28.7113429451185
+"ERR2235223"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	12.4248759694864
+"ERR2235224"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	15.5182191932411
+"ERR2235225"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	0
+"ERR2235226"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	1.56541240581857
+"ERR2235227"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	16.4268002763369
+"ERR2235228"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	13.2117236102481
+"ERR2235229"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	8.55709132758327
+"ERR2235230"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	0.0644207577040843
+"ERR2235231"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	6.10620470548328
+"ERR2235232"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	0.234109474822932
+"ERR2235233"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	2.74894551071698
+"ERR2235234"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	0
+"ERR2235235"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	8.67533479479913
+"ERR2235236"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	6.43170192951058
+"ERR2235237"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	0.745700223710067
+"ERR2235238"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	8.37376020427051
+"ERR2235239"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	7.5513969794412
+"ERR2235240"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-r"	15.2466229324071
+"ERR2235241"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	30.3480190302444
+"ERR2235242"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	8.09363072746438
+"ERR2235243"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-r"	12.9636780734701
+"ERR2235244"	"Routy RCC"	"RCC"	"NR"	"re-analysis-r"	1.30428297142166
+"ERR2235245"	"Routy RCC"	"RCC"	"NR"	"re-analysis-r"	10.3288872784709
+"ERR2235246"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	8.74027327373241
+"ERR2235248"	"Routy RCC"	"RCC"	"NR"	"re-analysis-r"	12.8229174354165
+"ERR2235251"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	8.64578949497004
+"ERR2235253"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	12.8105789994289
+"ERR2235255"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	16.0413650043235
+"ERR2235256"	"Routy RCC"	"RCC"	"NR"	"re-analysis-r"	8.0879923805335
+"ERR2235257"	"Routy RCC"	"RCC"	"NR"	"re-analysis-r"	13.2916830116267
+"ERR2235259"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	7.00616787283447
+"ERR2235260"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	22.3154969883254
+"ERR2235263"	"Routy RCC"	"RCC"	"NR"	"re-analysis-r"	9.19054424262316
+"ERR2235265"	"Routy RCC"	"RCC"	"NR"	"re-analysis-r"	9.52282285684686
+"ERR2235268"	"Routy RCC"	"RCC"	"NR"	"re-analysis-r"	16.07069
+"ERR2235271"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	21.429360134711
+"ERR2235274"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	6.66743097630586
+"ERR2235275"	"Routy RCC"	"RCC"	"NR"	"re-analysis-r"	4.67309456910333
+"ERR2235277"	"Routy RCC"	"RCC"	"NR"	"re-analysis-r"	24.05626709931
+"ERR2235278"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	19.6709698394859
+"ERR2235280"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	0
+"ERR2235282"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	8.48861258399773
+"ERR2235284"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	4.49384479143696
+"ERR2235287"	"Routy RCC"	"RCC"	"NR"	"re-analysis-r"	21.9899266405177
+"ERR2235288"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	13.1104140744107
+"ERR2235290"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	10.9609789039021
+"ERR2235293"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	7.78403688638524
+"ERR2235296"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	10.9840154920077
+"ERR2235297"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	6.43660677265484
+"ERR2235300"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	43.432097934506
+"ERR2235301"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	17.758298579541
+"ERR2235303"	"Routy RCC"	"RCC"	"NR"	"re-analysis-r"	1.11971482039457
+"ERR2235304"	"Routy RCC"	"RCC"	"NR"	"re-analysis-r"	16.8459351615508
+"ERR2235306"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	7.01578867890536
+"ERR2235309"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	12.768840379394
+"ERR2235311"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	11.6343361971156
+"ERR2235313"	"Routy RCC"	"RCC"	"NR"	"re-analysis-r"	5.888196883585
+"ERR2235315"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	0.0437649987238974
+"ERR2235316"	"Routy RCC"	"RCC"	"NR"	"re-analysis-r"	11.4902817266045
+"ERR2235317"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	6.18343729055618
+"ERR2235318"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	5.86230160849409
+"ERR2235319"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	13.0253808812592
+"ERR2235320"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	8.70867072394955
+"ERR2235321"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	13.7239546248042
+"ERR2235322"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	10.1327139203717
+"ERR2235323"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	6.31627126325425
+"ERR2235324"	"Routy RCC"	"RCC"	"NR"	"re-analysis-r"	0.0278120775621939
+"ERR2235325"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	8.23213665453862
+"ERR2235326"	"Routy RCC"	"RCC"	"NR"	"re-analysis-r"	8.79578188117138
+"ERR2235327"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	7.83886480668519
+"ERR2235328"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	14.8535905191942
+"ERR2235329"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	6.52769065276906
+"ERR2235330"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	19.0010061997987
+"ERR2235331"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	17.4926024924595
+"ERR2235332"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	15.2687284731272
+"ERR2235333"	"Routy RCC"	"RCC"	"NR"	"re-analysis-r"	1.97100039420008
+"ERR2235334"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	15.5241325960602
+"ERR2235335"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	7.20830393825798
+"ERR2235336"	"Routy RCC"	"RCC"	"NR"	"re-analysis-r"	18.0333197123063
+"ERR2235337"	"Routy RCC"	"RCC"	"NR"	"re-analysis-r"	9.21625215519332
+"ERR2235338"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	2.3830588084706
+"ERR2235339"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	1.12573015148359
+"ERR2235340"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	24.693280122688
+"ERR2235341"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	19.0087846520146
+"ERR2235342"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	13.3048913304891
+"ERR2235343"	"Routy RCC"	"RCC"	"NR"	"re-analysis-r"	21.5745956850808
+"ERR2235344"	"Routy RCC"	"RCC"	"R"	"re-analysis-r"	7.50071924992807
+"SRR5367463"	"Chaput"	"Melanoma"	"NR"	"re-analysis-r"	13.35
+"SRR5367466"	"Chaput"	"Melanoma"	"NR"	"re-analysis-r"	7.6
+"SRR5367468"	"Chaput"	"Melanoma"	"NR"	"re-analysis-r"	2.15
+"SRR5367475"	"Chaput"	"Melanoma"	"NR"	"re-analysis-r"	5.05
+"SRR5367476"	"Chaput"	"Melanoma"	"NR"	"re-analysis-r"	8.4
+"SRR5367480"	"Chaput"	"Melanoma"	"NR"	"re-analysis-r"	3.55
+"SRR5367483"	"Chaput"	"Melanoma"	"NR"	"re-analysis-r"	12.5
+"SRR5367485"	"Chaput"	"Melanoma"	"NR"	"re-analysis-r"	2.35
+"SRR5367487"	"Chaput"	"Melanoma"	"NR"	"re-analysis-r"	0
+"SRR5367488"	"Chaput"	"Melanoma"	"R"	"re-analysis-r"	0.85
+"SRR5367492"	"Chaput"	"Melanoma"	"NR"	"re-analysis-r"	4.75
+"SRR5367494"	"Chaput"	"Melanoma"	"NR"	"re-analysis-r"	2.05
+"SRR5367495"	"Chaput"	"Melanoma"	"NR"	"re-analysis-r"	14.45
+"SRR5367498"	"Chaput"	"Melanoma"	"NR"	"re-analysis-r"	9.15
+"SRR5367501"	"Chaput"	"Melanoma"	"R"	"re-analysis-r"	11.5
+"SRR5367505.R1"	"Chaput"	"Melanoma"	"NR"	"re-analysis-r"	3.55
+"SRR5367508.R1"	"Chaput"	"Melanoma"	"NR"	"re-analysis-r"	12.4
+"SRR5367513.R1"	"Chaput"	"Melanoma"	"R"	"re-analysis-r"	17.3
+"SRR5367515.R1"	"Chaput"	"Melanoma"	"R"	"re-analysis-r"	19.3
+"SRR5367520.R1"	"Chaput"	"Melanoma"	"R"	"re-analysis-r"	17
+"SRR5367523.R1"	"Chaput"	"Melanoma"	"NR"	"re-analysis-r"	5.2
+"SRR5367527.R1"	"Chaput"	"Melanoma"	"R"	"re-analysis-r"	12.35
+"SRR5367533.R1"	"Chaput"	"Melanoma"	"R"	"re-analysis-r"	12.956204379562
+"SRR5367537.R1"	"Chaput"	"Melanoma"	"R"	"re-analysis-r"	11.25
+"SRR5367540.R1"	"Chaput"	"Melanoma"	"R"	"re-analysis-r"	9.65
+"SRR5367542.R1"	"Chaput"	"Melanoma"	"NR"	"re-analysis-r"	2.65
+"SRR5930493"	"Frankel"	"Melanoma"	"NR"	"re-analysis-r"	5.72490988035546
+"SRR5930494"	"Frankel"	"Melanoma"	"R"	"re-analysis-r"	2.93424853287573
+"SRR5930495"	"Frankel"	"Melanoma"	"R"	"re-analysis-r"	20.1848429242168
+"SRR5930497"	"Frankel"	"Melanoma"	"R"	"re-analysis-r"	17.6456508023234
+"SRR5930498"	"Frankel"	"Melanoma"	"R"	"re-analysis-r"	7.43024511176376
+"SRR5930499"	"Frankel"	"Melanoma"	"R"	"re-analysis-r"	10.7000810143991
+"SRR5930501"	"Frankel"	"Melanoma"	"NR"	"re-analysis-r"	28.0942911833121
+"SRR5930502"	"Frankel"	"Melanoma"	"R"	"re-analysis-r"	17.7209853747825
+"SRR5930503"	"Frankel"	"Melanoma"	"R"	"re-analysis-r"	12.4377509220567
+"SRR5930504"	"Frankel"	"Melanoma"	"R"	"re-analysis-r"	19.1871490737367
+"SRR5930505"	"Frankel"	"Melanoma"	"R"	"re-analysis-r"	10.2688643820547
+"SRR5930506"	"Frankel"	"Melanoma"	"R"	"re-analysis-r"	3.30109767263494
+"SRR5930507"	"Frankel"	"Melanoma"	"NR"	"re-analysis-r"	3.03670169228713
+"SRR5930508"	"Frankel"	"Melanoma"	"NR"	"re-analysis-r"	4.57937527086308
+"SRR5930509"	"Frankel"	"Melanoma"	"NR"	"re-analysis-r"	8.93614238988493
+"SRR5930510"	"Frankel"	"Melanoma"	"NR"	"re-analysis-r"	7.33220793084657
+"SRR5930511"	"Frankel"	"Melanoma"	"R"	"re-analysis-r"	1.8030350586705
+"SRR5930512"	"Frankel"	"Melanoma"	"R"	"re-analysis-r"	6.76543492845986
+"SRR5930513"	"Frankel"	"Melanoma"	"R"	"re-analysis-r"	0.0889486724955682
+"SRR5930514"	"Frankel"	"Melanoma"	"R"	"re-analysis-r"	0.82888965447279
+"SRR5930515"	"Frankel"	"Melanoma"	"NR"	"re-analysis-r"	0.0783634323183355
+"SRR5930516"	"Frankel"	"Melanoma"	"R"	"re-analysis-r"	5.45358598311331
+"SRR5930517"	"Frankel"	"Melanoma"	"NR"	"re-analysis-r"	37.7452137745214
+"SRR5930518"	"Frankel"	"Melanoma"	"NR"	"re-analysis-r"	2.0399182448486
+"SRR5930519"	"Frankel"	"Melanoma"	"NR"	"re-analysis-r"	1.34247583150205
+"SRR5930520"	"Frankel"	"Melanoma"	"NR"	"re-analysis-r"	16.7821876714553
+"SRR5930521"	"Frankel"	"Melanoma"	"NR"	"re-analysis-r"	5.77187602846352
+"SRR5930522"	"Frankel"	"Melanoma"	"NR"	"re-analysis-r"	0.646641067790073
+"SRR5930523"	"Frankel"	"Melanoma"	"R"	"re-analysis-r"	9.27674404162052
+"SRR5930526"	"Frankel"	"Melanoma"	"NR"	"re-analysis-r"	11.9712074440872
+"SRR5930527"	"Frankel"	"Melanoma"	"R"	"re-analysis-r"	16.7881328125954
+"SRR5930528"	"Frankel"	"Melanoma"	"NR"	"re-analysis-r"	0.103323392416043
+"SRR5930529"	"Frankel"	"Melanoma"	"R"	"re-analysis-r"	5.19915917382698
+"SRR5930530"	"Frankel"	"Melanoma"	"R"	"re-analysis-r"	22.2576377610069
+"SRR5930531"	"Frankel"	"Melanoma"	"R"	"re-analysis-r"	11.8504781920693
+"SRR5930532"	"Frankel"	"Melanoma"	"R"	"re-analysis-r"	0.19347909750937
+"SRR5930533"	"Frankel"	"Melanoma"	"R"	"re-analysis-r"	6.42634064263406
+"SRR5930534"	"Frankel"	"Melanoma"	"R"	"re-analysis-r"	11.9863978602854
+"SRR5930536"	"Frankel"	"Melanoma"	"R"	"re-analysis-r"	5.43707796347454
+"SRR6000872"	"Matson"	"Melanoma"	"R"	"re-analysis-r"	13.73
+"SRR6000875"	"Matson"	"Melanoma"	"NR"	"re-analysis-r"	6.27
+"SRR6000876"	"Matson"	"Melanoma"	"NR"	"re-analysis-r"	2.11
+"SRR6000879"	"Matson"	"Melanoma"	"R"	"re-analysis-r"	4.19
+"SRR6000880"	"Matson"	"Melanoma"	"R"	"re-analysis-r"	0.02
+"SRR6000881"	"Matson"	"Melanoma"	"R"	"re-analysis-r"	10.94
+"SRR6000882"	"Matson"	"Melanoma"	"NR"	"re-analysis-r"	2.59
+"SRR6000883"	"Matson"	"Melanoma"	"NR"	"re-analysis-r"	5.12
+"SRR6000884"	"Matson"	"Melanoma"	"R"	"re-analysis-r"	17.53
+"SRR6000885"	"Matson"	"Melanoma"	"R"	"re-analysis-r"	10.87
+"SRR6000886"	"Matson"	"Melanoma"	"NR"	"re-analysis-r"	9.34
+"SRR6000887"	"Matson"	"Melanoma"	"NR"	"re-analysis-r"	4.54
+"SRR6000888"	"Matson"	"Melanoma"	"R"	"re-analysis-r"	2.93
+"SRR6000889"	"Matson"	"Melanoma"	"NR"	"re-analysis-r"	7.03
+"SRR6000897"	"Matson"	"Melanoma"	"NR"	"re-analysis-r"	4.13
+"SRR6000898"	"Matson"	"Melanoma"	"R"	"re-analysis-r"	10.16
+"SRR6000904"	"Matson"	"Melanoma"	"NR"	"re-analysis-r"	7.52
+"SRR6000913"	"Matson"	"Melanoma"	"R"	"re-analysis-r"	5.11
+"SRR6000914"	"Matson"	"Melanoma"	"NR"	"re-analysis-r"	12.54
+"SRR6000915"	"Matson"	"Melanoma"	"NR"	"re-analysis-r"	7.36
+"SRR6000916"	"Matson"	"Melanoma"	"R"	"re-analysis-r"	6.32
+"SRR6000917"	"Matson"	"Melanoma"	"NR"	"re-analysis-r"	2.46
+"SRR6000918"	"Matson"	"Melanoma"	"NR"	"re-analysis-r"	8.39
+"SRR6000919"	"Matson"	"Melanoma"	"R"	"re-analysis-r"	0
+"SRR6000922"	"Matson"	"Melanoma"	"NR"	"re-analysis-r"	7.34
+"SRR6000923"	"Matson"	"Melanoma"	"NR"	"re-analysis-r"	2.98
+"SRR6000924"	"Matson"	"Melanoma"	"NR"	"re-analysis-r"	11.06
+"SRR6000925"	"Matson"	"Melanoma"	"R"	"re-analysis-r"	15.24
+"SRR6000926"	"Matson"	"Melanoma"	"NR"	"re-analysis-r"	11.57
+"SRR6000927"	"Matson"	"Melanoma"	"NR"	"re-analysis-r"	4.26
+"SRR6000928"	"Matson"	"Melanoma"	"R"	"re-analysis-r"	38.09
+"SRR6000929"	"Matson"	"Melanoma"	"NR"	"re-analysis-r"	0.11
+"SRR6000930"	"Matson"	"Melanoma"	"NR"	"re-analysis-r"	0.58
+"SRR6000933"	"Matson"	"Melanoma"	"R"	"re-analysis-r"	1.49
+"SRR6000934"	"Matson"	"Melanoma"	"NR"	"re-analysis-r"	12.64
+"SRR6000935"	"Matson"	"Melanoma"	"NR"	"re-analysis-r"	6.54
+"SRR6000936"	"Matson"	"Melanoma"	"R"	"re-analysis-r"	2.93
+"SRR6000937"	"Matson"	"Melanoma"	"R"	"re-analysis-r"	11.7
+"SRR6000938"	"Matson"	"Melanoma"	"NR"	"re-analysis-r"	6.37
+"SRR6000939"	"Matson"	"Melanoma"	"NR"	"re-analysis-r"	7.06
+"SRR6000941"	"Matson"	"Melanoma"	"NR"	"re-analysis-r"	6.06
+"SRR6000948"	"Matson"	"Melanoma"	"NR"	"re-analysis-r"	8.01
+"Wargo.109865"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-r"	0
+"Wargo.115690"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-r"	8.375
+"Wargo.116774"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-r"	2.4625
+"Wargo.117349"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-r"	10.5375
+"Wargo.118369"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-r"	1.95
+"Wargo.118370"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-r"	0.0625
+"Wargo.120662"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-r"	7.8125
+"Wargo.121296"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-r"	0.3125
+"Wargo.121409"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-r"	7.5625
+"Wargo.121585"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-r"	7.9125
+"Wargo.121891"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-r"	3.375
+"Wargo.121892"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-r"	15.1625
+"Wargo.122114"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-r"	0
+"Wargo.122410"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-r"	0.9625
+"Wargo.122412"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-r"	9.775
+"Wargo.122637"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-r"	0.025
+"Wargo.122639"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-r"	18.5
+"Wargo.122724"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-r"	0.0375
+"Wargo.123009"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-r"	5.7375
+"Wargo.123197"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-r"	9.8
+"Wargo.123305"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-r"	4.575
+"Wargo.123704"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-r"	1.675
+"Wargo.123986"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-r"	7.725
+"Wargo.124418"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-r"	5.6625
+"Wargo.124419"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-r"	0.0125
+"Wargo.124421"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-r"	2.3875
+"Wargo.126747"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-r"	10.975
+"Wargo.126802"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-r"	4.1875
+"Wargo.127261"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-r"	3.675
+"Wargo.127262"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-r"	2.025
+"Wargo.130510"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-r"	8.9625
+"Wargo.130511"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-r"	2.8375
+"Wargo.130801"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-r"	15.3875
+"Wargo.131051"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-r"	1.0625
+"Wargo.131300"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-r"	5.4
+"Wargo.131302"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-r"	0.05
+"Wargo.131512"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-r"	8.4375
+"Wargo.131541"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-r"	7.225
+"Wargo.132265"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-r"	3.0625
+"Wargo.132266"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-r"	12.975
+"Wargo.132268"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-r"	15.8125
+"Wargo.132538"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-r"	2.575
+"Wargo.133270"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-r"	40.15
+"ERR2213660"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-3.0058700356872
+"ERR2213663"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-10.4738698343261
+"ERR2213664"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-4.8785508750204
+"ERR2213665"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-1.47507863718877
+"ERR2213666"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-8.45236072422633
+"ERR2213669"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-1.93415423437363
+"ERR2213671"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-14.1480311375828
+"ERR2213672"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-7.90871620912837
+"ERR2213673"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-1.36602532682397
+"ERR2213674"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-0.834473096737936
+"ERR2213675"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-10.6627359692556
+"ERR2213677"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-5.53196515931276
+"ERR2213679"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-6.94594259664652
+"ERR2213680"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-0.975740902425911
+"ERR2213681"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-0.636564
+"ERR2213682"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-5.197644
+"ERR2213685"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-0.209307566341324
+"ERR2213688"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-1.34145613414561
+"ERR2213691"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-6.56047151243821
+"ERR2213694"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-0.673172
+"ERR2213696"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-4.7360264161585
+"ERR2213699"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-17.5528132658439
+"ERR2213700"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-7.09236
+"ERR2213701"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-1.18063
+"ERR2213704"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-0.422921586069492
+"ERR2213705"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-0.80015388824841
+"ERR2213706"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-0.494475462794529
+"ERR2213707"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-0.730757719128422
+"ERR2213710"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-1.10090492366123
+"ERR2213711"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-2.1001719423425
+"ERR2213712"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-7.20632972063298
+"ERR2213713"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-0.554150304535983
+"ERR2213714"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-2.24227447735549
+"ERR2213715"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-5.92646691496051
+"ERR2213717"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-4.51376341141324
+"ERR2213718"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-3.27636879265594
+"ERR2213719"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-2.63846051526341
+"ERR2213721"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-7.26705062963728
+"ERR2213722"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-2.23951438113028
+"ERR2213723"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-0.426602701378109
+"ERR2213725"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-0.461667953833205
+"ERR2213726"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-7.25538946848191
+"ERR2213727"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-22.631519
+"ERR2213728"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-3.09440607167818
+"ERR2213731"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-2.68778733874654
+"ERR2213732"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-2.06756480438402
+"ERR2213733"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-0.326900003565795
+"ERR2213734"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-7.07137631729441
+"ERR2213735"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-1.63444681722341
+"ERR2213736"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-11.5018742875003
+"ERR2213737"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-1.6299308438854
+"ERR2213740"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-27.7294222466592
+"ERR2213741"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-2.27099577290042
+"ERR2235210"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-0.99901590009841
+"ERR2235211"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-4.73532778365246
+"ERR2235212"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-9.51389414583175
+"ERR2235213"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-4.75528764412007
+"ERR2235214"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-3.05162378356335
+"ERR2235215"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	0
+"ERR2235216"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-3.87292661270734
+"ERR2235217"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-2.12345133163847
+"ERR2235218"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-12.1448124702045
+"ERR2235219"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-0.998928586937445
+"ERR2235220"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-2.37280320106876
+"ERR2235221"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-9.52466542123588
+"ERR2235222"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-8.43871984159077
+"ERR2235223"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-0.416758936756371
+"ERR2235224"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-4.00579481085173
+"ERR2235225"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-0.126249263765983
+"ERR2235226"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-3.57855960669357
+"ERR2235227"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-3.05995489971755
+"ERR2235228"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-1.17150150612393
+"ERR2235229"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-2.69185724810494
+"ERR2235230"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-5.89591519326893
+"ERR2235231"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-0.350079938366972
+"ERR2235232"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-4.04830764561149
+"ERR2235233"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-0.0688819612300107
+"ERR2235234"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-14.6917960616407
+"ERR2235235"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-5.93697943781234
+"ERR2235236"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-0.424951127485338
+"ERR2235237"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-9.12471873741562
+"ERR2235238"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-0.574206645795375
+"ERR2235239"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-6.62926534829386
+"ERR2235240"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-nr"	-1.18368470239595
+"ERR2235241"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-2.39101787354599
+"ERR2235242"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-18.917569611259
+"ERR2235243"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-nr"	-11.7841748030258
+"ERR2235244"	"Routy RCC"	"RCC"	"NR"	"re-analysis-nr"	-1.01076412161039
+"ERR2235245"	"Routy RCC"	"RCC"	"NR"	"re-analysis-nr"	-13.5301098392924
+"ERR2235246"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-6.0076546418714
+"ERR2235248"	"Routy RCC"	"RCC"	"NR"	"re-analysis-nr"	-0.509680898063821
+"ERR2235251"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-2.47694043695345
+"ERR2235253"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-1.33654462434105
+"ERR2235255"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-0.195271601908456
+"ERR2235256"	"Routy RCC"	"RCC"	"NR"	"re-analysis-nr"	-5.56166677732157
+"ERR2235257"	"Routy RCC"	"RCC"	"NR"	"re-analysis-nr"	-9.46224035610544
+"ERR2235259"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-0.701617912724464
+"ERR2235260"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-1.81125454403532
+"ERR2235263"	"Routy RCC"	"RCC"	"NR"	"re-analysis-nr"	-9.19605416363494
+"ERR2235265"	"Routy RCC"	"RCC"	"NR"	"re-analysis-nr"	-7.35437020631106
+"ERR2235268"	"Routy RCC"	"RCC"	"NR"	"re-analysis-nr"	-2.306898
+"ERR2235271"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-0.491872011739605
+"ERR2235274"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-5.09611312817167
+"ERR2235275"	"Routy RCC"	"RCC"	"NR"	"re-analysis-nr"	-4.02230155212334
+"ERR2235277"	"Routy RCC"	"RCC"	"NR"	"re-analysis-nr"	-4.74280567643338
+"ERR2235278"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-1.94408130890553
+"ERR2235280"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-5.41534445846555
+"ERR2235282"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-7.0650313942034
+"ERR2235284"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-3.8408001396104
+"ERR2235287"	"Routy RCC"	"RCC"	"NR"	"re-analysis-nr"	-1.54693565177079
+"ERR2235288"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-2.07291483589501
+"ERR2235290"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-2.94387370561263
+"ERR2235293"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-1.71044631582147
+"ERR2235296"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-0.230117115058558
+"ERR2235297"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-5.96980321372753
+"ERR2235300"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-4.67332766299634
+"ERR2235301"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-0.578217934887888
+"ERR2235303"	"Routy RCC"	"RCC"	"NR"	"re-analysis-nr"	-11.4499503444749
+"ERR2235304"	"Routy RCC"	"RCC"	"NR"	"re-analysis-nr"	-17.2216400202969
+"ERR2235306"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-0.813536910593824
+"ERR2235309"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-11.0865939957699
+"ERR2235311"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-0.168174156880925
+"ERR2235313"	"Routy RCC"	"RCC"	"NR"	"re-analysis-nr"	-3.71466114912187
+"ERR2235315"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-5.96469442713635
+"ERR2235316"	"Routy RCC"	"RCC"	"NR"	"re-analysis-nr"	-0.992440493553365
+"ERR2235317"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-0.414062729968935
+"ERR2235318"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-1.48047282929705
+"ERR2235319"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-1.50126070206422
+"ERR2235320"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-0.632115088060947
+"ERR2235321"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-1.33276036974752
+"ERR2235322"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-0.340762795542323
+"ERR2235323"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-0.784813156962631
+"ERR2235324"	"Routy RCC"	"RCC"	"NR"	"re-analysis-nr"	-1.9016350521384
+"ERR2235325"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-17.532229249865
+"ERR2235326"	"Routy RCC"	"RCC"	"NR"	"re-analysis-nr"	-1.81334204107105
+"ERR2235327"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-1.00973551710203
+"ERR2235328"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-1.42412727892574
+"ERR2235329"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-0.597731059773106
+"ERR2235330"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-1.29330974133805
+"ERR2235331"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-1.20542517890937
+"ERR2235332"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-8.7691081230892
+"ERR2235333"	"Routy RCC"	"RCC"	"NR"	"re-analysis-nr"	-14.3201338640268
+"ERR2235334"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-0.953526792090371
+"ERR2235335"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-1.13639301455497
+"ERR2235336"	"Routy RCC"	"RCC"	"NR"	"re-analysis-nr"	-1.61180052975994
+"ERR2235337"	"Routy RCC"	"RCC"	"NR"	"re-analysis-nr"	-2.85500450364276
+"ERR2235338"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-0.7985376007312
+"ERR2235339"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-2.40389030545468
+"ERR2235340"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-2.27058409176637
+"ERR2235341"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-0.364905894534386
+"ERR2235342"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-3.81727738172774
+"ERR2235343"	"Routy RCC"	"RCC"	"NR"	"re-analysis-nr"	-3.24140135171973
+"ERR2235344"	"Routy RCC"	"RCC"	"R"	"re-analysis-nr"	-3.02169669783033
+"SRR5367463"	"Chaput"	"Melanoma"	"NR"	"re-analysis-nr"	-1.515
+"SRR5367466"	"Chaput"	"Melanoma"	"NR"	"re-analysis-nr"	-2.085
+"SRR5367468"	"Chaput"	"Melanoma"	"NR"	"re-analysis-nr"	-3.2
+"SRR5367475"	"Chaput"	"Melanoma"	"NR"	"re-analysis-nr"	-0.01
+"SRR5367476"	"Chaput"	"Melanoma"	"NR"	"re-analysis-nr"	-0.105
+"SRR5367480"	"Chaput"	"Melanoma"	"NR"	"re-analysis-nr"	-1.765
+"SRR5367483"	"Chaput"	"Melanoma"	"NR"	"re-analysis-nr"	-5.05
+"SRR5367485"	"Chaput"	"Melanoma"	"NR"	"re-analysis-nr"	-1.46
+"SRR5367487"	"Chaput"	"Melanoma"	"NR"	"re-analysis-nr"	-2.64
+"SRR5367488"	"Chaput"	"Melanoma"	"R"	"re-analysis-nr"	-0.63
+"SRR5367492"	"Chaput"	"Melanoma"	"NR"	"re-analysis-nr"	-2.17
+"SRR5367494"	"Chaput"	"Melanoma"	"NR"	"re-analysis-nr"	-1.98
+"SRR5367495"	"Chaput"	"Melanoma"	"NR"	"re-analysis-nr"	-3.67
+"SRR5367498"	"Chaput"	"Melanoma"	"NR"	"re-analysis-nr"	-0.17
+"SRR5367501"	"Chaput"	"Melanoma"	"R"	"re-analysis-nr"	-0.115
+"SRR5367505.R1"	"Chaput"	"Melanoma"	"NR"	"re-analysis-nr"	-0.38
+"SRR5367508.R1"	"Chaput"	"Melanoma"	"NR"	"re-analysis-nr"	-3.255
+"SRR5367513.R1"	"Chaput"	"Melanoma"	"R"	"re-analysis-nr"	-1.305
+"SRR5367515.R1"	"Chaput"	"Melanoma"	"R"	"re-analysis-nr"	-0.77
+"SRR5367520.R1"	"Chaput"	"Melanoma"	"R"	"re-analysis-nr"	-1.32
+"SRR5367523.R1"	"Chaput"	"Melanoma"	"NR"	"re-analysis-nr"	-3.335
+"SRR5367527.R1"	"Chaput"	"Melanoma"	"R"	"re-analysis-nr"	-0.97
+"SRR5367533.R1"	"Chaput"	"Melanoma"	"R"	"re-analysis-nr"	-0.809002433090025
+"SRR5367537.R1"	"Chaput"	"Melanoma"	"R"	"re-analysis-nr"	-1.655
+"SRR5367540.R1"	"Chaput"	"Melanoma"	"R"	"re-analysis-nr"	-1.305
+"SRR5367542.R1"	"Chaput"	"Melanoma"	"NR"	"re-analysis-nr"	-0.8
+"SRR5930493"	"Frankel"	"Melanoma"	"NR"	"re-analysis-nr"	-0.223821898783283
+"SRR5930494"	"Frankel"	"Melanoma"	"R"	"re-analysis-nr"	-0.592879703560148
+"SRR5930495"	"Frankel"	"Melanoma"	"R"	"re-analysis-nr"	-3.03711349340746
+"SRR5930497"	"Frankel"	"Melanoma"	"R"	"re-analysis-nr"	-0.38900788689069
+"SRR5930498"	"Frankel"	"Melanoma"	"R"	"re-analysis-nr"	-0.697664415716816
+"SRR5930499"	"Frankel"	"Melanoma"	"R"	"re-analysis-nr"	-1.73153302224311
+"SRR5930501"	"Frankel"	"Melanoma"	"NR"	"re-analysis-nr"	-1.77585446360837
+"SRR5930502"	"Frankel"	"Melanoma"	"R"	"re-analysis-nr"	-0.144065301806574
+"SRR5930503"	"Frankel"	"Melanoma"	"R"	"re-analysis-nr"	-0.823354473510354
+"SRR5930504"	"Frankel"	"Melanoma"	"R"	"re-analysis-nr"	-4.08031668914008
+"SRR5930505"	"Frankel"	"Melanoma"	"R"	"re-analysis-nr"	-1.31555175605327
+"SRR5930506"	"Frankel"	"Melanoma"	"R"	"re-analysis-nr"	-3.61015582595979
+"SRR5930507"	"Frankel"	"Melanoma"	"NR"	"re-analysis-nr"	-0.460648383362124
+"SRR5930508"	"Frankel"	"Melanoma"	"NR"	"re-analysis-nr"	-1.22359654135986
+"SRR5930509"	"Frankel"	"Melanoma"	"NR"	"re-analysis-nr"	-2.09893322386857
+"SRR5930510"	"Frankel"	"Melanoma"	"NR"	"re-analysis-nr"	-4.24037132680392
+"SRR5930511"	"Frankel"	"Melanoma"	"R"	"re-analysis-nr"	-0.343865157759315
+"SRR5930512"	"Frankel"	"Melanoma"	"R"	"re-analysis-nr"	-0.0681675610371477
+"SRR5930513"	"Frankel"	"Melanoma"	"R"	"re-analysis-nr"	-8.40951492770546
+"SRR5930514"	"Frankel"	"Melanoma"	"R"	"re-analysis-nr"	-1.36092682970925
+"SRR5930515"	"Frankel"	"Melanoma"	"NR"	"re-analysis-nr"	-12.1759213053532
+"SRR5930516"	"Frankel"	"Melanoma"	"R"	"re-analysis-nr"	-0.556152788289074
+"SRR5930517"	"Frankel"	"Melanoma"	"NR"	"re-analysis-nr"	-2.63877226387723
+"SRR5930518"	"Frankel"	"Melanoma"	"NR"	"re-analysis-nr"	-3.81615652374984
+"SRR5930519"	"Frankel"	"Melanoma"	"NR"	"re-analysis-nr"	-7.30509818532448
+"SRR5930520"	"Frankel"	"Melanoma"	"NR"	"re-analysis-nr"	-0.837881690215313
+"SRR5930521"	"Frankel"	"Melanoma"	"NR"	"re-analysis-nr"	-4.14784894057819
+"SRR5930522"	"Frankel"	"Melanoma"	"NR"	"re-analysis-nr"	-3.04045047993892
+"SRR5930523"	"Frankel"	"Melanoma"	"R"	"re-analysis-nr"	-1.20764671074692
+"SRR5930526"	"Frankel"	"Melanoma"	"NR"	"re-analysis-nr"	-0.538844889650336
+"SRR5930527"	"Frankel"	"Melanoma"	"R"	"re-analysis-nr"	-0.80656924150873
+"SRR5930528"	"Frankel"	"Melanoma"	"NR"	"re-analysis-nr"	-2.65584628359861
+"SRR5930529"	"Frankel"	"Melanoma"	"R"	"re-analysis-nr"	-1.33022168844688
+"SRR5930530"	"Frankel"	"Melanoma"	"R"	"re-analysis-nr"	-0.0974420109581386
+"SRR5930531"	"Frankel"	"Melanoma"	"R"	"re-analysis-nr"	-0.142709523696176
+"SRR5930532"	"Frankel"	"Melanoma"	"R"	"re-analysis-nr"	-2.74308574372732
+"SRR5930533"	"Frankel"	"Melanoma"	"R"	"re-analysis-nr"	-0.310424031042403
+"SRR5930534"	"Frankel"	"Melanoma"	"R"	"re-analysis-nr"	-0.895162029431081
+"SRR5930536"	"Frankel"	"Melanoma"	"R"	"re-analysis-nr"	-0.870316878960987
+"SRR6000872"	"Matson"	"Melanoma"	"R"	"re-analysis-nr"	-0.639
+"SRR6000875"	"Matson"	"Melanoma"	"NR"	"re-analysis-nr"	-1.436
+"SRR6000876"	"Matson"	"Melanoma"	"NR"	"re-analysis-nr"	-2.381
+"SRR6000879"	"Matson"	"Melanoma"	"R"	"re-analysis-nr"	-1.275
+"SRR6000880"	"Matson"	"Melanoma"	"R"	"re-analysis-nr"	-6.66
+"SRR6000881"	"Matson"	"Melanoma"	"R"	"re-analysis-nr"	-0.385
+"SRR6000882"	"Matson"	"Melanoma"	"NR"	"re-analysis-nr"	-5.732
+"SRR6000883"	"Matson"	"Melanoma"	"NR"	"re-analysis-nr"	-2.68
+"SRR6000884"	"Matson"	"Melanoma"	"R"	"re-analysis-nr"	-7.179
+"SRR6000885"	"Matson"	"Melanoma"	"R"	"re-analysis-nr"	-1.056
+"SRR6000886"	"Matson"	"Melanoma"	"NR"	"re-analysis-nr"	-3.54
+"SRR6000887"	"Matson"	"Melanoma"	"NR"	"re-analysis-nr"	-1.718
+"SRR6000888"	"Matson"	"Melanoma"	"R"	"re-analysis-nr"	-2.132
+"SRR6000889"	"Matson"	"Melanoma"	"NR"	"re-analysis-nr"	-4.844
+"SRR6000897"	"Matson"	"Melanoma"	"NR"	"re-analysis-nr"	-15.549
+"SRR6000898"	"Matson"	"Melanoma"	"R"	"re-analysis-nr"	-2.096
+"SRR6000904"	"Matson"	"Melanoma"	"NR"	"re-analysis-nr"	-2.679
+"SRR6000913"	"Matson"	"Melanoma"	"R"	"re-analysis-nr"	-1.789
+"SRR6000914"	"Matson"	"Melanoma"	"NR"	"re-analysis-nr"	-2.337
+"SRR6000915"	"Matson"	"Melanoma"	"NR"	"re-analysis-nr"	-9.494
+"SRR6000916"	"Matson"	"Melanoma"	"R"	"re-analysis-nr"	-0.381
+"SRR6000917"	"Matson"	"Melanoma"	"NR"	"re-analysis-nr"	-2.939
+"SRR6000918"	"Matson"	"Melanoma"	"NR"	"re-analysis-nr"	-3.128
+"SRR6000919"	"Matson"	"Melanoma"	"R"	"re-analysis-nr"	-0.189
+"SRR6000922"	"Matson"	"Melanoma"	"NR"	"re-analysis-nr"	-0.626
+"SRR6000923"	"Matson"	"Melanoma"	"NR"	"re-analysis-nr"	-3.134
+"SRR6000924"	"Matson"	"Melanoma"	"NR"	"re-analysis-nr"	-0.188
+"SRR6000925"	"Matson"	"Melanoma"	"R"	"re-analysis-nr"	-0.274
+"SRR6000926"	"Matson"	"Melanoma"	"NR"	"re-analysis-nr"	-2.86
+"SRR6000927"	"Matson"	"Melanoma"	"NR"	"re-analysis-nr"	-2.322
+"SRR6000928"	"Matson"	"Melanoma"	"R"	"re-analysis-nr"	-0.332
+"SRR6000929"	"Matson"	"Melanoma"	"NR"	"re-analysis-nr"	-8.27
+"SRR6000930"	"Matson"	"Melanoma"	"NR"	"re-analysis-nr"	-2.087
+"SRR6000933"	"Matson"	"Melanoma"	"R"	"re-analysis-nr"	-1.739
+"SRR6000934"	"Matson"	"Melanoma"	"NR"	"re-analysis-nr"	-2.481
+"SRR6000935"	"Matson"	"Melanoma"	"NR"	"re-analysis-nr"	-0.91
+"SRR6000936"	"Matson"	"Melanoma"	"R"	"re-analysis-nr"	-0.555
+"SRR6000937"	"Matson"	"Melanoma"	"R"	"re-analysis-nr"	-1.727
+"SRR6000938"	"Matson"	"Melanoma"	"NR"	"re-analysis-nr"	-1.835
+"SRR6000939"	"Matson"	"Melanoma"	"NR"	"re-analysis-nr"	-1.155
+"SRR6000941"	"Matson"	"Melanoma"	"NR"	"re-analysis-nr"	-0.425
+"SRR6000948"	"Matson"	"Melanoma"	"NR"	"re-analysis-nr"	-1.081
+"Wargo.109865"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-nr"	-0.2125
+"Wargo.115690"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-nr"	-1.3725
+"Wargo.116774"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-nr"	-0.44875
+"Wargo.117349"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-nr"	-1.975
+"Wargo.118369"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-nr"	-5.735
+"Wargo.118370"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-nr"	-0.8325
+"Wargo.120662"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-nr"	-7.36
+"Wargo.121296"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-nr"	-0.2925
+"Wargo.121409"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-nr"	-13.58625
+"Wargo.121585"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-nr"	-5.07875
+"Wargo.121891"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-nr"	-6.88875
+"Wargo.121892"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-nr"	-0.325
+"Wargo.122114"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-nr"	-5.71
+"Wargo.122410"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-nr"	-1.545
+"Wargo.122412"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-nr"	-7.475
+"Wargo.122637"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-nr"	-5.38125
+"Wargo.122639"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-nr"	-0.63
+"Wargo.122724"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-nr"	-2.1275
+"Wargo.123009"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-nr"	-6.405
+"Wargo.123197"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-nr"	-5.76125
+"Wargo.123305"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-nr"	-2.03625
+"Wargo.123704"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-nr"	-3.37875
+"Wargo.123986"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-nr"	-1.2975
+"Wargo.124418"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-nr"	-2.31625
+"Wargo.124419"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-nr"	-9.46625
+"Wargo.124421"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-nr"	-2.7
+"Wargo.126747"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-nr"	-1.005
+"Wargo.126802"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-nr"	-8.88
+"Wargo.127261"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-nr"	-0.77875
+"Wargo.127262"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-nr"	-1.46125
+"Wargo.130510"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-nr"	-5.41625
+"Wargo.130511"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-nr"	-6.10125
+"Wargo.130801"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-nr"	-0.9825
+"Wargo.131051"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-nr"	-1.755
+"Wargo.131300"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-nr"	-0.50125
+"Wargo.131302"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-nr"	-0.3375
+"Wargo.131512"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-nr"	-6.97625
+"Wargo.131541"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-nr"	-2.4175
+"Wargo.132265"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-nr"	-1.46875
+"Wargo.132266"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-nr"	-0.31625
+"Wargo.132268"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-nr"	-4.45625
+"Wargo.132538"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-nr"	-0.1125
+"Wargo.133270"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-nr"	-1.7275
+"ERR2213660"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	18.3916040192392
+"ERR2213663"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	-10.4738698343261
+"ERR2213664"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	2.6065419640615
+"ERR2213665"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	-1.47507863718877
+"ERR2213666"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	-1.65282048886948
+"ERR2213669"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	7.10265450049775
+"ERR2213671"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	-1.65533225903502
+"ERR2213672"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	7.65934223406573
+"ERR2213673"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	7.34835272506432
+"ERR2213674"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	14.8803062247659
+"ERR2213675"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	-0.129493537388342
+"ERR2213677"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	-1.9760708025551
+"ERR2213679"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	3.21644195467176
+"ERR2213680"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	30.5445859455415
+"ERR2213681"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	14.147496
+"ERR2213682"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	0.720876000000001
+"ERR2213685"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	8.31724649075804
+"ERR2213688"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	12.8590052859005
+"ERR2213691"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	-6.30828500605048
+"ERR2213694"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	4.127858
+"ERR2213696"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	-2.99875599253596
+"ERR2213699"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	-17.5508732652619
+"ERR2213700"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	-1.68175
+"ERR2213701"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	15.03487
+"ERR2213704"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	20.2021061746683
+"ERR2213705"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	0.07965326941524
+"ERR2213706"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	10.8775453786778
+"ERR2213707"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	14.8381268084547
+"ERR2213710"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	16.4791516641327
+"ERR2213711"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	5.2466491442018
+"ERR2213712"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	-6.72898967289897
+"ERR2213713"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	9.96467282417057
+"ERR2213714"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	-2.24227447735549
+"ERR2213715"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	10.9777649147575
+"ERR2213717"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	9.06175893968351
+"ERR2213718"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	9.19105383095332
+"ERR2213719"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	6.54200713217822
+"ERR2213721"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	-1.19496991812388
+"ERR2213722"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	11.8856606554723
+"ERR2213723"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	38.8847197806962
+"ERR2213725"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	12.7301107269889
+"ERR2213726"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	-7.25538946848191
+"ERR2213727"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	-6.074419
+"ERR2213728"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	2.30909230727231
+"ERR2213731"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	4.36681743176844
+"ERR2213732"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	4.49534742653305
+"ERR2213733"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	11.8022159153972
+"ERR2213734"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	-7.07137631729441
+"ERR2213735"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	19.989943994972
+"ERR2213736"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	-11.4546113883752
+"ERR2213737"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	2.30405969315606
+"ERR2213740"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	-17.1427522118656
+"ERR2213741"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	14.8668225133177
+"ERR2235210"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	3.40695365930463
+"ERR2235211"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	16.6772287410294
+"ERR2235212"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	0.818552754434181
+"ERR2235213"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	-4.66175597925643
+"ERR2235214"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	3.61568774934425
+"ERR2235215"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	0
+"ERR2235216"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	-3.84875661512434
+"ERR2235217"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	15.5389628479643
+"ERR2235218"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	-1.7949896413418
+"ERR2235219"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	20.3728803621432
+"ERR2235220"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	-1.53427598234303
+"ERR2235221"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	-7.56866960740585
+"ERR2235222"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	20.2726231035277
+"ERR2235223"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	12.00811703273
+"ERR2235224"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	11.5124243823894
+"ERR2235225"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	-0.126249263765983
+"ERR2235226"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	-2.013147200875
+"ERR2235227"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	13.3668453766194
+"ERR2235228"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	12.0402221041242
+"ERR2235229"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	5.86523407947833
+"ERR2235230"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	-5.83149443556485
+"ERR2235231"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	5.75612476711631
+"ERR2235232"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	-3.81419817078855
+"ERR2235233"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	2.68006354948697
+"ERR2235234"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	-14.6917960616407
+"ERR2235235"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	2.73835535698678
+"ERR2235236"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	6.00675080202524
+"ERR2235237"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	-8.37901851370555
+"ERR2235238"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	7.79955355847513
+"ERR2235239"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	0.92213163114734
+"ERR2235240"	"Routy NSCLC"	"NSCLC"	"R"	"re-analysis-agg"	14.0629382300112
+"ERR2235241"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	27.9570011566984
+"ERR2235242"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	-10.8239388837946
+"ERR2235243"	"Routy NSCLC"	"NSCLC"	"NR"	"re-analysis-agg"	1.1795032704443
+"ERR2235244"	"Routy RCC"	"RCC"	"NR"	"re-analysis-agg"	0.293518849811274
+"ERR2235245"	"Routy RCC"	"RCC"	"NR"	"re-analysis-agg"	-3.20122256082149
+"ERR2235246"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	2.73261863186101
+"ERR2235248"	"Routy RCC"	"RCC"	"NR"	"re-analysis-agg"	12.3132365373527
+"ERR2235251"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	6.1688490580166
+"ERR2235253"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	11.4740343750878
+"ERR2235255"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	15.846093402415
+"ERR2235256"	"Routy RCC"	"RCC"	"NR"	"re-analysis-agg"	2.52632560321193
+"ERR2235257"	"Routy RCC"	"RCC"	"NR"	"re-analysis-agg"	3.8294426555213
+"ERR2235259"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	6.30454996011001
+"ERR2235260"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	20.5042424442901
+"ERR2235263"	"Routy RCC"	"RCC"	"NR"	"re-analysis-agg"	-0.00550992101178194
+"ERR2235265"	"Routy RCC"	"RCC"	"NR"	"re-analysis-agg"	2.1684526505358
+"ERR2235268"	"Routy RCC"	"RCC"	"NR"	"re-analysis-agg"	13.763792
+"ERR2235271"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	20.9374881229714
+"ERR2235274"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	1.57131784813419
+"ERR2235275"	"Routy RCC"	"RCC"	"NR"	"re-analysis-agg"	0.650793016979997
+"ERR2235277"	"Routy RCC"	"RCC"	"NR"	"re-analysis-agg"	19.3134614228766
+"ERR2235278"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	17.7268885305803
+"ERR2235280"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	-5.41534445846555
+"ERR2235282"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	1.42358118979433
+"ERR2235284"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	0.653044651826558
+"ERR2235287"	"Routy RCC"	"RCC"	"NR"	"re-analysis-agg"	20.4429909887469
+"ERR2235288"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	11.0374992385157
+"ERR2235290"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	8.01710519828947
+"ERR2235293"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	6.07359057056376
+"ERR2235296"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	10.7538983769492
+"ERR2235297"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	0.466803558927309
+"ERR2235300"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	38.7587702715097
+"ERR2235301"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	17.1800806446531
+"ERR2235303"	"Routy RCC"	"RCC"	"NR"	"re-analysis-agg"	-10.3302355240803
+"ERR2235304"	"Routy RCC"	"RCC"	"NR"	"re-analysis-agg"	-0.375704858746074
+"ERR2235306"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	6.20225176831153
+"ERR2235309"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	1.68224638362411
+"ERR2235311"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	11.4661620402347
+"ERR2235313"	"Routy RCC"	"RCC"	"NR"	"re-analysis-agg"	2.17353573446312
+"ERR2235315"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	-5.92092942841245
+"ERR2235316"	"Routy RCC"	"RCC"	"NR"	"re-analysis-agg"	10.4978412330511
+"ERR2235317"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	5.76937456058724
+"ERR2235318"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	4.38182877919704
+"ERR2235319"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	11.5241201791949
+"ERR2235320"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	8.0765556358886
+"ERR2235321"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	12.3911942550567
+"ERR2235322"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	9.79195112482933
+"ERR2235323"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	5.53145810629162
+"ERR2235324"	"Routy RCC"	"RCC"	"NR"	"re-analysis-agg"	-1.8738229745762
+"ERR2235325"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	-9.30009259532637
+"ERR2235326"	"Routy RCC"	"RCC"	"NR"	"re-analysis-agg"	6.98243984010033
+"ERR2235327"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	6.82912928958316
+"ERR2235328"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	13.4294632402685
+"ERR2235329"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	5.92995959299595
+"ERR2235330"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	17.7076964584607
+"ERR2235331"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	16.2871773135501
+"ERR2235332"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	6.49962035003801
+"ERR2235333"	"Routy RCC"	"RCC"	"NR"	"re-analysis-agg"	-12.3491334698267
+"ERR2235334"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	14.5706058039698
+"ERR2235335"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	6.07191092370302
+"ERR2235336"	"Routy RCC"	"RCC"	"NR"	"re-analysis-agg"	16.4215191825464
+"ERR2235337"	"Routy RCC"	"RCC"	"NR"	"re-analysis-agg"	6.36124765155056
+"ERR2235338"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	1.5845212077394
+"ERR2235339"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	-1.27816015397109
+"ERR2235340"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	22.4226960309216
+"ERR2235341"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	18.6438787574802
+"ERR2235342"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	9.48761394876136
+"ERR2235343"	"Routy RCC"	"RCC"	"NR"	"re-analysis-agg"	18.3331943333611
+"ERR2235344"	"Routy RCC"	"RCC"	"R"	"re-analysis-agg"	4.47902255209774
+"SRR5367463"	"Chaput"	"Melanoma"	"NR"	"re-analysis-agg"	11.835
+"SRR5367466"	"Chaput"	"Melanoma"	"NR"	"re-analysis-agg"	5.515
+"SRR5367468"	"Chaput"	"Melanoma"	"NR"	"re-analysis-agg"	-1.05
+"SRR5367475"	"Chaput"	"Melanoma"	"NR"	"re-analysis-agg"	5.04
+"SRR5367476"	"Chaput"	"Melanoma"	"NR"	"re-analysis-agg"	8.295
+"SRR5367480"	"Chaput"	"Melanoma"	"NR"	"re-analysis-agg"	1.785
+"SRR5367483"	"Chaput"	"Melanoma"	"NR"	"re-analysis-agg"	7.45
+"SRR5367485"	"Chaput"	"Melanoma"	"NR"	"re-analysis-agg"	0.89
+"SRR5367487"	"Chaput"	"Melanoma"	"NR"	"re-analysis-agg"	-2.64
+"SRR5367488"	"Chaput"	"Melanoma"	"R"	"re-analysis-agg"	0.22
+"SRR5367492"	"Chaput"	"Melanoma"	"NR"	"re-analysis-agg"	2.58
+"SRR5367494"	"Chaput"	"Melanoma"	"NR"	"re-analysis-agg"	0.0699999999999998
+"SRR5367495"	"Chaput"	"Melanoma"	"NR"	"re-analysis-agg"	10.78
+"SRR5367498"	"Chaput"	"Melanoma"	"NR"	"re-analysis-agg"	8.98
+"SRR5367501"	"Chaput"	"Melanoma"	"R"	"re-analysis-agg"	11.385
+"SRR5367505.R1"	"Chaput"	"Melanoma"	"NR"	"re-analysis-agg"	3.17
+"SRR5367508.R1"	"Chaput"	"Melanoma"	"NR"	"re-analysis-agg"	9.145
+"SRR5367513.R1"	"Chaput"	"Melanoma"	"R"	"re-analysis-agg"	15.995
+"SRR5367515.R1"	"Chaput"	"Melanoma"	"R"	"re-analysis-agg"	18.53
+"SRR5367520.R1"	"Chaput"	"Melanoma"	"R"	"re-analysis-agg"	15.68
+"SRR5367523.R1"	"Chaput"	"Melanoma"	"NR"	"re-analysis-agg"	1.865
+"SRR5367527.R1"	"Chaput"	"Melanoma"	"R"	"re-analysis-agg"	11.38
+"SRR5367533.R1"	"Chaput"	"Melanoma"	"R"	"re-analysis-agg"	12.147201946472
+"SRR5367537.R1"	"Chaput"	"Melanoma"	"R"	"re-analysis-agg"	9.595
+"SRR5367540.R1"	"Chaput"	"Melanoma"	"R"	"re-analysis-agg"	8.345
+"SRR5367542.R1"	"Chaput"	"Melanoma"	"NR"	"re-analysis-agg"	1.85
+"SRR5930493"	"Frankel"	"Melanoma"	"NR"	"re-analysis-agg"	5.50108798157218
+"SRR5930494"	"Frankel"	"Melanoma"	"R"	"re-analysis-agg"	2.34136882931558
+"SRR5930495"	"Frankel"	"Melanoma"	"R"	"re-analysis-agg"	17.1477294308093
+"SRR5930497"	"Frankel"	"Melanoma"	"R"	"re-analysis-agg"	17.2566429154327
+"SRR5930498"	"Frankel"	"Melanoma"	"R"	"re-analysis-agg"	6.73258069604694
+"SRR5930499"	"Frankel"	"Melanoma"	"R"	"re-analysis-agg"	8.96854799215599
+"SRR5930501"	"Frankel"	"Melanoma"	"NR"	"re-analysis-agg"	26.3184367197038
+"SRR5930502"	"Frankel"	"Melanoma"	"R"	"re-analysis-agg"	17.5769200729759
+"SRR5930503"	"Frankel"	"Melanoma"	"R"	"re-analysis-agg"	11.6143964485463
+"SRR5930504"	"Frankel"	"Melanoma"	"R"	"re-analysis-agg"	15.1068323845966
+"SRR5930505"	"Frankel"	"Melanoma"	"R"	"re-analysis-agg"	8.95331262600141
+"SRR5930506"	"Frankel"	"Melanoma"	"R"	"re-analysis-agg"	-0.309058153324848
+"SRR5930507"	"Frankel"	"Melanoma"	"NR"	"re-analysis-agg"	2.57605330892501
+"SRR5930508"	"Frankel"	"Melanoma"	"NR"	"re-analysis-agg"	3.35577872950323
+"SRR5930509"	"Frankel"	"Melanoma"	"NR"	"re-analysis-agg"	6.83720916601636
+"SRR5930510"	"Frankel"	"Melanoma"	"NR"	"re-analysis-agg"	3.09183660404265
+"SRR5930511"	"Frankel"	"Melanoma"	"R"	"re-analysis-agg"	1.45916990091119
+"SRR5930512"	"Frankel"	"Melanoma"	"R"	"re-analysis-agg"	6.69726736742271
+"SRR5930513"	"Frankel"	"Melanoma"	"R"	"re-analysis-agg"	-8.32056625520989
+"SRR5930514"	"Frankel"	"Melanoma"	"R"	"re-analysis-agg"	-0.532037175236463
+"SRR5930515"	"Frankel"	"Melanoma"	"NR"	"re-analysis-agg"	-12.0975578730349
+"SRR5930516"	"Frankel"	"Melanoma"	"R"	"re-analysis-agg"	4.89743319482423
+"SRR5930517"	"Frankel"	"Melanoma"	"NR"	"re-analysis-agg"	35.1064415106442
+"SRR5930518"	"Frankel"	"Melanoma"	"NR"	"re-analysis-agg"	-1.77623827890124
+"SRR5930519"	"Frankel"	"Melanoma"	"NR"	"re-analysis-agg"	-5.96262235382243
+"SRR5930520"	"Frankel"	"Melanoma"	"NR"	"re-analysis-agg"	15.9443059812399
+"SRR5930521"	"Frankel"	"Melanoma"	"NR"	"re-analysis-agg"	1.62402708788533
+"SRR5930522"	"Frankel"	"Melanoma"	"NR"	"re-analysis-agg"	-2.39380941214885
+"SRR5930523"	"Frankel"	"Melanoma"	"R"	"re-analysis-agg"	8.06909733087361
+"SRR5930526"	"Frankel"	"Melanoma"	"NR"	"re-analysis-agg"	11.4323625544368
+"SRR5930527"	"Frankel"	"Melanoma"	"R"	"re-analysis-agg"	15.9815635710867
+"SRR5930528"	"Frankel"	"Melanoma"	"NR"	"re-analysis-agg"	-2.55252289118256
+"SRR5930529"	"Frankel"	"Melanoma"	"R"	"re-analysis-agg"	3.8689374853801
+"SRR5930530"	"Frankel"	"Melanoma"	"R"	"re-analysis-agg"	22.1601957500487
+"SRR5930531"	"Frankel"	"Melanoma"	"R"	"re-analysis-agg"	11.7077686683731
+"SRR5930532"	"Frankel"	"Melanoma"	"R"	"re-analysis-agg"	-2.54960664621795
+"SRR5930533"	"Frankel"	"Melanoma"	"R"	"re-analysis-agg"	6.11591661159166
+"SRR5930534"	"Frankel"	"Melanoma"	"R"	"re-analysis-agg"	11.0912358308543
+"SRR5930536"	"Frankel"	"Melanoma"	"R"	"re-analysis-agg"	4.56676108451355
+"SRR6000872"	"Matson"	"Melanoma"	"R"	"re-analysis-agg"	13.091
+"SRR6000875"	"Matson"	"Melanoma"	"NR"	"re-analysis-agg"	4.834
+"SRR6000876"	"Matson"	"Melanoma"	"NR"	"re-analysis-agg"	-0.270999999999999
+"SRR6000879"	"Matson"	"Melanoma"	"R"	"re-analysis-agg"	2.915
+"SRR6000880"	"Matson"	"Melanoma"	"R"	"re-analysis-agg"	-6.64
+"SRR6000881"	"Matson"	"Melanoma"	"R"	"re-analysis-agg"	10.555
+"SRR6000882"	"Matson"	"Melanoma"	"NR"	"re-analysis-agg"	-3.142
+"SRR6000883"	"Matson"	"Melanoma"	"NR"	"re-analysis-agg"	2.44
+"SRR6000884"	"Matson"	"Melanoma"	"R"	"re-analysis-agg"	10.351
+"SRR6000885"	"Matson"	"Melanoma"	"R"	"re-analysis-agg"	9.814
+"SRR6000886"	"Matson"	"Melanoma"	"NR"	"re-analysis-agg"	5.8
+"SRR6000887"	"Matson"	"Melanoma"	"NR"	"re-analysis-agg"	2.822
+"SRR6000888"	"Matson"	"Melanoma"	"R"	"re-analysis-agg"	0.798
+"SRR6000889"	"Matson"	"Melanoma"	"NR"	"re-analysis-agg"	2.186
+"SRR6000897"	"Matson"	"Melanoma"	"NR"	"re-analysis-agg"	-11.419
+"SRR6000898"	"Matson"	"Melanoma"	"R"	"re-analysis-agg"	8.064
+"SRR6000904"	"Matson"	"Melanoma"	"NR"	"re-analysis-agg"	4.841
+"SRR6000913"	"Matson"	"Melanoma"	"R"	"re-analysis-agg"	3.321
+"SRR6000914"	"Matson"	"Melanoma"	"NR"	"re-analysis-agg"	10.203
+"SRR6000915"	"Matson"	"Melanoma"	"NR"	"re-analysis-agg"	-2.134
+"SRR6000916"	"Matson"	"Melanoma"	"R"	"re-analysis-agg"	5.939
+"SRR6000917"	"Matson"	"Melanoma"	"NR"	"re-analysis-agg"	-0.479
+"SRR6000918"	"Matson"	"Melanoma"	"NR"	"re-analysis-agg"	5.262
+"SRR6000919"	"Matson"	"Melanoma"	"R"	"re-analysis-agg"	-0.189
+"SRR6000922"	"Matson"	"Melanoma"	"NR"	"re-analysis-agg"	6.714
+"SRR6000923"	"Matson"	"Melanoma"	"NR"	"re-analysis-agg"	-0.154000000000001
+"SRR6000924"	"Matson"	"Melanoma"	"NR"	"re-analysis-agg"	10.872
+"SRR6000925"	"Matson"	"Melanoma"	"R"	"re-analysis-agg"	14.966
+"SRR6000926"	"Matson"	"Melanoma"	"NR"	"re-analysis-agg"	8.71
+"SRR6000927"	"Matson"	"Melanoma"	"NR"	"re-analysis-agg"	1.938
+"SRR6000928"	"Matson"	"Melanoma"	"R"	"re-analysis-agg"	37.758
+"SRR6000929"	"Matson"	"Melanoma"	"NR"	"re-analysis-agg"	-8.16
+"SRR6000930"	"Matson"	"Melanoma"	"NR"	"re-analysis-agg"	-1.507
+"SRR6000933"	"Matson"	"Melanoma"	"R"	"re-analysis-agg"	-0.249
+"SRR6000934"	"Matson"	"Melanoma"	"NR"	"re-analysis-agg"	10.159
+"SRR6000935"	"Matson"	"Melanoma"	"NR"	"re-analysis-agg"	5.63
+"SRR6000936"	"Matson"	"Melanoma"	"R"	"re-analysis-agg"	2.375
+"SRR6000937"	"Matson"	"Melanoma"	"R"	"re-analysis-agg"	9.973
+"SRR6000938"	"Matson"	"Melanoma"	"NR"	"re-analysis-agg"	4.535
+"SRR6000939"	"Matson"	"Melanoma"	"NR"	"re-analysis-agg"	5.905
+"SRR6000941"	"Matson"	"Melanoma"	"NR"	"re-analysis-agg"	5.635
+"SRR6000948"	"Matson"	"Melanoma"	"NR"	"re-analysis-agg"	6.929
+"Wargo.109865"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-agg"	-0.2125
+"Wargo.115690"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-agg"	7.0025
+"Wargo.116774"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-agg"	2.01375
+"Wargo.117349"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-agg"	8.5625
+"Wargo.118369"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-agg"	-3.785
+"Wargo.118370"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-agg"	-0.77
+"Wargo.120662"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-agg"	0.452499999999999
+"Wargo.121296"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-agg"	0.02
+"Wargo.121409"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-agg"	-6.02375
+"Wargo.121585"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-agg"	2.83375
+"Wargo.121891"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-agg"	-3.51375
+"Wargo.121892"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-agg"	14.8375
+"Wargo.122114"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-agg"	-5.71
+"Wargo.122410"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-agg"	-0.5825
+"Wargo.122412"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-agg"	2.3
+"Wargo.122637"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-agg"	-5.35625
+"Wargo.122639"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-agg"	17.87
+"Wargo.122724"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-agg"	-2.09
+"Wargo.123009"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-agg"	-0.6675
+"Wargo.123197"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-agg"	4.03875
+"Wargo.123305"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-agg"	2.53875
+"Wargo.123704"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-agg"	-1.70375
+"Wargo.123986"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-agg"	6.4275
+"Wargo.124418"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-agg"	3.34625
+"Wargo.124419"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-agg"	-9.45375
+"Wargo.124421"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-agg"	-0.3125
+"Wargo.126747"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-agg"	9.97
+"Wargo.126802"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-agg"	-4.6925
+"Wargo.127261"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-agg"	2.89625
+"Wargo.127262"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-agg"	0.56375
+"Wargo.130510"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-agg"	3.54625
+"Wargo.130511"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-agg"	-3.26375
+"Wargo.130801"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-agg"	14.405
+"Wargo.131051"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-agg"	-0.6925
+"Wargo.131300"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-agg"	4.89875
+"Wargo.131302"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-agg"	-0.2875
+"Wargo.131512"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-agg"	1.46125
+"Wargo.131541"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-agg"	4.8075
+"Wargo.132265"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-agg"	1.59375
+"Wargo.132266"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-agg"	12.65875
+"Wargo.132268"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-agg"	11.35625
+"Wargo.132538"	"Gopalakrishnan"	"Melanoma"	"NR"	"re-analysis-agg"	2.4625
+"Wargo.133270"	"Gopalakrishnan"	"Melanoma"	"R"	"re-analysis-agg"	38.4225

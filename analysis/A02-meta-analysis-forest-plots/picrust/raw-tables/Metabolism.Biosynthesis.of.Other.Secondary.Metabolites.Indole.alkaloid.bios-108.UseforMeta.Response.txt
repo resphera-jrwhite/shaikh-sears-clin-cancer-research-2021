@@ -1,0 +1,303 @@
+Chaput	R	0.000140961214522021
+Chaput	R	0
+Chaput	R	6.92122469686964e-05
+Chaput	R	0
+Chaput	R	0
+Chaput	R	0.000141217008175973
+Chaput	R	0
+Chaput	R	0
+Chaput	R	0
+Chaput	NR	0
+Chaput	NR	0.000272979406434013
+Chaput	NR	0
+Chaput	NR	0
+Chaput	NR	0
+Chaput	NR	0.000129176185337026
+Chaput	NR	5.42919407956947e-05
+Chaput	NR	7.37961087311898e-05
+Chaput	NR	0
+Chaput	NR	0
+Chaput	NR	0
+Chaput	NR	6.82400548650148e-05
+Chaput	NR	0
+Chaput	NR	0.000937730036899863
+Chaput	NR	0.000168562716286995
+Chaput	NR	0
+Chaput	NR	0.000340343766652955
+Frankel	R	0
+Frankel	R	2.70358197576021e-05
+Frankel	R	0
+Frankel	R	0
+Frankel	R	2.01148881953968e-05
+Frankel	R	0
+Frankel	R	0
+Frankel	R	0
+Frankel	R	0
+Frankel	R	0
+Frankel	R	0
+Frankel	R	1.4921154011e-05
+Frankel	R	0
+Frankel	R	0
+Frankel	R	0
+Frankel	R	0
+Frankel	R	2.43237836132056e-05
+Frankel	R	0
+Frankel	R	0
+Frankel	R	0
+Frankel	R	0
+Frankel	R	2.42298482169977e-05
+Frankel	R	0
+Frankel	R	0
+Frankel	NR	2.00560908692969e-05
+Frankel	NR	1.20329529637007e-05
+Frankel	NR	0
+Frankel	NR	9.48080549303089e-06
+Frankel	NR	0.000181267700432994
+Frankel	NR	0
+Frankel	NR	0
+Frankel	NR	2.33117594654957e-05
+Frankel	NR	0
+Frankel	NR	0
+Frankel	NR	0
+Frankel	NR	0
+Frankel	NR	0
+Frankel	NR	0
+Frankel	NR	0
+Gopalakrishnan	R	0
+Gopalakrishnan	R	0
+Gopalakrishnan	R	0.000154589980292991
+Gopalakrishnan	R	0
+Gopalakrishnan	R	0
+Gopalakrishnan	R	0
+Gopalakrishnan	R	0
+Gopalakrishnan	R	0
+Gopalakrishnan	R	0
+Gopalakrishnan	R	0
+Gopalakrishnan	R	0
+Gopalakrishnan	R	0
+Gopalakrishnan	R	0
+Gopalakrishnan	R	0
+Gopalakrishnan	R	0
+Gopalakrishnan	R	0
+Gopalakrishnan	R	0
+Gopalakrishnan	R	0
+Gopalakrishnan	R	0
+Gopalakrishnan	R	0
+Gopalakrishnan	R	0
+Gopalakrishnan	R	0
+Gopalakrishnan	R	0
+Gopalakrishnan	R	0
+Gopalakrishnan	R	0
+Gopalakrishnan	R	0
+Gopalakrishnan	R	0
+Gopalakrishnan	R	0
+Gopalakrishnan	R	3.6980942426003e-05
+Gopalakrishnan	R	0
+Gopalakrishnan	NR	0
+Gopalakrishnan	NR	0
+Gopalakrishnan	NR	0
+Gopalakrishnan	NR	0
+Gopalakrishnan	NR	0
+Gopalakrishnan	NR	0
+Gopalakrishnan	NR	0
+Gopalakrishnan	NR	0
+Gopalakrishnan	NR	0
+Gopalakrishnan	NR	0
+Gopalakrishnan	NR	0
+Gopalakrishnan	NR	0
+Gopalakrishnan	NR	0
+Matson	R	0
+Matson	R	0
+Matson	R	0
+Matson	R	0
+Matson	R	0
+Matson	R	0
+Matson	R	0
+Matson	R	7.91859839225036e-05
+Matson	R	0
+Matson	R	0
+Matson	R	0
+Matson	R	0
+Matson	R	7.38799558581992e-06
+Matson	R	0
+Matson	R	0
+Matson	R	0
+Matson	NR	0
+Matson	NR	0
+Matson	NR	0
+Matson	NR	0
+Matson	NR	5.21392445262793e-06
+Matson	NR	0
+Matson	NR	0
+Matson	NR	0
+Matson	NR	6.74464919999848e-06
+Matson	NR	0
+Matson	NR	0
+Matson	NR	0
+Matson	NR	0
+Matson	NR	0
+Matson	NR	0
+Matson	NR	0
+Matson	NR	0
+Matson	NR	0
+Matson	NR	0
+Matson	NR	4.95651721791875e-06
+Matson	NR	0
+Matson	NR	0
+Matson	NR	0
+Matson	NR	0
+Matson	NR	0
+Matson	NR	0
+Routy NSCLC	R	6.4793298040396e-05
+Routy NSCLC	R	0
+Routy NSCLC	R	0
+Routy NSCLC	R	5.24031014252006e-05
+Routy NSCLC	R	0.000136183750009996
+Routy NSCLC	R	0
+Routy NSCLC	R	0
+Routy NSCLC	R	0
+Routy NSCLC	R	0
+Routy NSCLC	R	0.000143548225025993
+Routy NSCLC	R	3.52497071631017e-05
+Routy NSCLC	R	0
+Routy NSCLC	R	0
+Routy NSCLC	R	0
+Routy NSCLC	R	0
+Routy NSCLC	R	0.000126110879206941
+Routy NSCLC	R	0.00022351763107095
+Routy NSCLC	R	0.000136227099657029
+Routy NSCLC	R	0
+Routy NSCLC	R	0
+Routy NSCLC	R	0
+Routy NSCLC	R	7.9815976285085e-05
+Routy NSCLC	R	8.03492298927955e-05
+Routy NSCLC	R	0
+Routy NSCLC	R	8.72582075070171e-05
+Routy NSCLC	R	0.000214620829381005
+Routy NSCLC	R	0
+Routy NSCLC	R	0
+Routy NSCLC	R	0
+Routy NSCLC	R	0
+Routy NSCLC	R	0
+Routy NSCLC	R	0
+Routy NSCLC	R	0
+Routy NSCLC	R	0
+Routy NSCLC	R	0
+Routy NSCLC	R	4.46424386199989e-05
+Routy NSCLC	R	0
+Routy NSCLC	R	9.62277286936045e-05
+Routy NSCLC	R	0
+Routy NSCLC	R	2.72704489507033e-05
+Routy NSCLC	R	0
+Routy NSCLC	NR	0
+Routy NSCLC	NR	0
+Routy NSCLC	NR	0
+Routy NSCLC	NR	5.02062724704018e-05
+Routy NSCLC	NR	0
+Routy NSCLC	NR	0
+Routy NSCLC	NR	4.21740912748872e-05
+Routy NSCLC	NR	3.44890974790093e-05
+Routy NSCLC	NR	0
+Routy NSCLC	NR	0
+Routy NSCLC	NR	0
+Routy NSCLC	NR	0
+Routy NSCLC	NR	0
+Routy NSCLC	NR	0
+Routy NSCLC	NR	4.35550313466054e-05
+Routy NSCLC	NR	0
+Routy NSCLC	NR	0
+Routy NSCLC	NR	0.000146431622436024
+Routy NSCLC	NR	0
+Routy NSCLC	NR	5.18075659768958e-05
+Routy NSCLC	NR	3.52033096743858e-05
+Routy NSCLC	NR	5.17428813437054e-05
+Routy NSCLC	NR	0
+Routy NSCLC	NR	0
+Routy NSCLC	NR	0
+Routy NSCLC	NR	0
+Routy NSCLC	NR	0
+Routy NSCLC	NR	0
+Routy NSCLC	NR	7.02637984046986e-05
+Routy NSCLC	NR	0
+Routy NSCLC	NR	0
+Routy NSCLC	NR	0
+Routy NSCLC	NR	0
+Routy NSCLC	NR	0
+Routy NSCLC	NR	5.53766581848102e-05
+Routy NSCLC	NR	0
+Routy NSCLC	NR	0
+Routy NSCLC	NR	7.29065964429889e-05
+Routy NSCLC	NR	3.12473439758015e-05
+Routy NSCLC	NR	0
+Routy NSCLC	NR	0
+Routy NSCLC	NR	0
+Routy NSCLC	NR	2.32884990912e-05
+Routy NSCLC	NR	0
+Routy NSCLC	NR	0
+Routy NSCLC	NR	6.65659745359028e-05
+Routy RCC	R	0
+Routy RCC	R	0.000151027173563983
+Routy RCC	R	0
+Routy RCC	R	0
+Routy RCC	R	8.77276092822896e-05
+Routy RCC	R	7.44862867022245e-05
+Routy RCC	R	3.73624222208001e-05
+Routy RCC	R	6.37536152283984e-05
+Routy RCC	R	4.97013940246985e-05
+Routy RCC	R	0
+Routy RCC	R	0
+Routy RCC	R	0.000185300826627032
+Routy RCC	R	0
+Routy RCC	R	0
+Routy RCC	R	0
+Routy RCC	R	0
+Routy RCC	R	3.99303136167067e-05
+Routy RCC	R	0
+Routy RCC	R	0
+Routy RCC	R	0.000203215581757934
+Routy RCC	R	3.97757285321907e-05
+Routy RCC	R	4.06895412417109e-05
+Routy RCC	R	0
+Routy RCC	R	0
+Routy RCC	R	0
+Routy RCC	R	2.57116337428996e-05
+Routy RCC	R	9.67856204958023e-05
+Routy RCC	R	0
+Routy RCC	R	0
+Routy RCC	R	0
+Routy RCC	R	0.000149188210997966
+Routy RCC	R	0
+Routy RCC	R	0
+Routy RCC	R	2.95734969418029e-05
+Routy RCC	R	0.000152017500254974
+Routy RCC	R	0
+Routy RCC	R	0
+Routy RCC	R	0.000115313254221019
+Routy RCC	R	0
+Routy RCC	R	8.79399194470139e-05
+Routy RCC	R	0
+Routy RCC	R	0
+Routy RCC	R	7.69049549605954e-05
+Routy RCC	R	2.90927794922075e-05
+Routy RCC	R	0
+Routy RCC	NR	0
+Routy RCC	NR	0
+Routy RCC	NR	3.23158160066962e-05
+Routy RCC	NR	0
+Routy RCC	NR	0
+Routy RCC	NR	4.31085023760916e-05
+Routy RCC	NR	0
+Routy RCC	NR	0.000132079400852974
+Routy RCC	NR	0.000249654436650986
+Routy RCC	NR	0
+Routy RCC	NR	5.45836929034047e-05
+Routy RCC	NR	0.000175885948516001
+Routy RCC	NR	0
+Routy RCC	NR	0
+Routy RCC	NR	0
+Routy RCC	NR	0
+Routy RCC	NR	2.85052962840039e-05
+Routy RCC	NR	0
+Routy RCC	NR	3.36630970318925e-05
+Routy RCC	NR	0
+Routy RCC	NR	0

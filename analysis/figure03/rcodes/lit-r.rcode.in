@@ -1,0 +1,14 @@
+library(meta)
+t1<-read.table("../analysis/figure03/tables/lit-r.txt",sep="	", header=TRUE)
+meta1 <- metacont(n.e, mean.e, sd.e, n.c, mean.c, sd.c, data=t1, sm="SMD", studlab=paste(study,year))
+summary(meta1)
+print(c("efixedp",meta1$pval.fixed))
+print(c("erandp",meta1$pval.random))
+
+out1 <- paste("../analysis/figure03/pdfs/", "lit-r.pdf", sep="")
+
+pdf(out1,paper="special",width=16,height=5,bg="white")
+forest(meta1, col.diamond.fixed="#2980B9", col.diamond.random="#C0392B", lab.e="Responder", lab.c="Non-responder", leftcols=c("studlab", "n.c", "n.e"), leftlabs=c("Study", "Non-responder", "Responder"), xlim=c(-2,2))
+dev.off()
+
+

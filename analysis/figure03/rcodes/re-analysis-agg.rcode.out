@@ -1,0 +1,62 @@
+
+R version 3.5.3 (2019-03-11) -- "Great Truth"
+Copyright (C) 2019 The R Foundation for Statistical Computing
+Platform: x86_64-apple-darwin15.6.0 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[Previously saved workspace restored]
+
+> library(meta)
+Loading 'meta' package (version 4.9-6).
+Type 'help(meta)' for a brief overview.
+> t1<-read.table("../analysis/figure03/tables/re-analysis-agg.txt",sep="	", header=TRUE)
+> meta1 <- metacont(n.e, mean.e, sd.e, n.c, mean.c, sd.c, data=t1, sm="SMD", studlab=paste(study,year))
+> summary(meta1)
+Number of studies combined: k = 6
+
+                        SMD           95%-CI    z  p-value
+Fixed effect model   0.5404 [0.3008; 0.7801] 4.42 < 0.0001
+Random effects model 0.5470 [0.2928; 0.8012] 4.22 < 0.0001
+
+Quantifying heterogeneity:
+tau^2 = 0.0094; H = 1.05 [1.00; 2.08]; I^2 = 9.1% [0.0%; 76.9%]
+
+Test of heterogeneity:
+    Q d.f. p-value
+ 5.50    5  0.3578
+
+Details on meta-analytical method:
+- Inverse variance method
+- DerSimonian-Laird estimator for tau^2
+- Hedges' g (bias corrected standardised mean difference)
+> print(c("efixedp",meta1$pval.fixed))
+[1] "efixedp"              "9.85837990022654e-06"
+> print(c("erandp",meta1$pval.random))
+[1] "erandp"               "2.47273884464104e-05"
+> 
+> out1 <- paste("../analysis/figure03/pdfs/", "re-analysis-agg.pdf", sep="")
+> 
+> pdf(out1,paper="special",width=16,height=5,bg="white")
+> forest(meta1, col.diamond.fixed="#2980B9", col.diamond.random="#C0392B", lab.e="Responder", lab.c="Non-responder", leftcols=c("studlab", "n.c", "n.e"), leftlabs=c("Study", "Non-responder", "Responder"), xlim=c(-2,2))
+> dev.off()
+null device 
+          1 
+> 
+> 
+> 
+> proc.time()
+   user  system elapsed 
+  1.087   0.093   1.169 

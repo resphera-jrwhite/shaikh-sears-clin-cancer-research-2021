@@ -1,0 +1,57 @@
+
+R version 3.5.3 (2019-03-11) -- "Great Truth"
+Copyright (C) 2019 The R Foundation for Statistical Computing
+Platform: x86_64-apple-darwin15.6.0 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[Previously saved workspace restored]
+
+> library(meta)
+Loading 'meta' package (version 4.9-6).
+Type 'help(meta)' for a brief overview.
+>     t1<-read.table("../analysis/A02-meta-analysis-forest-plots/picrust/tables/Human.Diseases.Metabolic.Diseases.Type.II.diabetes.mellitus-82.UseforMeta.Response.txt",sep="	", header=TRUE)
+>     meta1 <- metacont(n.e, mean.e, sd.e, n.c, mean.c, sd.c, data=t1, sm="SMD", studlab=paste(study,year))
+>     summary(meta1)
+Number of studies combined: k = 6
+
+                        SMD            95%-CI    z p-value
+Fixed effect model   0.0331 [-0.2014; 0.2677] 0.28  0.7819
+Random effects model 0.0331 [-0.2014; 0.2677] 0.28  0.7819
+
+Quantifying heterogeneity:
+tau^2 = 0; H = 1.00 [1.00; 1.26]; I^2 = 0.0% [0.0%; 37.3%]
+
+Test of heterogeneity:
+    Q d.f. p-value
+ 2.02    5  0.8458
+
+Details on meta-analytical method:
+- Inverse variance method
+- DerSimonian-Laird estimator for tau^2
+- Hedges' g (bias corrected standardised mean difference)
+> 
+>       out1 <- paste("../analysis/A02-meta-analysis-forest-plots/picrust/pdfs/", "Human.Diseases.Metabolic.Diseases.Type.II.diabetes.mellitus-82.UseforMeta.Response.pdf", sep="")
+>       pdf(out1,paper="special",width=16,height=5,bg="white")
+>       forest(meta1, col.diamond.fixed="#2980B9", col.diamond.random="#C0392B", lab.e="Responder", lab.c="Non-responder", leftcols=c("studlab", "n.c", "n.e"), leftlabs=c("Study", "Non-responder", "Responder"), xlim=c(-2,2))
+>       dev.off()
+null device 
+          1 
+> 
+>     
+> 
+> proc.time()
+   user  system elapsed 
+  1.524   0.129   1.638 
